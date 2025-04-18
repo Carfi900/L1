@@ -1,14 +1,38 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="PortuguesaTelevision.ve"tvg-logo="https://intervenhosting.net/roku/portutv/portutv.jpg"group-title="Undefined":http-referrer="":http-user-agent="",PortuTV (480p)
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
+#EXTINF:-1 tvg-id="SBTInterior.br"tvg-logo="https://i.imgur.com/IkZfa4j.png"group-title="General":http-referrer="":http-user-agent="",SBT Interior (720p)
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-id="Record.br"tvg-logo="https://i.imgur.com/sz9gTTr.png"group-title="General":http-referrer="":http-user-agent="",RecordTV
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-id="SICTV.br"tvg-logo="https://i.imgur.com/mHxQyB2.png"group-title="Undefined":http-referrer="":http-user-agent="",SIC TV (720p)
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+#EXTINF:-1 tvg-id="MTV.br"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png"group-title="Entertainment":http-referrer="":http-user-agent="",Pluto TV MTV (Brazil) (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVCineDrama.br"tvg-logo="https://i.imgur.com/lf5oME7.png"group-title="Movies":http-referrer="":http-user-agent="",Pluto TV Cine Drama (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="RecordNews.br"tvg-logo="https://i.imgur.com/HZDRG0K.png"group-title="News":http-referrer="":http-user-agent="",Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+#EXTINF:-1 tvg-id="RedeNGT.br"tvg-logo="https://i.imgur.com/ZFN1R4B.png"group-title="Entertainment":http-referrer="":http-user-agent="",Rede NGT (1080p)
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.br"tvg-logo="https://i.imgur.com/aiGQtzI.png"group-title="Movies":http-referrer="":http-user-agent="",MyTime Movie Network Brazil (720p)
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MasterShowTV.br"tvg-logo="https://i.imgur.com/haXHFCT.png"group-title="Music":http-referrer="":http-user-agent="",Master Show TV (360p)
+https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
 #EXTINF:-1 tvg-id="24HorasInternacional.es"tvg-logo="https://i.imgur.com/IUVRm5L.png"group-title="News":http-referrer="":http-user-agent="",24 Horas Internacional [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg-id="1001Noites.br"tvg-logo="https://i.imgur.com/dWA9y2J.png"group-title="Shop":http-referrer="":http-user-agent="",1001 Noites (720p) [Not 24/7]
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AdessoTV.br"tvg-logo="https://i.imgur.com/KgetM8j.png"group-title="General":http-referrer="":http-user-agent="",Adesso TV (720p)
-https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar"tvg-logo="https://i.imgur.com/FqFxog1.png"group-title="Auto":http-referrer="":http-user-agent="",Garage TV Latin America
+https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="AmazonSat.br"tvg-logo="https://i.imgur.com/7rjCS5i.png"group-title="Undefined":http-referrer="":http-user-agent="",Amazon Sat (1080p)
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-id="CanalGov.br"tvg-logo="https://i.imgur.com/rHPY0Yv.png"group-title="Legislative":http-referrer="":http-user-agent="",Canal Gov (720p)
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="AdessoTV.br"tvg-logo="https://i.imgur.com/KgetM8j.png"group-title="General":http-referrer="":http-user-agent="",Adesso TV (720p)
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-id="BemTV.br"tvg-logo="https://i.imgur.com/ifGQGJx.png"group-title="General":http-referrer="":http-user-agent="",Bem TV (720p)
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="1001Noites.br"tvg-logo="https://i.imgur.com/dWA9y2J.png"group-title="Shop":http-referrer="":http-user-agent="",1001 Noites (720p) [Not 24/7]
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BoasNovas.br"tvg-logo="https://i.imgur.com/ZqhizdP.png"group-title="Undefined":http-referrer="":http-user-agent="",Boas Novas (1080p)
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal25Jundiai.br"tvg-logo="https://i.imgur.com/7igGMwH.png"group-title="Undefined":http-referrer="":http-user-agent="",Canal 25 Jundiaí (404p) [Not 24/7]
@@ -21,8 +45,6 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalEducacao.br"tvg-logo="https://i.imgur.com/OOB7nrS.png"group-title="Education":http-referrer="":http-user-agent="",Canal Educação (720p)
 https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="CanalGov.br"tvg-logo="https://i.imgur.com/rHPY0Yv.png"group-title="Legislative":http-referrer="":http-user-agent="",Canal Gov (720p)
-https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br"tvg-logo="https://i.imgur.com/G0x4xqa.png"group-title="News":http-referrer="":http-user-agent="",Canal Metropolitano de Noticias (720p)
 https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalRural.br"tvg-logo="https://i.imgur.com/w9R9IIX.png"group-title="Outdoor":http-referrer="":http-user-agent="",Canal Rural (1080p)
@@ -59,8 +81,6 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
 #EXTINF:-1 tvg-id="FonteTV.br"tvg-logo="https://i.imgur.com/7q2BmNc.png"group-title="Religious":http-referrer="":http-user-agent="",Fonte TV (1080p) [Not 24/7]
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-#EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar"tvg-logo="https://i.imgur.com/FqFxog1.png"group-title="Auto":http-referrer="":http-user-agent="",Garage TV Latin America
-https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="GospelCartoon.br"tvg-logo="https://i.imgur.com/yxjPno5.png"group-title="Religious":http-referrer="":http-user-agent="",Gospel Cartoon (360p)
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-id="GospelMovieTV.br"tvg-logo="https://i.imgur.com/cQN3nWt.png"group-title="Religious":http-referrer="":http-user-agent="",Gospel Movie TV (360p)
@@ -69,26 +89,20 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ISTV.br"tvg-logo="https://i.imgur.com/RUKVrOH.png"group-title="General":http-referrer="":http-user-agent="",ISTV (720p) [Not 24/7]
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:-1 tvg-id="Loading.br"tvg-logo="https://i.imgur.com/R0aflu1.png"group-title="Undefined":http-referrer="":http-user-agent="",Loading (720p)
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="JovemPanNews.br"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png"group-title="News":http-referrer="":http-user-agent="",Jovem Pan News (JP News) (1080p) [Not 24/7]
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 tvg-id="KuriakosKids.pt"tvg-logo="https://i.imgur.com/SRX6EPY.png"group-title="Animation;Kids;Religious":http-referrer="":http-user-agent="",Kuriakos Kids (1080p)
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Loading.br"tvg-logo="https://i.imgur.com/R0aflu1.png"group-title="Undefined":http-referrer="":http-user-agent="",Loading (720p)
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-id="MasterShowTV.br"tvg-logo="https://i.imgur.com/haXHFCT.png"group-title="Music":http-referrer="":http-user-agent="",Master Show TV (360p)
-https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
 #EXTINF:-1 tvg-id="MKKWebTV.br"tvg-logo="https://i.imgur.com/A8Yhtid.png"group-title="General":http-referrer="":http-user-agent="",MKK Web TV (720p) [Not 24/7]
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
-#EXTINF:-1 tvg-id="MyTimeMovieNetwork.br"tvg-logo="https://i.imgur.com/aiGQtzI.png"group-title="Movies":http-referrer="":http-user-agent="",MyTime Movie Network Brazil (720p)
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NovaEraTV.br"tvg-logo="https://i.imgur.com/IK3F9Uq.png"group-title="Undefined":http-referrer="":http-user-agent="",Nova Era TV (1080p) [Not 24/7]
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-id="NovaTVAgrotour.br"tvg-logo="https://i.imgur.com/cgN2hfm.png"group-title="Documentary;Science":http-referrer="":http-user-agent="",Nova TV Agrotour (360p)
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
 #EXTINF:-1 tvg-id="NovoTempo.br"tvg-logo="https://i.imgur.com/exdDHml.png"group-title="Religious":http-referrer="":http-user-agent="",Novo Tempo (720p)
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineDrama.br"tvg-logo="https://i.imgur.com/lf5oME7.png"group-title="Movies":http-referrer="":http-user-agent="",Pluto TV Cine Drama (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVCineFamilia.br"tvg-logo="https://i.imgur.com/r9UhBfV.png"group-title="Movies":http-referrer="":http-user-agent="",Pluto TV Cine Família (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="NickClassico.br"tvg-logo="https://i.imgur.com/Crip6wT.png"group-title="Kids":http-referrer="":http-user-agent="",Pluto TV Classic Nick (Brazil) (240p)
@@ -99,8 +113,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d344
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVMisterios.br"tvg-logo="https://i.imgur.com/gwxX1Y3.png"group-title="Education":http-referrer="":http-user-agent="",Pluto TV Misterios (480p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="MTV.br"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png"group-title="Entertainment":http-referrer="":http-user-agent="",Pluto TV MTV (Brazil) (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVNatureza.br"tvg-logo="https://i.imgur.com/RuyQQ6M.png"group-title="Education":http-referrer="":http-user-agent="",Pluto TV Natureza (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="NickJrClub.br"tvg-logo="https://i.imgur.com/GCenuyl.png"group-title="Kids":http-referrer="":http-user-agent="",Pluto TV Nick Jr. Club (720p)
@@ -109,22 +121,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVVidaReal.br"tvg-logo="https://i.imgur.com/dRbBbxP.png"group-title="Education":http-referrer="":http-user-agent="",Pluto TV Vida Real (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PortuguesaTelevision.ve"tvg-logo="https://intervenhosting.net/roku/portutv/portutv.jpg"group-title="Undefined":http-referrer="":http-user-agent="",PortuTV (480p)
-https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
 #EXTINF:-1 tvg-id="PrimerTV.br"tvg-logo="https://i.imgur.com/PMptSP3.png"group-title="General":http-referrer="":http-user-agent="",Primer TV (1080p)
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiItaliaAmerica.it"tvg-logo="https://i.imgur.com/1nN4rEP.png"group-title="Undefined":http-referrer="":http-user-agent="",Rai Italia America (360p)
 http://210.210.155.69/s/s63/S4/mnf.m3u8
 #EXTINF:-1 tvg-id="RBATV.br"tvg-logo="https://i.imgur.com/ZWFxlU1.png"group-title="Undefined":http-referrer="":http-user-agent="",RBATV (720p)
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br"tvg-logo="https://i.imgur.com/HZDRG0K.png"group-title="News":http-referrer="":http-user-agent="",Record News
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
-#EXTINF:-1 tvg-id="Record.br"tvg-logo="https://i.imgur.com/sz9gTTr.png"group-title="General":http-referrer="":http-user-agent="",RecordTV
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-id="RedeMais.br"tvg-logo="https://i.imgur.com/JSiZG2B.png"group-title="Undefined":http-referrer="":http-user-agent="",Rede Mais (720p)
 https://5a0c3936c25c8.streamlock.net/8010/8010/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeNGT.br"tvg-logo="https://i.imgur.com/ZFN1R4B.png"group-title="Entertainment":http-referrer="":http-user-agent="",Rede NGT (1080p)
-https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:-1 tvg-id="RedeSPTV.br"tvg-logo="https://i.imgur.com/kh3LGAP.png"group-title="General":http-referrer="":http-user-agent="",Rede SPTV (360p)
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeSul.br"tvg-logo="https://i.imgur.com/eUM67rj.png"group-title="General":http-referrer="":http-user-agent="",Rede Sul (720p)
@@ -136,12 +140,8 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
 #EXTINF:-1 tvg-id="SantaCeciliaTV.br"tvg-logo="https://i.imgur.com/KxYsq1d.png"group-title="Education":http-referrer="":http-user-agent="",Santa Cecilia TV (1080p) [Not 24/7]
 http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTInterior.br"tvg-logo="https://i.imgur.com/IkZfa4j.png"group-title="General":http-referrer="":http-user-agent="",SBT Interior (720p)
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="SertaoTV.br"tvg-logo="https://i.imgur.com/b5xOCsC.png"group-title="General":http-referrer="":http-user-agent="",Sertão TV (720p)
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="SICTV.br"tvg-logo="https://i.imgur.com/mHxQyB2.png"group-title="Undefined":http-referrer="":http-user-agent="",SIC TV (720p)
-https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 #EXTINF:-1 tvg-id="STZTV.br"tvg-logo="https://i.imgur.com/SeF2I7q.png"group-title="Culture;News":http-referrer="":http-user-agent="",STZ TV (720p)
 https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TCM10HD.br"tvg-logo="https://i.imgur.com/aMuMVvB.png"group-title="News":http-referrer="":http-user-agent="",TCM 10 HD (1080p)
