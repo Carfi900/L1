@@ -33,6 +33,10 @@ https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
 
 #internacionais
 
+#EXTINF:-1 tvg-id="ext" tvg-name="RTL Alemanha" tvg-logo="" group-title="CANAIS INTERNACIONAIS",RTL Alemanha
+https://strm.hdtvizlecanli.com/live/rtl.m3u8
+
+
 #EXTINF:-1 tvg-id="ext" tvg-name="LA 1" tvg-logo="" group-title="CANAIS INTERNACIONAIS",LA 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 
