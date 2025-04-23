@@ -459,15 +459,6 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 
 #EXTINF:-1 tvg-id="ext" tvg-name="CNN PORTUGAL" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69673434b607b4db5fb14633654a0ced.webp" group-title="CANAIS DE NOTICIAS",CNN PORTUGAL
 https://video-auth6.iol.pt/edge_servers/cnn-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDI1IDQ6MjI6MzEgUE0maGFzaF92YWx1ZT1CRzkzSkdxK0JNVzhlWm1LMWo1Yk93PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MWRhNDUzNjktNjY1ZC00ZTVkLWFmZWMtOTNmYTQzZTY3NGNl
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1393632,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
-https://video-auth6.iol.pt/edge_servers/cnn-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMS8yMDI1IDEwOjY6MzYgUE0maGFzaF92YWx1ZT1ZZDN6QlQvSXVhYlh5SVdCUHp4dzF3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDMzZmQzYjEtYzVhNS00ZTY0LWIxOWMtYzY0MzA5ZjMwMDdl
-#EXT-X-STREAM-INF:BANDWIDTH=871507,RESOLUTION=854x480,CODECS="avc1.66.30,mp4a.40.2"
-https://video-auth6.iol.pt/edge_servers/cnn-480p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMS8yMDI1IDEwOjY6MzYgUE0maGFzaF92YWx1ZT1ZZDN6QlQvSXVhYlh5SVdCUHp4dzF3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDMzZmQzYjEtYzVhNS00ZTY0LWIxOWMtYzY0MzA5ZjMwMDdl
-#EXT-X-STREAM-INF:BANDWIDTH=576951,RESOLUTION=640x360,CODECS="avc1.66.30,mp4a.40.2"
-https://video-auth6.iol.pt/edge_servers/cnn-360p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMS8yMDI1IDEwOjY6MzYgUE0maGFzaF92YWx1ZT1ZZDN6QlQvSXVhYlh5SVdCUHp4dzF3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDMzZmQzYjEtYzVhNS00ZTY0LWIxOWMtYzY0MzA5ZjMwMDdl
-#EXT-X-STREAM-INF:BANDWIDTH=346578,RESOLUTION=426x240,CODECS="avc1.42c015,mp4a.40.2"
-https://video-auth6.iol.pt/edge_servers/cnn-240p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMS8yMDI1IDEwOjY6MzYgUE0maGFzaF92YWx1ZT1ZZDN6QlQvSXVhYlh5SVdCUHp4dzF3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDMzZmQzYjEtYzVhNS00ZTY0LWIxOWMtYzY0MzA5ZjMwMDdl
 
 #EXTINF:-1 tvg-id="ext" tvg-name="CNN Brasil" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-4-1.png" group-title="CANAIS DE NOTICIAS",CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
