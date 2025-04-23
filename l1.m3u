@@ -166,7 +166,7 @@ https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u
 #EXTINF:-1 tvg-id="ext" tvg-name="Tele-Quâec (CA)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3d0d65cb484aed5606519d2c2af71f30.webp" group-title="CANAIS INTERNACIONAIS",Tele-Quâec (CA)
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Localish.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlAKcIzuEeA7uteG7smd5lxT8tuDBoA-IGOetxmVhVfA&s" group-title="CANAIS INTERNACIONAIS",Localish.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Localish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlAKcIzuEeA7uteG7smd5lxT8tuDBoA-IGOetxmVhVfA&s" group-title="CANAIS INTERNACIONAIS",Localish.m3u8
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Localish.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Televisa (MX)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8b87fae8b98e6377363375486d6308f6.webp" group-title="CANAIS INTERNACIONAIS",Televisa (MX)
@@ -448,16 +448,15 @@ https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Rede SMART" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a36370d0facd85b08f61d4d9414ba2a5.webp" group-title="CANAIS DE VARIEDADES",Rede SMART
 https://5ffab78b24f94.streamlock.net/smart/smart/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Miami TV Fashion" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfHBFvjpbrmKWJEuujDZqhdNlB_4-kAg4enllTlebJow&s" group-title="CANAIS DE VARIEDADES",Miami TV Fashion
-https://59ec5453559f0.streamlock.net/miamitvfashion/fashion/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="SIC NOTICIAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStp_7Sy0S_8hjsxHuou7KjrV4Jzk20T5ExH2-3U0eeyPjjcTeYxSemXEA&s" group-title="CANAIS DE NOTICIAS",SIC NOTICIAS
-https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+# Canais Noticias
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Jovem Pan News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69673434b607b4db5fb14633654a0ced.webp" group-title="CANAIS DE NOTICIAS",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="CNN PORTUGAL" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69673434b607b4db5fb14633654a0ced.webp" group-title="CANAIS DE NOTICIAS",CNN PORTUGAL
+#EXTINF:-1 tvg-id="ext" tvg-name="SIC NOTICIAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStp_7Sy0S_8hjsxHuou7KjrV4Jzk20T5ExH2-3U0eeyPjjcTeYxSemXEA&s" group-title="CANAIS DE NOTICIAS",SIC NOTICIAS
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="CNN PORTUGAL" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-4-1.png" group-title="CANAIS DE NOTICIAS",CNN PORTUGAL
 https://video-auth6.iol.pt/edge_servers/cnn-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDI1IDQ6MjI6MzEgUE0maGFzaF92YWx1ZT1CRzkzSkdxK0JNVzhlWm1LMWo1Yk93PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MWRhNDUzNjktNjY1ZC00ZTVkLWFmZWMtOTNmYTQzZTY3NGNl
 
 #EXTINF:-1 tvg-id="ext" tvg-name="CNN Brasil" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-4-1.png" group-title="CANAIS DE NOTICIAS",CNN Brasil
