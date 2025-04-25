@@ -2,22 +2,22 @@
 
 # Portugueses sites https://www.freeshot.live
 
-#EXTINF:-1 tvg-id="SC.pt" tvg-name="SIC" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" group-title="TV",SIC
+#EXTINF:-1 tvg-id="SC.pt" tvg-name="SIC" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" group-title="PORTUGAL",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="SIC (PT)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz8b9eP4mtjobnC4Sl7PZNksOsBABJNGo2-Q_BLvqu4w&s" group-title="CANAIS INTERNACIONAIS",SIC (PT)
+#EXTINF:-1 tvg-id="ext" tvg-name="SIC (PT)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz8b9eP4mtjobnC4Sl7PZNksOsBABJNGo2-Q_BLvqu4w&s" group-title="PORTUGAL",SIC (PT)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="TVI (PT)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/467691868df05a4035d5b6e8d361e79f.webp" group-title="CANAIS INTERNACIONAIS",TVI (PT)
+#EXTINF:-1 tvg-id="ext" tvg-name="TVI (PT)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/467691868df05a4035d5b6e8d361e79f.webp" group-title="PORTUGAL",TVI (PT)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="RTP" " group-title="CANAIS INTERNACIONAIS",RTP (PT)
+#EXTINF:-1 tvg-id="ext" tvg-name="RTP" " group-title="PORTUGAL",RTP (PT)
 https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/chunklist_w1345743644.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="TVI FICÇÃO (PT)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a464ae68b020893d77567b327533efa8.webp" group-title="CANAIS DE FILMES",TVI FICÇÃO (PT)
+#EXTINF:-1 tvg-id="ext" tvg-name="TVI FICÇÃO (PT)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a464ae68b020893d77567b327533efa8.webp" group-title="PORTUGAL",TVI FICÇÃO (PT)
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="TVI Reality (PT)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROzDVz6_bzxazul3nVNNGqULXUKuvPGo66afQNLtbKXNtqH-oDBATUXgQ&s" group-title="CANAIS DE VARIEDADES",TVI Reality (PT)
+#EXTINF:-1 tvg-id="ext" tvg-name="TVI Reality (PT)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROzDVz6_bzxazul3nVNNGqULXUKuvPGo66afQNLtbKXNtqH-oDBATUXgQ&s" group-title="PORTUGAL",TVI Reality (PT)
 https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 
 # Principais BR
