@@ -36,50 +36,50 @@ https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
 
 #internacionais
 
-#EXTINF:-1 tvg-id="ext" tvg-name="RTL Alemanha" tvg-logo="" group-title="CANAIS INTERNACIONAIS",RTL Alemanha
+#EXTINF:-1 tvg-id="ext" tvg-name="RTL Alemanha" tvg-logo="" group-title="ALEMANHA",RTL Alemanha
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
 
 
-#EXTINF:-1 tvg-id="ext" tvg-name="LA 1" tvg-logo="" group-title="CANAIS INTERNACIONAIS",LA 1
+#EXTINF:-1 tvg-id="ext" tvg-name="LA 1" tvg-logo="" group-title="ESPANHA",LA 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="LA 2" tvg-logo="" group-title="CANAIS INTERNACIONAIS",LA 2
+#EXTINF:-1 tvg-id="ext" tvg-name="LA 2" tvg-logo="" group-title="ESPANHA",LA 2
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="EL PAÍS" tvg-logo="" group-title="CANAIS INTERNACIONAIS",EL PAÍS
+#EXTINF:-1 tvg-id="ext" tvg-name="EL PAÍS" tvg-logo="" group-title="ESPANHA",EL PAÍS
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="TV3 CAT" tvg-logo="" group-title="CANAIS INTERNACIONAIS",TV3 CAT
+#EXTINF:-1 tvg-id="ext" tvg-name="TV3 CAT" tvg-logo="" group-title="ESPANHA",TV3 CAT
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/bitrate_7.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="TV3 CAT" tvg-logo="" group-title="CANAIS INTERNACIONAIS",TV3 CAT
+#EXTINF:-1 tvg-id="ext" tvg-name="TV3 CAT" tvg-logo="" group-title="ESPANHA",TV3 CAT
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/bitrate_7.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Galicia Europa" tvg-logo="" group-title="CANAIS INTERNACIONAIS",Galicia Europa
+#EXTINF:-1 tvg-id="ext" tvg-name="Galicia Europa" tvg-logo="" group-title="ESPANHA",Galicia Europa
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Galicia America" tvg-logo="" group-title="CANAIS INTERNACIONAIS",Galicia America
+#EXTINF:-1 tvg-id="ext" tvg-name="Galicia America" tvg-logo="" group-title="ESPANHA",Galicia America
 https://crtvg-america.flumotion.cloud/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Galicia 2" tvg-logo="" group-title="CANAIS INTERNACIONAIS",Galicia 2
+#EXTINF:-1 tvg-id="ext" tvg-name="Galicia 2" tvg-logo="" group-title="ESPANHA",Galicia 2
 https://crtvg-events1.flumotion.cloud/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="RNE" tvg-logo="" group-title="CANAIS INTERNACIONAIS",RNE
+#EXTINF:-1 tvg-id="ext" tvg-name="RNE" tvg-logo="" group-title="ESPANHA",RNE
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_para_todos_main.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="ETB 1" tvg-logo="" group-title="CANAIS INTERNACIONAIS",ETB 1
+#EXTINF:-1 tvg-id="ext" tvg-name="ETB 1" tvg-logo="" group-title="ESPANHA",ETB 1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="ETB 2" tvg-logo="" group-title="CANAIS INTERNACIONAIS",ETB 2
+#EXTINF:-1 tvg-id="ext" tvg-name="ETB 2" tvg-logo="" group-title="ESPANHA",ETB 2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Kuriakos TV (PT)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/be908a654dd4c6705a0d6d663c4e853e.webp" group-title="CANAIS INTERNACIONAIS",Kuriakos TV (PT)
+#EXTINF:-1 tvg-id="ext" tvg-name="Kuriakos TV (PT)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/be908a654dd4c6705a0d6d663c4e853e.webp" group-title="PORTUGAL",Kuriakos TV (PT)
 https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Atlanta Channel (US)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/efb6a37bf87e51e533840f01fd31b964.webp" group-title="CANAIS INTERNACIONAIS",Atlanta Channel (US)
+#EXTINF:-1 tvg-id="ext" tvg-name="Atlanta Channel (US)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/efb6a37bf87e51e533840f01fd31b964.webp" group-title="USA",Atlanta Channel (US)
 https://5ed325193d4e1.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Canal capital (CO)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d91de5fba5abcb668b41cf5fc6bcecd1.webp" group-title="CANAIS INTERNACIONAIS",Canal capital (CO)
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal capital (CO)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d91de5fba5abcb668b41cf5fc6bcecd1.webp" group-title="COLOMBIA",Canal capital (CO)
 https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TDI (CO)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bd8e2104ff62730472407b753a70ad65.webp" group-title="CANAIS INTERNACIONAIS",TDI (CO)
