@@ -1,47 +1,24 @@
 #EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/refs/heads/main/EPG/epg-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rtp-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rytec-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-mitv-br.xml.xz,http://www.xmltvepg.nl/rytecES_Basic.xz,http://www.xmltvepg.nl/rytecBE_FR_Basic.xz,http://www.xmltvepg.nl/rytecIT_Basic.xz,http://www.xmltvepg.nl/rytecUK_Basic.xz,https://www.tdtchannels.com/epg/TV.xml.gz"
-
-# Portugueses sites https://www.freeshot.live
-
 #EXTINF:-1 tvg-name="SIC"tvg-id="SC.pt"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png"group-title="PORTUGAL"radio=""media="":http-referrer="":http-user-agent="",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-
 #EXTINF:-1 tvg-name="SIC (PT)"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz8b9eP4mtjobnC4Sl7PZNksOsBABJNGo2-Q_BLvqu4w&s"group-title="PORTUGAL"radio=""media="":http-referrer="":http-user-agent="",SIC (PT)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
-
 #EXTINF:-1 tvg-name="TVI (PT)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/467691868df05a4035d5b6e8d361e79f.webp"group-title="PORTUGAL"radio=""media="":http-referrer="":http-user-agent="",TVI (PT)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-name=""tvg-id="CNNPortugal.pt"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png"group-title="TV"radio=""media="":http-referrer="":http-user-agent="",CNN Portugal
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDI1IDg6Nzo1IFBNJmhhc2hfdmFsdWU9WXA3UkV4eGdzWS9OQ1pzMDA5NnlpQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWRkZmIyODc0LWJhZTMtNDk3OC1iNmFiLWFlMTEyNjNlZWQ2MQ==/
-
-#EXTINF:-1 group-title="TV" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
-#KODIPROP:inputstream=inputstream.adaptive
-#https://github.com/LITUATUI/M3UPT/raw/refs/heads/main/M3U/CNN_Portugal.m3u
-
-#EXTINF:-1 group-title="TV" tvg-id="CNNBrasil.br" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png",CNN Brasil
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-name=""tvg-id="CNNBrasil.br"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png"group-title="TV"radio=""media="":http-referrer="":http-user-agent="",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-name=""tvg-id="EuronewsPortuguese.fr"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png"group-title="TV"radio=""media="":http-referrer="":http-user-agent="",Euronews PT
 https://euronews-live-por-pt.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/7392d4f0-7e24-4dbe-8482-f165e712eeed/5.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
-#https://youtu.be/XuZAl-ZPEcA
-
 #EXTINF:-1 tvg-name="RTP"tvg-id="ext"tvg-logo=""group-title="PORTUGAL"radio=""media="":http-referrer="":http-user-agent="",RTP (PT)
 https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/chunklist_w1345743644.m3u8
-
 #EXTINF:-1 tvg-name="TVI FICÇÃO (PT)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a464ae68b020893d77567b327533efa8.webp"group-title="PORTUGAL"radio=""media="":http-referrer="":http-user-agent="",TVI FICÇÃO (PT)
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-
 #EXTINF:-1 tvg-name="TVI Reality (PT)"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROzDVz6_bzxazul3nVNNGqULXUKuvPGo66afQNLtbKXNtqH-oDBATUXgQ&s"group-title="PORTUGAL"radio=""media="":http-referrer="":http-user-agent="",TVI Reality (PT)
 https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Globo TV Bahia"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2cPXuT6-Ixfi1NUDsgdhYhMTasSEs_ar1peObMX3ZZA&s"group-title="CANAIS ABERTOS"radio=""media="":http-referrer="":http-user-agent="",Globo TV Bahia
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-
 #EXTINF:-1 tvg-name="SBT (SP)"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRclWK_t8-7oTStj3Bpe4YTa4SWjnC51sAY5DcjXEAZg&s"group-title="CANAIS ABERTOS"radio=""media="":http-referrer="":http-user-agent="",SBT (SP)
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-name="RecordTV"tvg-id="Record.br"tvg-logo="https://i.imgur.com/sz9gTTr.png"group-title="GENERAL"radio=""media="":http-referrer="":http-user-agent="",RecordTV
@@ -50,6 +27,8 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
 #EXTINF:-1 tvg-name="RTL Alemanha"tvg-id="ext"tvg-logo=""group-title="ALEMANHA"radio=""media="":http-referrer="":http-user-agent="",RTL Alemanha
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
+#EXTINF:-1 tvg-name="UMISS TV"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYW1R8sN2NafFNZjQN0Juw2FbKBUQsCaX4rs3Hz77-Ig0JXzrwQPjC8g&usqp=CAE&s"group-title="CANAIS DE VARIEDADES"radio=""media="":http-referrer="":http-user-agent="",UMISS TV
+https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
 #EXTINF:-1 tvg-name="LA 1"tvg-id="ext"tvg-logo=""group-title="ESPANHA"radio=""media="":http-referrer="":http-user-agent="",LA 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 #EXTINF:-1 tvg-name="LA 2"tvg-id="ext"tvg-logo=""group-title="ESPANHA"radio=""media="":http-referrer="":http-user-agent="",LA 2
@@ -326,7 +305,6 @@ https://5ffab78b24f94.streamlock.net/smart/smart/playlist.m3u8
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 tvg-name="SIC NOTICIAS"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStp_7Sy0S_8hjsxHuou7KjrV4Jzk20T5ExH2-3U0eeyPjjcTeYxSemXEA&s"group-title="CANAIS DE NOTICIAS"radio=""media="":http-referrer="":http-user-agent="",SIC NOTICIAS
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
-
 #EXTINF:-1 tvg-name="Sky News"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp522jO80CCTrIivD6Dfi-U9-GhmgosQhxYRgNvdOaAA&s"group-title="CANAIS DE NOTICIAS"radio=""media="":http-referrer="":http-user-agent="",Sky News
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1 tvg-name="CGTN English"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbkQ7GJEvC2KUrUf0QYmomHxAEkJJ_UzsQiepEuaMeCQ&s"group-title="CANAIS DE NOTICIAS"radio=""media="":http-referrer="":http-user-agent="",CGTN English
