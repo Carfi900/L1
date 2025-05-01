@@ -25,10 +25,24 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-name="Band Vale do Uruará (PA)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7858a37ec72de29670e36bb32cdd20f6.webp"group-title="CANAIS ABERTOS"radio=""media="":http-referrer="":http-user-agent="",Band Vale do Uruará (PA)
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
+
+# https://www.livestreamde.com/n-tv-live alemanha
 #EXTINF:-1 tvg-name="RTL Alemanha"tvg-id="ext"tvg-logo=""group-title="ALEMANHA"radio=""media="":http-referrer="":http-user-agent="",RTL Alemanha
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
+
+# https://www.livestreamde.com/n-tv-live alemanha
+#EXTINF:-1 tvg-name="n-tv"tvg-id="ext"tvg-logo=""group-title="ALEMANHA"radio=""media="":http-referrer="":http-user-agent="",n-tv Alemanha
+https://strm.hdtvizlecanli.com/live/ntv.m3u8
+
 #EXTINF:-1 tvg-name="UMISS TV"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYW1R8sN2NafFNZjQN0Juw2FbKBUQsCaX4rs3Hz77-Ig0JXzrwQPjC8g&usqp=CAE&s"group-title="CANAIS DE VARIEDADES"radio=""media="":http-referrer="":http-user-agent="",UMISS TV
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
+
+#EXTINF:-1 tvg-name="test TV"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYW1R8sN2NafFNZjQN0Juw2FbKBUQsCaX4rs3Hz77-Ig0JXzrwQPjC8g&usqp=CAE&s"group-title="test"radio=""media="":http-referrer="":http-user-agent="",test TV
+https://top1-cdnnew.newkso.ru/top1-cdn/Im6LZdXnCw/mono.m3u8
+
+#EXTINF:-1 tvg-name="TV Test2"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYW1R8sN2NafFNZjQN0Juw2FbKBUQsCaX4rs3Hz77-Ig0JXzrwQPjC8g&usqp=CAE&s"group-title="test"radio=""media="":http-referrer="":http-user-agent="",test TV
+https://m1.merichunidya.com:999/hls/wsmkmlfeed31.m3u8?md5=0sKZcExWeqvPFC9LAU7cgw&expires=1746079104
+# espanhois
 #EXTINF:-1 tvg-name="LA 1"tvg-id="ext"tvg-logo=""group-title="ESPANHA"radio=""media="":http-referrer="":http-user-agent="",LA 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 #EXTINF:-1 tvg-name="LA 2"tvg-id="ext"tvg-logo=""group-title="ESPANHA"radio=""media="":http-referrer="":http-user-agent="",LA 2
