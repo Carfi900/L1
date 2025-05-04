@@ -11,6 +11,7 @@ https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="EuronewsPortuguese.fr"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png"group-title="TV"radio=""media="":http-referrer="":http-user-agent="",Euronews PT
 https://euronews-live-por-pt.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/7392d4f0-7e24-4dbe-8482-f165e712eeed/5.m3u8
+
 #EXTINF:-1 tvg-name="RTP"tvg-id="ext"tvg-logo=""group-title="PORTUGAL"radio=""media="":http-referrer="":http-user-agent="",RTP (PT)
 https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/chunklist_w1345743644.m3u8
 #EXTINF:-1 tvg-name="TVI FICÇÃO (PT)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a464ae68b020893d77567b327533efa8.webp"group-title="PORTUGAL"radio=""media="":http-referrer="":http-user-agent="",TVI FICÇÃO (PT)
@@ -41,7 +42,12 @@ https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
 https://top1-cdnnew.newkso.ru/top1-cdn/Im6LZdXnCw/mono.m3u8
 
 #EXTINF:-1 tvg-name="TV Test2"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYW1R8sN2NafFNZjQN0Juw2FbKBUQsCaX4rs3Hz77-Ig0JXzrwQPjC8g&usqp=CAE&s"group-title="test"radio=""media="":http-referrer="":http-user-agent="",test TV
-https://m1.merichunidya.com:999/hls/wsmkmlfeed31.m3u8?md5=0sKZcExWeqvPFC9LAU7cgw&expires=1746079104
+rtsp://admin:camera222@192.168.1000.104:554/onif1
+
+#EXTINF:-1 tvg-name="TV Test2"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYW1R8sN2NafFNZjQN0Juw2FbKBUQsCaX4rs3Hz77-Ig0JXzrwQPjC8g&usqp=CAE&s"group-title="test"radio=""media="":http-referrer="":http-user-agent="",test TV
+rtsp://admin:camera222@192.168.1000.104:554/onif2
+
+
 # espanhois
 #EXTINF:-1 tvg-name="LA 1"tvg-id="ext"tvg-logo=""group-title="ESPANHA"radio=""media="":http-referrer="":http-user-agent="",LA 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
