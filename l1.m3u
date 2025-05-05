@@ -38,15 +38,9 @@ https://strm.hdtvizlecanli.com/live/ntv.m3u8
 #EXTINF:-1 tvg-name="UMISS TV"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYW1R8sN2NafFNZjQN0Juw2FbKBUQsCaX4rs3Hz77-Ig0JXzrwQPjC8g&usqp=CAE&s"group-title="CANAIS DE VARIEDADES"radio=""media="":http-referrer="":http-user-agent="",UMISS TV
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
 
-#EXTINF:-1 tvg-name="test TV"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYW1R8sN2NafFNZjQN0Juw2FbKBUQsCaX4rs3Hz77-Ig0JXzrwQPjC8g&usqp=CAE&s"group-title="test"radio=""media="":http-referrer="":http-user-agent="",test TV
+#esporte
+#EXTINF:-1 tvg-name="Canais de ESPORTE 1"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYW1R8sN2NafFNZjQN0Juw2FbKBUQsCaX4rs3Hz77-Ig0JXzrwQPjC8g&usqp=CAE&s"group-title="test"radio=""media="":http-referrer="":http-user-agent="",ESPORTE
 https://top1-cdnnew.newkso.ru/top1-cdn/Im6LZdXnCw/mono.m3u8
-
-#EXTINF:-1 tvg-name="TV Test2"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYW1R8sN2NafFNZjQN0Juw2FbKBUQsCaX4rs3Hz77-Ig0JXzrwQPjC8g&usqp=CAE&s"group-title="test"radio=""media="":http-referrer="":http-user-agent="",test TV
-rtsp://admin:camera222@192.168.1000.104:554/onif1
-
-#EXTINF:-1 tvg-name="TV Test2"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYW1R8sN2NafFNZjQN0Juw2FbKBUQsCaX4rs3Hz77-Ig0JXzrwQPjC8g&usqp=CAE&s"group-title="test"radio=""media="":http-referrer="":http-user-agent="",test TV
-rtsp://admin:camera222@192.168.1000.104:554/onif2
-
 
 # espanhois
 #EXTINF:-1 tvg-name="LA 1"tvg-id="ext"tvg-logo=""group-title="ESPANHA"radio=""media="":http-referrer="":http-user-agent="",LA 1
