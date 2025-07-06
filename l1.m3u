@@ -37,7 +37,7 @@ https://strm.hdtvizlecanli.com/live/ntv.m3u8
 
 # https://www.livestreamde.com/n-tv-live alemanha
 #EXTINF:-1 tvg-name="VISIT-X"tvg-id="ext"tvg-logo=""group-title="ALEMANHA"radio=""media="":http-referrer="":http-user-agent="",VISIT-X Alemanha
-https://stream.visit-x.tv/vxtv/ngrp:live_all/chunklist_w1970822688_b3203072.m3u8
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="UMISS TV"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYW1R8sN2NafFNZjQN0Juw2FbKBUQsCaX4rs3Hz77-Ig0JXzrwQPjC8g&usqp=CAE&s"group-title="CANAIS DE VARIEDADES"radio=""media="":http-referrer="":http-user-agent="",UMISS TV
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
