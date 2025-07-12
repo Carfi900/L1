@@ -19,8 +19,6 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 #EXTINF:-1 tvg-name="Globo TV Bahia"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2cPXuT6-Ixfi1NUDsgdhYhMTasSEs_ar1peObMX3ZZA&s"group-title="CANAIS ABERTOS"radio=""media="":http-referrer="":http-user-agent="",Globo TV Bahia
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-#EXTINF:-1 tvg-name="SBT (SP)"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRclWK_t8-7oTStj3Bpe4YTa4SWjnC51sAY5DcjXEAZg&s"group-title="CANAIS ABERTOS"radio=""media="":http-referrer="":http-user-agent="",SBT (SP)
-https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-name="RecordTV"tvg-id="Record.br"tvg-logo="https://i.imgur.com/sz9gTTr.png"group-title="GENERAL"radio=""media="":http-referrer="":http-user-agent="",RecordTV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-name="RTL Alemanha"tvg-id="ext"tvg-logo=""group-title="ALEMANHA"radio=""media="":http-referrer="":http-user-agent="",RTL Alemanha
@@ -107,8 +105,6 @@ https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Tâï (FR)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/965ea388c91bb303d5621e2b4044cfde.webp"group-title="CANAIS INTERNACIONAIS"radio=""media="":http-referrer="":http-user-agent="",Tâï (FR)
 https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u8
-#EXTINF:-1 tvg-name="Tele-Quâec (CA)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3d0d65cb484aed5606519d2c2af71f30.webp"group-title="CANAIS INTERNACIONAIS"radio=""media="":http-referrer="":http-user-agent="",Tele-Quâec (CA)
-https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-name="Localish"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlAKcIzuEeA7uteG7smd5lxT8tuDBoA-IGOetxmVhVfA&s"group-title="CANAIS INTERNACIONAIS"radio=""media="":http-referrer="":http-user-agent="",Localish.m3u8
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Localish.m3u8
 #EXTINF:-1 tvg-name="Televisa (MX)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8b87fae8b98e6377363375486d6308f6.webp"group-title="CANAIS INTERNACIONAIS"radio=""media="":http-referrer="":http-user-agent="",Televisa (MX)
@@ -197,8 +193,6 @@ https://video04.logicahost.com.br/soumaispop/soumaispop/playlist.m3u8
 https://stmv5.samcast.com.br/claudio6986/claudio6986/playlist.m3u8
 #EXTINF:-1 tvg-name="TV NBT"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dee1243c933082ee25e309ab91b54f4d.webp"group-title="CANAIS DE VARIEDADES"radio=""media="":http-referrer="":http-user-agent="",TV NBT
 https://isaocorp.cloudecast.com/nbt/index.fmp4.m3u8
-#EXTINF:-1 tvg-name="Receitas"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5-uDnsvN81qB_rV4qIHnY_R4enx263QTpB9GH_SEZv699Js066nUsF1E&s"group-title="CANAIS DE VARIEDADES"radio=""media="":http-referrer="":http-user-agent="",Receitas
-https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 #EXTINF:-1 tvg-name="Masper tv"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e7b59f96b727d43a604c251ee93df7d6.webp"group-title="CANAIS DE VARIEDADES"radio=""media="":http-referrer="":http-user-agent="",Masper tv
 https://stream.castr.net/62572b254fcac2c0e67c3ac5/live_3815ed7055fe11ef95f9a97142a4bd4f/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="VRT Channel"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/38625bf93125111e4b587ef5ff9a5dbb.webp"group-title="CANAIS DE VARIEDADES"radio=""media="":http-referrer="":http-user-agent="",VRT Channel
@@ -253,8 +247,6 @@ https://video09.logicahost.com.br/tvmax/tvmax/playlist.m3u8
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Mais Brasil"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99952bc10e0b9a0eeb6f47cbf054a87e.webp"group-title="CANAIS DE VARIEDADES"radio=""media="":http-referrer="":http-user-agent="",TV Mais Brasil
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
-#EXTINF:-1 tvg-name="Rede SMART"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a36370d0facd85b08f61d4d9414ba2a5.webp"group-title="CANAIS DE VARIEDADES"radio=""media="":http-referrer="":http-user-agent="",Rede SMART
-https://5ffab78b24f94.streamlock.net/smart/smart/playlist.m3u8
 #EXTINF:-1 tvg-name="Jovem Pan News"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69673434b607b4db5fb14633654a0ced.webp"group-title="CANAIS DE NOTICIAS"radio=""media="":http-referrer="":http-user-agent="",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 tvg-name="SIC NOTICIAS"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStp_7Sy0S_8hjsxHuou7KjrV4Jzk20T5ExH2-3U0eeyPjjcTeYxSemXEA&s"group-title="CANAIS DE NOTICIAS"radio=""media="":http-referrer="":http-user-agent="",SIC NOTICIAS
@@ -289,8 +281,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Record News"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/86600ed6f09e4bf48be4e55a0cd01536.webp"group-title="CANAIS DE NOTICIAS"radio=""media="":http-referrer="":http-user-agent="",Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-#EXTINF:-1 tvg-name="SBT Interior (720p)"tvg-id="SBTnterior.br"tvg-logo="https://i.imgur.com/IkZfa4j.png"group-title="GENERAL"radio=""media="":http-referrer="":http-user-agent="",SBT Interior (720p)
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-name="VV8 TV Youtube"tvg-id="VV8TV.br"tvg-logo="https://i.imgur.com/TxHWAeD.png"group-title="GENERAL"radio=""media="":http-referrer="":http-user-agent="",VV8 TV Youtube
 https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
 #EXTINF:-1 tvg-name="Adesso TV (720p)"tvg-id="AdessoTV.br"tvg-logo="https://i.imgur.com/KgetM8j.png"group-title="GENERAL"radio=""media="":http-referrer="":http-user-agent="",Adesso TV (720p)
@@ -345,8 +335,6 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3
 https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Difusora Leste (1080p)"tvg-id="TVDifusoraLeste.br"tvg-logo="https://i.imgur.com/hEd25Cr.png"group-title="GENERAL"radio=""media="":http-referrer="":http-user-agent="",TV Difusora Leste (1080p)
 https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
-#EXTINF:-1 tvg-name="TV Futuro (1080p)"tvg-id="TVFuturo.br"tvg-logo="https://i.imgur.com/xonrNBf.png"group-title="GENERAL"radio=""media="":http-referrer="":http-user-agent="",TV Futuro (1080p)
-https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Grao Pará (720p)"tvg-id="TVGraoPara.br"tvg-logo="https://i.imgur.com/1drg0E9.png"group-title="GENERAL"radio=""media="":http-referrer="":http-user-agent="",TV Grao Pará (720p)
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Maceió (360p)"tvg-id="TVMaceio.br"tvg-logo="https://i.imgur.com/zZ9LEOZ.png"group-title="GENERAL"radio=""media="":http-referrer="":http-user-agent="",TV Maceió (360p)
@@ -413,10 +401,6 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Jetsons TV"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7856d68f41f8f261c2cdeca2b92dce7b.webp"group-title="CANAIS TOP 24H"radio=""media="":http-referrer="":http-user-agent="",Jetsons TV
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-#EXTINF:-1 tvg-name="A Escrava Isaura"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG0TE1m6PPARlqeygFU7ZNNa5C5QGi3sMszzA44zfn6BZaVOnGv0OXTFw&s"group-title="CANAIS TOP 24H"radio=""media="":http-referrer="":http-user-agent="",A Escrava Isaura
-https://cc-slllnk8iujdo8.akamaized.net/Samsung/A_Escrava_Isaura_BR/A_Escrava_Isaura.m3u8
-#EXTINF:-1 tvg-name="Os Dez Mandamentos"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2d4mby6w1YKiCNtk-_TJD8oeoHpR6Lh5cN_jxAsjtaxy_QgprJYkVG_U&s"group-title="CANAIS TOP 24H"radio=""media="":http-referrer="":http-user-agent="",Os Dez Mandamentos
-https://cc-97z35d907q26w.akamaized.net/Samsung/Os_Dez_Mandamentos_BR/Os_Dez_Mandamentos.m3u8
 #EXTINF:-1 tvg-name="MasterChef Brasil"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dcaa258d90f0597bffc6647f071b92dc.webp"group-title="CANAIS TOP 24H"radio=""media="":http-referrer="":http-user-agent="",MasterChef Brasil
 https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/playlist.m3u8
 #EXTINF:-1 tvg-name="NOW 70s"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85f7dfdee045ef4fce8cd777b2d3574d.webp"group-title="CANAIS DE MUSICAS"radio=""media="":http-referrer="":http-user-agent="",NOW 70s
@@ -501,9 +485,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 tvg-name="Canal 38 (720p)"tvg-id="Canal38.br"tvg-logo="https://i.imgur.com/co7TCWC.png"group-title="CANAIS DE NOTICIAS"radio=""media="":http-referrer="":http-user-agent="",Canal 38 (720p)
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
-#EXTINF:-1 tvg-name="RT en Español (1080p)#EXTVLCOPT:http-referrer="tvg-id="RTenEspanol.ru"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"group-title="ESPANHA"radio=""media="":http-referrer="https://odysee.com/":http-user-agent="",RT en Español (1080p)#EXTVLCOPT:http-referrer=
-#EXTVLCOPT:http-referrer=https://odysee.com/
-https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
 #EXTINF:-1 tvg-name="TCM 10 HD (1080p)"tvg-id="TCM10HD.br"tvg-logo="https://i.imgur.com/aMuMVvB.png"group-title="CANAIS DE NOTICIAS"radio=""media="":http-referrer="":http-user-agent="",TCM 10 HD (1080p)
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-name="TV A Folha (720p)"tvg-id="TVAFolha.br"tvg-logo="https://i.imgur.com/I7XGMhj.png"group-title="CANAIS DE NOTICIAS"radio=""media="":http-referrer="":http-user-agent="",TV A Folha (720p)
@@ -794,8 +775,6 @@ https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
 #EXTINF:-1 tvg-name="Record SicTV (RO)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/737138161e02090fb61d4e60ec069464.webp"group-title="CANAIS ABERTOS"radio=""media="":http-referrer="":http-user-agent="",Record SicTV (RO)
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?token=10625035048351615000
-#EXTINF:-1 tvg-name="SBT Interior (SP)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5d386500ebc7f1be9d49188de6f44fa5.webp"group-title="CANAIS ABERTOS"radio=""media="":http-referrer="":http-user-agent="",SBT Interior (SP)
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-name="SBT (TV Difusora MA)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/00eee0416a4b2383b4bad5b85332969e.webp"group-title="CANAIS ABERTOS"radio=""media="":http-referrer="":http-user-agent="",SBT (TV Difusora MA)
 https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
 #EXTINF:-1 tvg-name="Rede Brasil TV Marajoara (PA)"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc2tvkDVmO53QI6uUFkAML_GxmQct8Tp1aW5PO-rwMPoDQrLtPtn2Djqg&s"group-title="CANAIS ABERTOS"radio=""media="":http-referrer="":http-user-agent="",Rede Brasil TV Marajoara (PA)
@@ -812,10 +791,6 @@ https://5c483b9d1019c.streamlock.net/staffvideotv/staffvideotv/playlist.m3u8
 http://rtmp.irdeb.ba.gov.br/stream/hls/tvehd.m3u8
 #EXTINF:-1 tvg-name="Band TV Thathi (litoral SP)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7c62d247363cc8e7978ecced6639393b.webp"group-title="CANAIS ABERTOS"radio=""media="":http-referrer="":http-user-agent="",Band TV Thathi (litoral SP)
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
-#EXTINF:-1 tvg-name="RTN"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ce8f621678e717cabf4a5e8ee0f6ed70.webp"group-title="CANAIS ABERTOS"radio=""media="":http-referrer="":http-user-agent="",RTN
-https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
-#EXTINF:-1 tvg-name="Record Rede Familia (SP)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ede7e5de6ca676517ca7197759c16e7.webp"group-title="CANAIS ABERTOS"radio=""media="":http-referrer="":http-user-agent="",Record Rede Familia (SP)
-https://tv01.zas.media:1936/rftv/rftv/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Brasil Rede Minas (MG)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/96ed4934fbcf5351314bfabfd78a976c.webp"group-title="CANAIS ABERTOS"radio=""media="":http-referrer="":http-user-agent="",TV Brasil Rede Minas (MG)
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Brasil (DF)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/041a53eb1b2c6c9d65151c102342544b.webp"group-title="CANAIS ABERTOS"radio=""media="":http-referrer="":http-user-agent="",TV Brasil (DF)
@@ -866,14 +841,10 @@ https://d1yqxv6gx128ca.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
 #EXTINF:-1 tvg-name="RedBull TV"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJSoAh97DgMx-DMlhRLHlyw3hgGzvOGo-d8PMealpwk_v-Opf1jUdxvQE&s"group-title="CANAIS DE ESPORTES"radio=""media="":http-referrer="":http-user-agent="",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-name="Manchester United TV"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnfc6J7cVNVrcFBM7OJOXcMK0_nmRPnMa6Bo27417gmg&s"group-title="CANAIS DE ESPORTES"radio=""media="":http-referrer="":http-user-agent="",Manchester United TV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 tvg-name="Ponte Preta TV"tvg-id="ext"tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/PONTV-190223-Logo2.png"group-title="CANAIS DE ESPORTES"radio=""media="":http-referrer="":http-user-agent="",Ponte Preta TV
 https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Internacional"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfyS2fa9YBUKGT-53_gSCMQLqp9256YRp4A9WtduPC4OU8xQLX-qrOcak&s"group-title="CANAIS DE ESPORTES"radio=""media="":http-referrer="":http-user-agent="",TV Internacional
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
-#EXTINF:-1 tvg-name="CazàTV"tvg-id="ext"tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/cazetv.png"group-title="CANAIS DE ESPORTES"radio=""media="":http-referrer="":http-user-agent="",CazàTV
-https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-name="Motorvision"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f2a67a0c02ab0841afbdd8e7623aeae5.webp"group-title="CANAIS DE ESPORTES"radio=""media="":http-referrer="":http-user-agent="",Motorvision
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
 #EXTINF:-1 tvg-name="Nature Time"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/76c1f7bf76617738201aa7ad7ca01972.webp"group-title="CANAIS EDUCATIVOS"radio=""media="":http-referrer="":http-user-agent="",Nature Time
