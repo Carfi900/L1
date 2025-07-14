@@ -2687,32 +2687,46 @@ http://streaming.radioregional.pt:8052
 http://streaming.radioregional.pt:8040
 #EXTINF:-1 tvg-name="Rádio Regional Arouca"tvg-id="ext"tvg-logo="http://www.radioregionaldearouca.com/site/wp-content/uploads/2015/06/logo-radio1.png"group-title="RADIO Portugal":http-user-agent="",Rádio Regional Arouca
 http://centova.radio.com.pt:8485/;
+
 #EXTINF:-1 tvg-name="Rádio Terra Nova"tvg-id="ext"tvg-logo="http://www.terranova.pt/sites/default/files/logotipoterranova.png"group-title="RADIO Portugal":http-user-agent="",Rádio Terra Nova
 http://centova.radios.pt:9404/stream
+
 #EXTINF:-1 tvg-name="Rádio Universitária de Coimbra"tvg-id="ext"tvg-logo="https://bucket-backblaze.ruc.pt/file/bucket-ruc-pt/wp-content/uploads/2021/02/15233926/Logo-RUC-2020_assinaturas_Prancheta-1-copia.png"group-title="RADIO Portugal":http-user-agent="",Rádio Universitária de Coimbra
 https://stream.ruc.pt/high
+
 #EXTINF:-1 tvg-name="Rádio Universitária do Minho"tvg-id="ext"tvg-logo="https://cdn-radiotime-logos.tunein.com/s3095d.png"group-title="RADIO Portugal":http-user-agent="",Rádio Universitária do Minho
 https://centova.radio.com.pt/proxy/558?mp=/stream
+
 #EXTINF:-1 tvg-name="Rádio Quântica"tvg-id="ext"tvg-logo="https://www.radio.pt/images/broadcasts/c5/77/38212/1/c300.png"group-title="RADIO Portugal":http-user-agent="",Rádio Quântica
 https://stream.radioquantica.com:8443/stream
+
 #EXTINF:-1 tvg-name="Venice Classic Radio - Auditorium"tvg-id="ext"tvg-logo="https://cdn-profiles.tunein.com/s95144/images/logod.png"group-title="RADIO Portugal":http-user-agent="",Venice Classic Radio - Auditorium
 https://uk2.streamingpulse.com/ssl/vcr1
+
 #EXTINF:-1 tvg-name="Venice Classic Radio - Live"tvg-id="ext"tvg-logo="https://cdn-profiles.tunein.com/s95144/images/logod.png"group-title="RADIO Portugal":http-user-agent="",Venice Classic Radio - Live
 https://uk2.streamingpulse.com/ssl/vcr2
-#EXTINF:-1 tvg-name="RecordTV"tvg-id="RecordTV"tvg-logo="https://i.imgur.com/lyQ1v9M.png"group-title="RECORD TV":http-user-agent="",RecordTV
+
+#EXTINF:-1 tvg-name="RecordTV"tvg-id="RecordTV"tvg-logo="https://i.imgur.com/lyQ1v9M.png"group-title="CANAIS ABERTOS":http-user-agent="",RecordTV
 https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
-#EXTINF:-1 tvg-name="RecordTV"tvg-id="RecordTV"tvg-logo="https://i.imgur.com/lyQ1v9M.png"group-title="RECORD TV":http-user-agent="",RecordTV
+
+#EXTINF:-1 tvg-name="RecordTV"tvg-id="RecordTV"tvg-logo="https://i.imgur.com/lyQ1v9M.png"group-title="CANAIS ABERTOS":http-user-agent="",RecordTV
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ManoTV
-#EXTINF:-1 tvg-name="Band Arapuan HD"tvg-id="BAND"tvg-logo="https://i.imgur.com/nCJNjyN.png"group-title="BAND TV":http-user-agent="",Band Arapuan HD
+
+#EXTINF:-1 tvg-name="Band Arapuan HD"tvg-id="BAND"tvg-logo="https://i.imgur.com/nCJNjyN.png"group-title="CANAIS ABERTOS TV":http-user-agent="",Band Arapuan HD
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
-#EXTINF:-1 tvg-name="Band TV - Vale do Uruará HD"tvg-id="BAND"tvg-logo="https://i.imgur.com/nCJNjyN.png"group-title="BAND TV":http-user-agent="",Band TV - Vale do Uruará HD
+
+#EXTINF:-1 tvg-name="Band TV - Vale do Uruará HD"tvg-id="BAND"tvg-logo="https://i.imgur.com/nCJNjyN.png"group-title="CANAIS ABERTOS":http-user-agent="",Band TV - Vale do Uruará HD
 https://alanza.iptv2022.com/sh/TV_VALE_DO_URUARA/index.m3u8?Manotv
+
 #EXTINF:-1 tvg-name="SBT HD"tvg-id="ext"tvg-logo="https://i.imgur.com/g47oQ4n.png"group-title="SBT":http-user-agent="",SBT HD
 https://cc7d37a17d3f4d0c8c82f9778df832ca.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI_SIMULCAST_CTV/TLBkp.m3u8?ads.start=1
+
 #EXTINF:-1 tvg-name="SBT"tvg-id="SBT"tvg-logo="https://i.imgur.com/F35mKJK.png"group-title="SBT":http-user-agent="",SBT
 https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
+
 #EXTINF:-1 tvg-name="SBT"tvg-id="SBT"tvg-logo="https://i.imgur.com/F35mKJK.png"group-title="SBT":http-user-agent="",SBT
 https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
+
 #EXTINF:-1 tvg-name="SBT"tvg-id="SBT"tvg-logo="https://i.imgur.com/KO1v3pS.png"group-title="SBT":http-user-agent="",SBT
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="SBT"tvg-id="SBT"tvg-logo="https://i.imgur.com/oOhk9Gg.png"group-title="SBT":http-user-agent="",SBT
