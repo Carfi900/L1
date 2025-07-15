@@ -420,9 +420,6 @@ https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-name="24H"tvg-id="ext"tvg-logo=""group-title="ESPANHA":http-user-agent="",24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 tvg-name="Negocios TV"tvg-id="ext"tvg-logo=""group-title="ESPANHA":http-user-agent="",Negocios TV
-https://streaming013.gestec-video.com/hls/negociostv.m3u8
-
 #EXTINF:-1 tvg-name="Galicia America"tvg-id="ext"tvg-logo=""group-title="ESPANHA":http-user-agent="",Galicia America
 https://crtvg-america.flumotion.cloud/playlist.m3u8
 
@@ -462,6 +459,8 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-name="Localish"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlAKcIzuEeA7uteG7smd5lxT8tuDBoA-IGOetxmVhVfA&s"group-title="USA":http-user-agent="",Localish
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Localish.m3u8
 
+## ITALIA ##
+
 #EXTINF:-1 tvg-name="Calábria TV (IT)"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSquNB7V20TeEko4cZxShb6zpd36-P33jCCexii64aNlTTleFT31-V7JyM&s=10"group-title="ITALIA":http-user-agent="",Calábria TV (IT)
 https://streamcdnc1-a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/chunklist.m3u8
 
@@ -473,6 +472,14 @@ https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RTTR (IT)"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyphP6b1rh8lX26Jmat0DbLOPeMsr3vJqeW6XfolZeFfRWpTI1KTEhREw&s"group-title="ITALIA":http-user-agent="",RTTR (IT)
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
+
+## Internacional ##
+
+#EXTINF:-1 tvg-name="Deustche Welle (DE)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dd20dc7ce12901f45a5f100a4cc97032.webp"group-title="CANAIS INTERNACIONAIS":http-user-agent="",Deustche Welle (DE)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal Once (MX)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d800ee1a28bbee6769de24c5c050c40c.webp"group-title="CANAIS INTERNACIONAIS":http-user-agent="",Canal Once (MX)
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Kanal D (TR)"tvg-id="ext"tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png"group-title="CANAIS INTERNACIONAIS":http-user-agent="",Kanal D (TR)
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
@@ -509,29 +516,30 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 #EXTINF:-1 tvg-name="RT Espanhol (RU)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/26c5a30029b81339ef17a02aa420f64c.webp"group-title="CANAIS INTERNACIONAIS":http-user-agent="",RT Espanhol (RU)
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
-#EXTINF:-1 tvg-name="Deustche Welle (DE)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dd20dc7ce12901f45a5f100a4cc97032.webp"group-title="CANAIS INTERNACIONAIS":http-user-agent="",Deustche Welle (DE)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
-#EXTINF:-1 tvg-name="Canal Once (MX)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d800ee1a28bbee6769de24c5c050c40c.webp"group-title="CANAIS INTERNACIONAIS":http-user-agent="",Canal Once (MX)
-https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
-
 #EXTINF:-1 tvg-name="LAS ESTRELLAS (MX)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cf0b09469b863ba943590967bc25b9ed.webp"group-title="CANAIS INTERNACIONAIS":http-user-agent="",LAS ESTRELLAS (MX)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
 
 #EXTINF:-1 tvg-name="Tâï (FR)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/965ea388c91bb303d5621e2b4044cfde.webp"group-title="CANAIS INTERNACIONAIS":http-user-agent="",Tâï (FR)
 https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u8
+
 #EXTINF:-1 tvg-name="Televisa (MX)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8b87fae8b98e6377363375486d6308f6.webp"group-title="CANAIS INTERNACIONAIS":http-user-agent="",Televisa (MX)
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
+
 #EXTINF:-1 tvg-name="PortuTV (480p)"tvg-id="PortuguesaTelevision.ve"tvg-logo="https://intervenhosting.net/roku/portutv/portutv.jpg"group-title="CANAIS INTERNACIONAIS":http-user-agent="",PortuTV (480p)
 https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
+
 #EXTINF:-1 tvg-name="Sato+"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIKlZkEmwtVp2s9gx_W4JBuB2qILxfoucd5sodhrZxKA&s"group-title="CANAIS DE FILMES":http-user-agent="",Sato+
 https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
+
 #EXTINF:-1 tvg-name="TV Diversidade"tvg-id="ext"tvg-logo="https://pa-str.srvsite.com/arquivos/5493/cabecalho-5493-20221208225221.png"group-title="CANAIS DE FILMES":http-user-agent="",TV Diversidade
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12928/playlist/chunklist.m3u8
+
 #EXTINF:-1 tvg-name="TV Gallo"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST4SqSRWAOQs-vcYY7zYiMGflWknG_i3PZNsV7yfsPTNzIJEI74YACWgE&s"group-title="CANAIS DE FILMES":http-user-agent="",TV Gallo
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Cindie Lite"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/42ad5ffc09cbd3ffd6139d6fcfa234f6.webp"group-title="CANAIS DE FILMES":http-user-agent="",Cindie Lite
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+
 #EXTINF:-1 tvg-name="Spark TV"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d7c29def7ffc55be76fdb008b5b34d0d.webp"group-title="CANAIS DE FILMES":http-user-agent="",Spark TV
 https://candlelightmedia-sparklightlove-3-br.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Sony One Emoções"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a314b7e30030089dbb174ed79458610d.webp"group-title="CANAIS DE FILMES":http-user-agent="",Sony One Emoções
