@@ -4677,6 +4677,8 @@ http://shd12.oneplayer.site/token/SHD12/66604/1x5.mp4
 #EXTINF:-1 tvg-name="S01 E06"tvg-id="ext"tvg-logo="https://i.imgur.com/JU97fc5.png"group-title="SANGUE NOVO S01":http-user-agent="",S01 E06
 http://shd12.oneplayer.site/token/SHD12/66604/1x6.mp4
 
+#EXTINF:-1 tvg-name="S01 E06 test"tvg-id="ext"tvg-logo=""group-title="FashionTV":http-user-agent="",SANGUE NOVO S01 E06 test
+http://shd12.oneplayer.site/token/SHD12/66604/1x6.mp4
 
 ## FTV ##
 #EXTINF:-1 tvg-name="Midnight Secrets"tvg-id="ext"tvg-logo=""group-title="FashionTV":http-user-agent="",Midnight Secrets
