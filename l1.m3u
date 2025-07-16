@@ -1,5 +1,4 @@
-#EXTM3U:-1 url-tvg="https://github.com/LITUATUI/M3UPT/raw/refs/heads/main/EPG/epg-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rtp-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rytec-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-mitv-br.xml.xz,http://www.xmltvepg.nl/rytecES_Basic.xz,http://www.xmltvepg.nl/rytecBE_FR_Basic.xz,http://www.xmltvepg.nl/rytecIT_Basic.xz,http://www.xmltvepg.nl/rytecUK_Basic.xz,https://www.tdtchannels.com/epg/TV.xml.gz"
-
+#EXTM3U
 #EXTINF:-1 tvg-name="SIC"tvg-id="SC.pt"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png"group-title="PORTUGAL":http-user-agent="",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
@@ -4623,6 +4622,8 @@ http://shd12.oneplayer.site/token/SHD12/201834/1x1.mp4
 #EXTINF:-1 tvg-name="S01 E02"tvg-id="ext"tvg-logo="https://imgur.com/RuLLdJt.png"group-title="TED A SERIE S01":http-user-agent="",ED A SERIE S01 E02
 http://shd12.oneplayer.site/token/SHD12/201834/1x2.mp4
 
+## ed a serie ##
+
 #EXTINF:-1 tvg-name="ED A SERIE S01 E03"tvg-id="ext"tvg-logo="https://imgur.com/RuLLdJt.png"group-title="TED A SERIE S01":http-user-agent="",ED A SERIE S01 E03
 http://shd12.oneplayer.site/token/SHD12/201834/1x3.mp4
 
@@ -4695,9 +4696,3 @@ https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/63/301101/q
 
 #EXTINF:-1 tvg-name="Midnight Secrets"tvg-id="ext"tvg-logo=""group-title="FashionTV":http-user-agent="",Midnight Secrets
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-
-#EXTINF:-1 tvg-name="Midnite Secret"tvg-id="ext"tvg-logo=""group-title="CANAIS ADULTOS":http-user-agent="",Midnite Secret
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-
-#EXTINF:-1 tvg-name="Brazzers Europa Fonciona no VLC PC"tvg-id="ext"tvg-logo=""group-title="CANAIS ADULTOS":http-user-agent="",Brazzers Europa Fonciona no VLC PC
-https://89.187.167.247/brazzers.stream/chunks.m3u8
