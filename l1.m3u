@@ -4488,49 +4488,49 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
 #EXTINF:-1 tvg-name="SFT Combat"tvg-id="ext"tvg-logo="https://imgur.com/CYD3RN9.png"group-title="ESPORTE":http-user-agent="",SFT Combat
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6660b636cb3ea10008429c6alivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 tvg-name="S01 E01"tvg-id="ext"tvg-logo="https://i.imgur.com/tupxY6I.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",S01 E01
+#EXTINF:-1 tvg-name="ESTRELAS S01 E01"tvg-id="ext"tvg-logo="https://i.imgur.com/tupxY6I.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",ESTRELAS S01 E01
 http://shd12.oneplayer.site/token/SHD12/154822/1x1.mp4
 
-#EXTINF:-1 tvg-name="S01 E02"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",S01 E02
+#EXTINF:-1 tvg-name="ESTRELAS S01 E02"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",ESTRELAS S01 E02
 http://shd12.oneplayer.site/token/SHD12/154822/1x2.mp4
 
-#EXTINF:-1 tvg-name="S01 E03"tvg-id="ext"tvg-logo="https://i.imgur.com/tupxY6I.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",S01 E03
+#EXTINF:-1 tvg-name="ESTRELAS S01 E03"tvg-id="ext"tvg-logo="https://i.imgur.com/tupxY6I.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",ESTRELAS S01 E03
 http://shd12.oneplayer.site/token/SHD12/154822/1x3.mp4
 
-#EXTINF:-1 tvg-name="S01 E04"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",S01 E04
+#EXTINF:-1 tvg-name="ESTRELAS S01 E04"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",ESTRELAS S01 E04
 http://shd12.oneplayer.site/token/SHD12/154822/1x4.mp4
 
-#EXTINF:-1 tvg-name="S01 E05 Aguarde"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",S01 E05 Aguarde
+#EXTINF:-1 tvg-name="ESTRELAS S01 E05 Aguarde"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",ESTRELAS S01 E05 Aguarde
 http://shd12.oneplayer.site/token/SHD12/154822/1x5.mp4
 
-#EXTINF:-1 tvg-name="S01 E06 Aguarde"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",S01 E06 Aguarde
+#EXTINF:-1 tvg-name="ESTRELAS S01 E06 Aguarde"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",ESTRELAS S01 E06 Aguarde
 http://shd12.oneplayer.site/token/SHD12/154822/1x6.mp4
 
-#EXTINF:-1 tvg-name="S01 E07 Aguarde"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",S01 E07 Aguarde
+#EXTINF:-1 tvg-name="ESTRELAS S01 E07 Aguarde"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",ESTRELAS S01 E07 Aguarde
 http://shd12.oneplayer.site/token/SHD12/154822/1x7.mp4
 
-#EXTINF:-1 tvg-name="S01 E08 Aguarde"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",S01 E08 Aguarde
+#EXTINF:-1 tvg-name="ESTRELAS S01 E08 Aguarde"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",S01 E08 Aguarde
 http://shd12.oneplayer.site/token/SHD12/154822/1x8.mp4
 
-#EXTINF:-1 tvg-name="PERGUNTE ÀS ESTRELAS S01 E09"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",PERGUNTE ÀS ESTRELAS S01 E09
+#EXTINF:-1 tvg-name="ESTRELAS PERGUNTE ÀS ESTRELAS S01 E09"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",PERGUNTE ÀS ESTRELAS S01 E09
 http://shd12.oneplayer.site/token/SHD12/154822/1x9.mp4
 
-#EXTINF:-1 tvg-name="S01 E10"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",S01 E10
+#EXTINF:-1 tvg-name="ESTRELAS S01 E10"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",ESTRELAS S01 E10
 http://shd12.oneplayer.site/token/SHD12/154822/1x10.mp4
 
-#EXTINF:-1 tvg-name="S01 E11"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",S01 E11
+#EXTINF:-1 tvg-name="ESTRELAS S01 E11"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",ESTRELAS S01 E11
 http://shd12.oneplayer.site/token/SHD12/154822/1x11.mp4
 
-#EXTINF:-1 tvg-name="S01 E12"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",S01 E12
+#EXTINF:-1 tvg-name="ESTRELAS S01 E12"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",ESTRELAS S01 E12
 http://shd12.oneplayer.site/token/SHD12/154822/1x12.mp4
 
-#EXTINF:-1 tvg-name="S01 E13"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",S01 E13
+#EXTINF:-1 tvg-name="ESTRELAS S01 E13"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",ESTRELAS S01 E13
 http://shd12.oneplayer.site/token/SHD12/154822/1x13.mp4
-#EXTINF:-1 tvg-name="S01 E14"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",S01 E14
+#EXTINF:-1 tvg-name="ESTRELAS S01 E14"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",ESTRELAS S01 E14
 http://shd12.oneplayer.site/token/SHD12/154822/1x14.mp4
-#EXTINF:-1 tvg-name="S01 E15"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",S01 E15
+#EXTINF:-1 tvg-name="SESTRELAS 01 E15"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",ESTRELAS S01 E15
 http://shd12.oneplayer.site/token/SHD12/154822/1x15.mp4
-#EXTINF:-1 tvg-name="S01 E16"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",S01 E16
+#EXTINF:-1 tvg-name="ESTRELAS S01 E16"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",ESTRELASS01 E16
 http://shd12.oneplayer.site/token/SHD12/154822/1x16.mp4
 #EXTINF:-1 tvg-name="S01 E01"tvg-id="ext"tvg-logo="https://i.imgur.com/PM9qq0N"group-title="O MELHOR INFARTO DA MINHA VIDA S01":http-user-agent="",S01 E01
 http://shd12.oneplayer.site/token/SHD12/280409/1x1.mp4
@@ -4696,3 +4696,8 @@ https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/63/301101/q
 #EXTINF:-1 tvg-name="Midnight Secrets"tvg-id="ext"tvg-logo=""group-title="FashionTV":http-user-agent="",Midnight Secrets
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
 
+#EXTINF:-1 tvg-name="Midnite Secret"tvg-id="ext"tvg-logo=""group-title="CANAIS ADULTOS":http-user-agent="",Midnite Secret
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+
+#EXTINF:-1 tvg-name="Brazzers Europa Fonciona no VLC PC"tvg-id="ext"tvg-logo=""group-title="CANAIS ADULTOS":http-user-agent="",Brazzers Europa Fonciona no VLC PC
+https://89.187.167.247/brazzers.stream/chunks.m3u8
