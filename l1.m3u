@@ -1706,12 +1706,18 @@ https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:-1 tvg-name="Novo Tempo"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8aee277c6f0b673837d4a25a9109a177.webp"group-title="CANAIS RELIGIOSOS":http-user-agent="",Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="ESPORTE "tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYW1R8sN2NafFNZjQN0Juw2FbKBUQsCaX4rs3Hz77-Ig0JXzrwQPjC8g&usqp=CAE&s"group-title="ESPORTE":http-user-agent="",Canal de ESPORTE 6
+
+#EXTINF:-1 tvg-name="Fox-Sports-Espanol2.m3u8"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5c2f33d5ee4ec2d82edb58610f2b0ff7.webp"group-title="ESPORTE":http-user-agent="",Fox-Sports-Espanol 2
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
+#EXTINF:-1 tvg-name="ESPORTE "tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYW1R8sN2NafFNZjQN0Juw2FbKBUQsCaX4rs3Hz77-Ig0JXzrwQPjC8g&usqp=CAE&s"group-title="ESPORTE":http-user-agent="",Benim Sport 1
 https://wo.cma.footballii.ir/hls2/b1.m3u8
 #EXTINF:-1 tvg-name="WSN (Women Sports network)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dc333b18fd571fb39a69ea75c98f0deb.webp"group-title="CANAIS DE ESPORTES":http-user-agent="",WSN (Women Sports network)
 https://amg01416-faststudios-womensnetwork-plex-rzxxu.amagi.tv/playlist/amg01416-faststudios-womensnetwork-plex/playlist.m3u8
-#EXTINF:-1 tvg-name="Fox-Sports-Espanol2.m3u8"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5c2f33d5ee4ec2d82edb58610f2b0ff7.webp"group-title="ESPORTE":http-user-agent="",Fox-Sports-Espanol2.m3u8
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
+#EXTINF:-1 tvg-name="MLB Network"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/473dc750652d9ae1930de51f914033d7.webp"group-title="ESPORTE":http-user-agent="",MLB Network
+https://d1yqxv6gx128ca.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mmpgjr4zitcp0/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Motor Racing TV"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dcfa04b326ae2d1b6a2c7f86b6452abf.webp"group-title="ESPORTE":http-user-agent="",Motor Racing TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
 #EXTINF:-1 tvg-name="XFC"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b346dd21595c147bd9abea57b4256f32.webp"group-title="ESPORTE":http-user-agent="",XFC
@@ -4506,7 +4512,7 @@ http://shd12.oneplayer.site/token/SHD12/154822/1x7.mp4
 #EXTINF:-1 tvg-name="S01 E08 Aguarde"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",S01 E08 Aguarde
 http://shd12.oneplayer.site/token/SHD12/154822/1x8.mp4
 
-#EXTINF:-1 tvg-name="S01 E09"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",S01 E09
+#EXTINF:-1 tvg-name="PERGUNTE ÀS ESTRELAS S01 E09"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",PERGUNTE ÀS ESTRELAS S01 E09
 http://shd12.oneplayer.site/token/SHD12/154822/1x9.mp4
 
 #EXTINF:-1 tvg-name="S01 E10"tvg-id="ext"tvg-logo="https://i.imgur.com/tS5fqnd.png"group-title="PERGUNTE ÀS ESTRELAS S01":http-user-agent="",S01 E10
@@ -4596,49 +4602,49 @@ http://shd12.oneplayer.site/token/SHD12/257221/1x6.mp4
 http://shd12.oneplayer.site/token/SHD12/257221/1x7.mp4
 #EXTINF:-1 tvg-name="S01 E08"tvg-id="ext"tvg-logo="https://imgur.com/xXII5Hq.png"group-title="ESCOLA DOS ROMANCES PROIBIDOS S01":http-user-agent="",S01 E08
 http://shd12.oneplayer.site/token/SHD12/257221/1x8.mp4
-#EXTINF:-1 tvg-name="S01 E01"tvg-id="ext"tvg-logo="https://imgur.com/Ac27y3w.png"group-title="RESPIRA S01":http-user-agent="",S01 E01
+#EXTINF:-1 tvg-name="S01 E01"tvg-id="ext"tvg-logo="https://imgur.com/Ac27y3w.png"group-title="RESPIRA S01":http-user-agent="",RESPIRA S01 E01
 http://shd12.oneplayer.site/token/SHD12/230069/1x1.mp4
-#EXTINF:-1 tvg-name="S01 E02"tvg-id="ext"tvg-logo="https://imgur.com/Ac27y3w.png"group-title="RESPIRA S01":http-user-agent="",S01 E02
+#EXTINF:-1 tvg-name="S01 E02"tvg-id="ext"tvg-logo="https://imgur.com/Ac27y3w.png"group-title="RESPIRA S01":http-user-agent="",RESPIRA S01 E02
 http://shd12.oneplayer.site/token/SHD12/230069/1x2.mp4
-#EXTINF:-1 tvg-name="S01 E03"tvg-id="ext"tvg-logo="https://imgur.com/Ac27y3w.png"group-title="RESPIRA S01":http-user-agent="",S01 E03
+#EXTINF:-1 tvg-name="S01 E03"tvg-id="ext"tvg-logo="https://imgur.com/Ac27y3w.png"group-title="RESPIRA S01":http-user-agent="",RESPIRA S01 E03
 http://shd12.oneplayer.site/token/SHD12/230069/1x3.mp4
-#EXTINF:-1 tvg-name="S01 E04"tvg-id="ext"tvg-logo="https://imgur.com/Ac27y3w.png"group-title="RESPIRA S01":http-user-agent="",S01 E04
+#EXTINF:-1 tvg-name="S01 E04"tvg-id="ext"tvg-logo="https://imgur.com/Ac27y3w.png"group-title="RESPIRA S01":http-user-agent="",RESPIRA S01 E04
 http://shd12.oneplayer.site/token/SHD12/230069/1x4.mp4
-#EXTINF:-1 tvg-name="S01 E05"tvg-id="ext"tvg-logo="https://imgur.com/Ac27y3w.png"group-title="RESPIRA S01":http-user-agent="",S01 E05
+#EXTINF:-1 tvg-name="S01 E05"tvg-id="ext"tvg-logo="https://imgur.com/Ac27y3w.png"group-title="RESPIRA S01":http-user-agent="",RESPIRA S01 E05
 http://shd12.oneplayer.site/token/SHD12/230069/1x5.mp4
-#EXTINF:-1 tvg-name="S01 E06"tvg-id="ext"tvg-logo="https://imgur.com/Ac27y3w.png"group-title="RESPIRA S01":http-user-agent="",S01 E06
+#EXTINF:-1 tvg-name="S01 E06"tvg-id="ext"tvg-logo="https://imgur.com/Ac27y3w.png"group-title="RESPIRA S01":http-user-agent="",RESPIRA S01 E06
 http://shd12.oneplayer.site/token/SHD12/230069/1x6.mp4
-#EXTINF:-1 tvg-name="S01 E07"tvg-id="ext"tvg-logo="https://imgur.com/Ac27y3w.png"group-title="RESPIRA S01":http-user-agent="",S01 E07
+#EXTINF:-1 tvg-name="S01 E07"tvg-id="ext"tvg-logo="https://imgur.com/Ac27y3w.png"group-title="RESPIRA S01":http-user-agent="",RESPIRA S01 E07
 http://shd12.oneplayer.site/token/SHD12/230069/1x7.mp4
-#EXTINF:-1 tvg-name="S01 E08"tvg-id="ext"tvg-logo="https://imgur.com/Ac27y3w.png"group-title="RESPIRA S01":http-user-agent="",S01 E08
+#EXTINF:-1 tvg-name="S01 E08"tvg-id="ext"tvg-logo="https://imgur.com/Ac27y3w.png"group-title="RESPIRA S01":http-user-agent="",RESPIRA S01 E08
 http://shd12.oneplayer.site/token/SHD12/230069/1x8.mp4
-#EXTINF:-1 tvg-name="S01 E01"tvg-id="ext"tvg-logo="https://imgur.com/RuLLdJt.png"group-title="TED A SERIE S01":http-user-agent="",S01 E01
+#EXTINF:-1 tvg-name="S01 E01"tvg-id="ext"tvg-logo="https://imgur.com/RuLLdJt.png"group-title="TED A SERIE S01":http-user-agent="",ED A SERIE S01 E01
 http://shd12.oneplayer.site/token/SHD12/201834/1x1.mp4
-#EXTINF:-1 tvg-name="S01 E02"tvg-id="ext"tvg-logo="https://imgur.com/RuLLdJt.png"group-title="TED A SERIE S01":http-user-agent="",S01 E02
+#EXTINF:-1 tvg-name="S01 E02"tvg-id="ext"tvg-logo="https://imgur.com/RuLLdJt.png"group-title="TED A SERIE S01":http-user-agent="",ED A SERIE S01 E02
 http://shd12.oneplayer.site/token/SHD12/201834/1x2.mp4
 
-#EXTINF:-1 tvg-name="S01 E03"tvg-id="ext"tvg-logo="https://imgur.com/RuLLdJt.png"group-title="TED A SERIE S01":http-user-agent="",S01 E03
+#EXTINF:-1 tvg-name="ED A SERIE S01 E03"tvg-id="ext"tvg-logo="https://imgur.com/RuLLdJt.png"group-title="TED A SERIE S01":http-user-agent="",ED A SERIE S01 E03
 http://shd12.oneplayer.site/token/SHD12/201834/1x3.mp4
 
-#EXTINF:-1 tvg-name="S01 E04"tvg-id="ext"tvg-logo="https://imgur.com/RuLLdJt.png"group-title="TED A SERIE S01":http-user-agent="",S01 E04
+#EXTINF:-1 tvg-name="ED A SERIE S01 E04"tvg-id="ext"tvg-logo="https://imgur.com/RuLLdJt.png"group-title="TED A SERIE S01":http-user-agent="",ED A SERIE S01 E04
 http://shd12.oneplayer.site/token/SHD12/201834/1x4.mp4
 
-#EXTINF:-1 tvg-name="S01 E05"tvg-id="ext"tvg-logo="https://imgur.com/RuLLdJt.png"group-title="TED A SERIE S01":http-user-agent="",S01 E05
+#EXTINF:-1 tvg-name="ED A SERIE S01 E05"tvg-id="ext"tvg-logo="https://imgur.com/RuLLdJt.png"group-title="TED A SERIE S01":http-user-agent="",ED A SERIE S01 E05
 http://shd12.oneplayer.site/token/SHD12/201834/1x5.mp4
 
-#EXTINF:-1 tvg-name="S01 E06"tvg-id="ext"tvg-logo="https://imgur.com/RuLLdJt.png"group-title="TED A SERIE S01":http-user-agent="",S01 E06
+#EXTINF:-1 tvg-name="ED A SERIES01 E06"tvg-id="ext"tvg-logo="https://imgur.com/RuLLdJt.png"group-title="TED A SERIE S01":http-user-agent="",ED A SERIE S01 E06
 http://shd12.oneplayer.site/token/SHD12/201834/1x6.mp4
 
-#EXTINF:-1 tvg-name="S01 E07"tvg-id="ext"tvg-logo="https://imgur.com/RuLLdJt.png"group-title="TED A SERIE S01":http-user-agent="",S01 E07
+#EXTINF:-1 tvg-name="ED A SERIE S01 E07"tvg-id="ext"tvg-logo="https://imgur.com/RuLLdJt.png"group-title="TED A SERIE S01":http-user-agent="",ED A SERIE S01 E07
 http://shd12.oneplayer.site/token/SHD12/201834/1x7.mp4
 
-#EXTINF:-1 tvg-name="S01 E08"tvg-id="ext"tvg-logo="https://imgur.com/RuLLdJt.png"group-title="TED A SERIE S01":http-user-agent="",S01 E08
+#EXTINF:-1 tvg-name="ED A SERIE S01 E08"tvg-id="ext"tvg-logo="https://imgur.com/RuLLdJt.png"group-title="TED A SERIE S01":http-user-agent="",ED A SERIES01 E08
 http://shd12.oneplayer.site/token/SHD12/201834/1x8.mp4
 
-#EXTINF:-1 tvg-name="S01 E01"tvg-id="ext"tvg-logo="https://i.imgur.com/U2oOh07.png"group-title="MANUAL D ASSASSINATO PARA BOAS GAROTAS S01":http-user-agent="",S01 E01
+#EXTINF:-1 tvg-name="MANUAL D ASSASSINATO PARA BOAS GAROTAS S01 E01"tvg-id="ext"tvg-logo="https://i.imgur.com/U2oOh07.png"group-title="MANUAL D ASSASSINATO PARA BOAS GAROTAS S01":http-user-agent="",S01 E01
 http://shd12.oneplayer.site/token/SHD12/218342/1x1.mp4
 
-#EXTINF:-1 tvg-name="S01 E02"tvg-id="ext"tvg-logo="https://i.imgur.com/U2oOh07.png"group-title="MANUAL D ASSASSINATO PARA BOAS GAROTAS S01":http-user-agent="",S01 E02
+#EXTINF:-1 tvg-name="MANUAL D ASSASSINATO PARA BOAS GAROTAS 01 E02"tvg-id="ext"tvg-logo="https://i.imgur.com/U2oOh07.png"group-title="MANUAL D ASSASSINATO PARA BOAS GAROTAS S01":http-user-agent="",S01 E02
 http://shd12.oneplayer.site/token/SHD12/218342/1x2.mp4
 
 #EXTINF:-1 tvg-name="S01 E03"tvg-id="ext"tvg-logo="https://i.imgur.com/U2oOh07.png"group-title="MANUAL D ASSASSINATO PARA BOAS GAROTAS S01":http-user-agent="",S01 E03
@@ -4691,5 +4697,5 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr
 #EXTINF:-1 tvg-name="Midnite Secret"tvg-id="ext"tvg-logo=""group-title="CANAIS ADULTOS":http-user-agent="",Midnite Secret
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
 
-#EXTINF:-1 tvg-name="Brazzers Europa Fonciona no VLC PC"tvg-id="ext"tvg-logo=""group-title="CANAIS ADULTOS":http-user-agent="",Brazzers Europa
+#EXTINF:-1 tvg-name="Brazzers Europa Fonciona no VLC PC"tvg-id="ext"tvg-logo=""group-title="CANAIS ADULTOS":http-user-agent="",Brazzers Europa Fonciona no VLC PC
 https://89.187.167.247/brazzers.stream/chunks.m3u8
