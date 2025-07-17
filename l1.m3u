@@ -312,16 +312,11 @@ https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8
 https://wdrmediagroup-defatv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",FIFA+ Germany (720p)
 https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ALEMANHA":http-referrer="group-title=":http-user-agent="",FilmGold (1080p)
-#EXTVLCOPT:http-referrer=group-title=
-https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Sandegi (360p)"tvg-id="TVSandegi.br"tvg-logo="https://i.imgur.com/vJ6ZQSG.png"group-title="ALEMANHA":http-referrer="":http-user-agent="",TV Sandegi (360p)
 https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",Fluss Monster (1080p)
 https://rivermonstergermany-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ALEMANHA":http-referrer="group-title=":http-user-agent="",Freitag Nacht News (1080p)
-#EXTVLCOPT:http-referrer=group-title=
-https://freitag-nacht-news-0765b77e-9244-47e4-8dcb-e8bc069b871d-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6434/master.m3u8
+
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",Graham Norton Germany (1080p)
 https://amg00654-itv-amg00654c37-rakuten-de-7600.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",Hell's Kitchen Germany (1080p)
