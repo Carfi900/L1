@@ -1568,7 +1568,8 @@ https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
 
 #EXTINF:-1 tvg-name="Rádio Coca Cola FM"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/lg/radio25654_1466337048.png"group-title="RADIO NA TV":http-user-agent="",Rádio Coca Cola FM
 http://listen.181fm.com:7080/181-power_128k.mp3
-
+#EXTINF:-1 tvg-name="RÁDIO 538"tvg-id="ext"tvg-logo="https://www.radiotrefpunt.nl/uploads/monthly_2022_09/982616839_Radio538.png.66460d15eadf9bfbda5f96b68f10c89f.png"group-title="RADIO NA TV":http-user-agent="",RÁDIO 538
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
 #EXTINF:-1 tvg-name="RADIO 51 TV"tvg-id="ext"tvg-logo=""group-title="RADIO NA TV":http-user-agent="",RADIO 51 TV
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w714401016.m3u8
 #EXTINF:-1 tvg-name="95 FM AO VIVO"tvg-id="(no tvg-id)"tvg-logo=""group-title="RADIO NA TV":http-user-agent="",95 FM AO VIVO
@@ -1583,8 +1584,7 @@ https://5a57bda70564a.streamlock.net/98fmtv/98fmtv.sdp/chunklist_w1447228225.m3u
 https://stmv1.srvstm.com/rogerio2689/rogerio2689/chunklist_w1791525089.m3u8
 #EXTINF:-1 tvg-name="RÁDIO 106 SERTANEJA"tvg-id="ext"tvg-logo="https://imgur.com/3wUBW9Z.png"group-title="RADIO NA TV":http-user-agent="",RÁDIO 106 SERTANEJA
 https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="RÁDIO 538"tvg-id="ext"tvg-logo="https://www.radiotrefpunt.nl/uploads/monthly_2022_09/982616839_Radio538.png.66460d15eadf9bfbda5f96b68f10c89f.png"group-title="RADIO NA TV":http-user-agent="",RÁDIO 538
-https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
+
 #EXTINF:-1 tvg-name="RADIO BIRIQUINA"tvg-id="13"tvg-logo="https://www.birikina.it/wp-content/uploads/2020/02/radio-birikina-logo.png"group-title="RADIO NA TV":http-user-agent="",RADIO BIRIQUINA
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist_w1014410521.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-name="BLINK 102 FM"tvg-id="ext"tvg-logo="https://imgur.com/vKOloMY.png"group-title="RADIO NA TV":http-user-agent="",BLINK 102 FM
