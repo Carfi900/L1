@@ -51,7 +51,7 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-name="Band TV Arapuan (PB)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d82f6ecad5c6c3d39cc1cdae7521d3b1.webp"group-title="CANAIS ABERTOS":http-referrer="":http-user-agent="",Band TV Arapuan (PB)
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:-1 tvg-name="SIC TV (Rodonia)"tvg-id="SCTV.br"tvg-logo="https://i.imgur.com/mHxQyB2.png"group-title="CANAIS ABERTOS":http-referrer="":http-user-agent="",SIC TV (Rodonia)
+#EXTINF:-1 tvg-name="SIC TV (Rodonia)"tvg-id="SCTV.br"tvg-logo="https://i.imgur.com/mHxQyB2.png"group-title="RODONIA":http-referrer="":http-user-agent="",SIC TV (Rodonia)
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 #EXTINF:-1 tvg-name="SBT Cidade Verde (PI)"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX7wkJRptSBG1SR__JiQo43f6-wZUGy0-47-FIp9FDlQ&s"group-title="CANAIS ABERTOS":http-referrer="":http-user-agent="",SBT Cidade Verde (PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
@@ -951,8 +951,6 @@ https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
 https://vezatv.mediastreaming.com.br/vezatv/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Viajando pelo Brasil"tvg-id="ext"tvg-logo="https://s3-sa-east-1.amazonaws.com/projetos-artes/fullsize/2012/02/02/20/Logo-LV-57162_33803_031916386_1041107636.png"group-title="CANAIS DE VARIEDADES":http-referrer="":http-user-agent="",Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
-#EXTINF:-1 tvg-name="UP TV"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1df98ae4a11ac54fcc8117d21c8d6d7a.webp"group-title="CANAIS DE VARIEDADES":http-referrer="":http-user-agent="",UP TV
-https://stmv1.conectastreaming.com/tvpa4741/tvpa4741/playlist.m3u8
 #EXTINF:-1 tvg-name="ConecTV"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2680bba47d330becfa671ec27bada627.webp"group-title="CANAIS DE VARIEDADES":http-referrer="":http-user-agent="",ConecTV
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 #EXTINF:-1 tvg-name="TV Metropolitana (RJ)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2322d929ab7c617fbab73beb02b6d7f7.webp"group-title="CANAIS DE VARIEDADES":http-referrer="":http-user-agent="",TV Metropolitana (RJ)
@@ -1039,8 +1037,6 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Ülke TV (TR)"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxNZpQivdBeu9QOE1uNuvPWkGvqiRUFnRPD74h5T5syg&s"group-title="CANAIS INTERNACIONAIS":http-referrer="":http-user-agent="",Ülke TV (TR)
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
-#EXTINF:-1 tvg-name="Demand Africa (ZA)"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQFkPuRfyAffI_yBCw1QQqH92yj4z4FH46PYrVkBTivA&s"group-title="CANAIS INTERNACIONAIS":http-referrer="":http-user-agent="",Demand Africa (ZA)
-https://demandafrica-oando.amagi.tv/hls/amagi_hls_data_theafrica-demand-africa-oando/CDN/playlist.m3u8?p=da
 #EXTINF:-1 tvg-name="TV Tokyo (JP)"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLw610B0dAna16-1Xu7qlb9jT58xJyhiUeiQ&usqp=CAU"group-title="CANAIS INTERNACIONAIS":http-referrer="":http-user-agent="",TV Tokyo (JP)
 http://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59da
 #EXTINF:-1 tvg-name="TV Asahi (JP)"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCi8-kW0lv_MFNsnHJAMjYV1_02gqCzYt6CM0oaTaXsLJsmBJwl-IzXho&s"group-title="CANAIS INTERNACIONAIS":http-referrer="":http-user-agent="",TV Asahi (JP)
@@ -1145,8 +1141,6 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 #EXTINF:-1 tvg-name="RS News (MG)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ebed41ebe2ac5b0f93cb989b6743144c.webp"group-title="CANAIS DE NOTICIAS":http-referrer="":http-user-agent="",RS News (MG)
 https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
-#EXTINF:-1 tvg-name="Record News"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/86600ed6f09e4bf48be4e55a0cd01536.webp"group-title="CANAIS DE NOTICIAS":http-referrer="":http-user-agent="",Record News
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-name="Record News"tvg-id="RecordNews.br"tvg-logo="https://i.imgur.com/HZDRG0K.png"group-title="CANAIS DE NOTICIAS":http-referrer="":http-user-agent="",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 #EXTINF:-1 tvg-name="Jovem Pan News (JP News) (1080p) [Not 24/7]"tvg-id="JovemPanNews.br"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png"group-title="CANAIS DE NOTICIAS":http-referrer="":http-user-agent="",Jovem Pan News (JP News) (1080p) [Not 24/7]
@@ -1161,8 +1155,6 @@ https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Osório News (480p)"tvg-id="TVOsorioNews.br"tvg-logo="https://i.imgur.com/cmgM4nA.png"group-title="CANAIS DE NOTICIAS":http-referrer="":http-user-agent="",TV Osório News (480p)
 https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Sim Cachoeiro (720p)"tvg-id="TVSimCachoeiro.br"tvg-logo="https://i.imgur.com/t5oUK3C.png"group-title="CANAIS DE NOTICIAS":http-referrer="":http-user-agent="",TV Sim Cachoeiro (720p)
-https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Sim Colatina (720p)"tvg-id="TVSimColatina.br"tvg-logo="https://i.imgur.com/t5oUK3C.png"group-title="CANAIS DE NOTICIAS":http-referrer="":http-user-agent="",TV Sim Colatina (720p)
 https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
 #EXTINF:-1 tvg-name="TVídeoNews (720p) [Not 24/7]"tvg-id="TVideoNews.br"tvg-logo="https://i.imgur.com/vstHOYx.png"group-title="CANAIS DE NOTICIAS":http-referrer="":http-user-agent="",TVídeoNews (720p) [Not 24/7]
@@ -1509,8 +1501,6 @@ https://stmv5.samcast.com.br/showtimeradio/showtimeradio/chunklist_w646826477.m3
 https://cdn.live.br1.jmvstream.com/w/LVW-19069/LVW19069_m33J3I1Tpa/chunklist.m3u8
 #EXTINF:-1 tvg-name="RÁDIO TAROBÁ FM 101.7 LONDRINA"tvg-id="ext"tvg-logo="https://imgur.com/qnWYMIU.png"group-title="RADIO NA TV":http-referrer="":http-user-agent="",RÁDIO TAROBÁ FM 101.7 LONDRINA
 https://cdn.live.br1.jmvstream.com/w/LVW-19064/LVW19064_SkS5KoFxo2/chunklist.m3u8
-#EXTINF:-1 tvg-name="RÁDIO TRANS MUNDIAL"tvg-id="ext"tvg-logo="https://assets.rtmbrasil.org.br/logo-negativo.png"group-title="RADIO NA TV":http-referrer="":http-user-agent="",RÁDIO TRANS MUNDIAL
-https://video.midiaserverbr.com:3975/live/rtmbrlive.m3u8
 #EXTINF:-1 tvg-name="RÁDIO TRANS JOVEM"tvg-id="ext"tvg-logo="https://imgur.com/jKMc3yI.png"group-title="RADIO NA TV":http-referrer="":http-user-agent="",RÁDIO TRANS JOVEM
 https://srv6.zcast.com.br/raimundofrancisco4701/raimundofrancisco4701/playlist.m3u8
 #EXTINF:-1 tvg-name="RÁDIO VOZ MISSIONÁRIA"tvg-id="ext"tvg-logo="https://www.radiovozmissionaria.com.br/wp-content/uploads/sites/2/2022/01/logotipo.png"group-title="RADIO NA TV":http-referrer="":http-user-agent="",RÁDIO VOZ MISSIONÁRIA
@@ -1593,8 +1583,6 @@ https://canaleducacao-stream.ebc.com.br/index.m3u8
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 #EXTINF:-1 tvg-name="Toonz Kids"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5f58965018411c0ef81df7c6b596ad54.webp"group-title="Canais  ANIMES ":http-referrer="":http-user-agent="",Toonz Kids
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
-#EXTINF:-1 tvg-name="Kanuca TV"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0hfxIbe1DVebXySTG23jB9Xv6q4U5WdI41IUA1ELdNLOa6KmAW-Ywn0&s"group-title="Canais  ANIMES ":http-referrer="":http-user-agent="",Kanuca TV
-https://srv3.zcast.com.br/kanucatv/kanucatv/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Pompeia"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2gE49MkPNTYRAIlW1MSqCl3mFa5xUYg5nqnLpWGb1Hg&s"group-title="Canais  ANIMES ":http-referrer="":http-user-agent="",TV Pompeia
 https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
 #EXTINF:-1 tvg-name="Lï e Lully"tvg-id="ext"tvg-logo="https://nxplay-images.comets.com.br/resize/65ba3aa6b33fa_e87fab2ab503a0032691e607098fb9e8.png"group-title="Canais  ANIMES ":http-referrer="":http-user-agent="",Lï e Lully
@@ -3571,7 +3559,7 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_sl
 http://24.152.8.38:5001/live/olhatv/index.m3u8
 #EXTINF:-1 tvg-name="TV Paraná Turismo"tvg-id="ext"tvg-logo="https://i.imgur.com/OP1rFwr.png"group-title="ABERTO":http-referrer="":http-user-agent="",TV Paraná Turismo
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
-#EXTINF:-1 tvg-name="TV Candid�s"tvg-id="ext"tvg-logo="https://i.imgur.com/0Hbt4qg.png"group-title="ABERTO":http-referrer="":http-user-agent="",TV Candid�s
+#EXTINF:-1 tvg-name="TV Candid�s"tvg-id="ext"tvg-logo="https://i.imgur.com/0Hbt4qg.png"group-title="ABERTO":http-referrer="":http-user-agent="",TV Candidas
 https://cdn.live.br1.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8
 #EXTINF:-1 tvg-name="TV RBC"tvg-id="ext"tvg-logo="https://imgur.com/nA0cWeE.png"group-title="ABERTO":http-referrer="":http-user-agent="",TV RBC
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
@@ -3621,17 +3609,17 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Brasil Hits"tvg-id="ext"tvg-logo="https://imgur.com/21W4K2J.png"group-title="ABERTO":http-referrer="":http-user-agent="",TV Brasil Hits
 https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist.m3u8
-#EXTINF:-1 tvg-name="Agro Canal"tvg-id="ext"tvg-logo="https://imgur.com/ebNRqmy.png"group-title="ABERTO":http-referrer="":http-user-agent="",Agro Canal
+#EXTINF:-1 tvg-name="Agro Canal"tvg-id="ext"tvg-logo="https://imgur.com/ebNRqmy.png"group-title="AGROPECUÁRIOS":http-referrer="":http-user-agent="",Agro Canal
 https://aovivo.equipea.com.br:5443/aovivort/streams/RmvrJTkqJYoGD6gD1725309082818.m3u8
-#EXTINF:-1 tvg-name="Canal do Criador"tvg-id="ext"tvg-logo="https://i.imgur.com/k29So6X.png"group-title="ABERTO":http-referrer="":http-user-agent="",Canal do Criador
+#EXTINF:-1 tvg-name="Canal do Criador"tvg-id="ext"tvg-logo="https://i.imgur.com/k29So6X.png"group-title="AGROPECUÁRIOS":http-referrer="":http-user-agent="",Canal do Criador
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Nova TV Agrotour"tvg-id="ext"tvg-logo="https://i.imgur.com/cgN2hfm.png"group-title="ABERTO":http-referrer="":http-user-agent="",Nova TV Agrotour
+#EXTINF:-1 tvg-name="Nova TV Agrotour"tvg-id="ext"tvg-logo="https://i.imgur.com/cgN2hfm.png"group-title="AGROPECUÁRIOS":http-referrer="":http-user-agent="",Nova TV Agrotour
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal Rural"tvg-id="ext"tvg-logo="https://i.imgur.com/w9R9IIX.png"group-title="ABERTO":http-referrer="":http-user-agent="",Canal Rural
+#EXTINF:-1 tvg-name="Canal Rural"tvg-id="ext"tvg-logo="https://i.imgur.com/w9R9IIX.png"group-title="AGROPECUÁRIOS":http-referrer="":http-user-agent="",Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="XR HEALTH BRASIL"tvg-id="ext"tvg-logo="https://i.imgur.com/3g7ijoK.png"group-title="ABERTO":http-referrer="":http-user-agent="",XR HEALTH BRASIL
 http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
-#EXTINF:-1 tvg-name="CONECTV"tvg-id="ext"tvg-logo="https://imgur.com/AUdVAuP.png"group-title="ABERTO":http-referrer="":http-user-agent="",CONECTV
+#EXTINF:-1 tvg-name="CONECTV"tvg-id="ext"tvg-logo="https://imgur.com/AUdVAuP.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",CONECTV
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?ManoTV
 #EXTINF:-1 tvg-name="TV A Folha"tvg-id="ext"tvg-logo="https://i.imgur.com/I7XGMhj.png"group-title="ABERTO":http-referrer="":http-user-agent="",TV A Folha
 https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
@@ -3655,7 +3643,7 @@ https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/chunklist_w1605
 https://58c8a6b3c74e2.streamlock.net:1936/paroquiavianney/smil:paroquiavianney.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Gospa Mira YouTube"tvg-id="ext"tvg-logo="https://imgur.com/MUUXCDM.png"group-title="ABERTO":http-referrer="":http-user-agent="",TV Gospa Mira YouTube
 https://ythls.armelin.one/channel/UC6oZlH7_E0fT90pblY7rX4g.m3u8
-#EXTINF:-1 tvg-name="Canção Nova Portugal"tvg-id="ext"tvg-logo="https://i.imgur.com/Z49TV0y.png"group-title="ABERTO":http-referrer="":http-user-agent="",Canção Nova Portugal
+#EXTINF:-1 tvg-name="Canção Nova Portugal"tvg-id="ext"tvg-logo="https://i.imgur.com/Z49TV0y.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",Canção Nova Portugal
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w1282186408.m3u8
 #EXTINF:-1 tvg-name="TV Mais"tvg-id="ext"tvg-logo="https://i.imgur.com/Y9N1RL3.png"group-title="ABERTO":http-referrer="":http-user-agent="",TV Mais
 https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
@@ -3669,7 +3657,7 @@ https://stmv1.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-name="CLASSIQUE TV"tvg-id="ext"tvg-logo="https://imgur.com/mvuZGvt.png"group-title="ABERTO":http-referrer="":http-user-agent="",CLASSIQUE TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-name="TV RIO MADEIRA"tvg-id="ext"tvg-logo="https://imgur.com/Klwjy9d.png"group-title="ABERTO":http-referrer="":http-user-agent="",TV RIO MADEIRA
+#EXTINF:-1 tvg-name="TV RIO MADEIRA"tvg-id="ext"tvg-logo="https://imgur.com/Klwjy9d.png"group-title="RODONIA":http-referrer="":http-user-agent="",TV RIO MADEIRA
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 #EXTINF:-1 tvg-name="TV OURO NEGRO"tvg-id="ext"tvg-logo="https://imgur.com/mfdXYXs.png"group-title="ABERTO":http-referrer="":http-user-agent="",TV OURO NEGRO
 https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
