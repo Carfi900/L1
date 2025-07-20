@@ -16,6 +16,8 @@ https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
 #EXTINF:-1 tvg-name="Assim e Portugal Brasil"tvg-id="ext"tvg-logo="https://assimeportugal.com/wp-content/uploads/2020/10/lg-assim-01.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",Assim e Portugal Brasil
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
+#EXTINF:-1 tvg-id="MuzangalaTV.ao"tvg-logo="https://i.imgur.com/fBeaJoS.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",Muzangala TV 
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN Portugal"tvg-id="ext"tvg-logo="https://imgur.com/bc6tYVZ.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",CNN Portugal
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 #EXTINF:-1 tvg-name="Sic TV"tvg-id="ext"tvg-logo="https://imgur.com/11aNWuU.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",Sic TV
@@ -52,8 +54,13 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-name="Band TV Arapuan (PB)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d82f6ecad5c6c3d39cc1cdae7521d3b1.webp"group-title="CANAIS ABERTOS":http-referrer="":http-user-agent="",Band TV Arapuan (PB)
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+## RODONIA ##
 #EXTINF:-1 tvg-name="SIC TV Rodonia"tvg-id="SCTV.br"tvg-logo="https://i.imgur.com/mHxQyB2.png"group-title="RODONIA":http-referrer="":http-user-agent="",SIC TV Rodonia
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+#EXTINF:-1 tvg-name="Rede TV SGC Rondônia"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/544293524ead0d5e33c121ff64d41293.webp"group-title="RODONIA":http-referrer="":http-user-agent="",Rede TV SGC Rondônia
+https://204282.global.ssl.fastly.net/64cd5c4d7a120f4f3544ca88/live_b2696150f13711eeb398a9b4ff06b4ea/index.m3u8
+#EXTINF:-1 tvg-name="TV RIO MADEIRA"tvg-id="ext"tvg-logo="https://imgur.com/Klwjy9d.png"group-title="RODONIA":http-referrer="":http-user-agent="",TV RIO MADEIRA
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 #EXTINF:-1 tvg-name="SBT Cidade Verde (PI)"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX7wkJRptSBG1SR__JiQo43f6-wZUGy0-47-FIp9FDlQ&s"group-title="CANAIS ABERTOS":http-referrer="":http-user-agent="",SBT Cidade Verde (PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 #EXTINF:-1 tvg-name="Record TV Vitoria (ES)"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD14mxkjuTxuhjXwQtcL5TV-n1WT76KHgDsN6THDB9jA&s"group-title="CANAIS ABERTOS":http-referrer="":http-user-agent="",Record TV Vitoria (ES)
@@ -90,8 +97,7 @@ https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
 https://video08.logicahost.com.br/lidertvssp/lidertvssp/playlist.m3u8
 #EXTINF:-1 tvg-name="Record TV Goiás"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQldWs04eqWa5zX5FfjvS0Z_p9fjYYWoGH1bDZLZ_6q8zwu695_RDWRI2k&s"group-title="CANAIS ABERTOS":http-referrer="":http-user-agent="",Record TV Goiás
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-name="Rede TV SGC Rondônia"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/544293524ead0d5e33c121ff64d41293.webp"group-title="RODONIA":http-referrer="":http-user-agent="",Rede TV SGC Rondônia
-https://204282.global.ssl.fastly.net/64cd5c4d7a120f4f3544ca88/live_b2696150f13711eeb398a9b4ff06b4ea/index.m3u8
+
 #EXTINF:-1 tvg-name="Rede TV Paraná"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e77ec3ec8016c9fd59aead82a6eca6db.webp"group-title="CANAIS ABERTOS":http-referrer="":http-user-agent="",Rede TV Paraná
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-name="Record TV Tropical (RN)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85b498edcd66663ea7dfb0c1f9fc697e.webp"group-title="CANAIS ABERTOS":http-referrer="":http-user-agent="",Record TV Tropical (RN)
@@ -1026,6 +1032,8 @@ https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Deustche Welle (DE)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dd20dc7ce12901f45a5f100a4cc97032.webp"group-title="CANAIS INTERNACIONAIS":http-referrer="":http-user-agent="",Deustche Welle (DE)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="TVZimbo.ao"tvg-logo="https://i.imgur.com/SFD8CBh.png"group-title="CANAIS INTERNACIONAIS":http-referrer="":http-user-agent="",TV Zimbo (1080p)
+https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Televisa (MX)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8b87fae8b98e6377363375486d6308f6.webp"group-title="CANAIS INTERNACIONAIS":http-referrer="":http-user-agent="",Televisa (MX)
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-name="Canal Once (MX)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d800ee1a28bbee6769de24c5c050c40c.webp"group-title="CANAIS INTERNACIONAIS":http-referrer="":http-user-agent="",Canal Once (MX)
@@ -3660,8 +3668,7 @@ https://stmv1.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-name="CLASSIQUE TV"tvg-id="ext"tvg-logo="https://imgur.com/mvuZGvt.png"group-title="ABERTO":http-referrer="":http-user-agent="",CLASSIQUE TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-name="TV RIO MADEIRA"tvg-id="ext"tvg-logo="https://imgur.com/Klwjy9d.png"group-title="ABERTO":http-referrer="":http-user-agent="",TV RIO MADEIRA
-https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
+
 #EXTINF:-1 tvg-name="TV OURO NEGRO"tvg-id="ext"tvg-logo="https://imgur.com/mfdXYXs.png"group-title="ABERTO":http-referrer="":http-user-agent="",TV OURO NEGRO
 https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
 #EXTINF:-1 tvg-name="Igreja Universal"tvg-id="ext"tvg-logo="https://i.imgur.com/TIsk5zN.png "group-title="ABERTO":http-referrer="":http-user-agent="",Igreja Universal
