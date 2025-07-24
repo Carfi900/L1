@@ -3707,16 +3707,18 @@ https://live.uniaoplus.com/hls/sqYJRqIsBLTW36TC.m3u8
 ### ACRE ###
 #EXTINF:-1 tvg-name="TV União Rio Branco"tvg-id="ext"tvg-logo="https://i.imgur.com/pw0RLlI.png"group-title="ACRE":http-referrer="":http-user-agent="",TV União Rio Branco
 https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
-#EXTINF:-1 tvg-name="Rádio Aldeia 105.9 FM Sena Madureira / AC - Brasil"tvg-id="ext"tvg-logo="https://i.imgur.com/pw0RLlI.png"group-title="ACRE":http-referrer="":http-user-agent="",Rádio Aldeia 105.9 FMSena Madureira / AC - Brasil
+#EXTINF:-1 tvg-name="Rádio Aldeia 105.9 FM Sena Madureira / AC - Brasil"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/md/radio266724_1748888575.jpg"group-title="ACRE":http-referrer="":http-user-agent="",Rádio Aldeia 105.9 FMSena Madureira / AC - Brasil
 https://stream-178.zeno.fm/jjxd7vouu2wuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqanhkN3ZvdXUyd3V2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik9pdGp1a0s2UmZHT1pTU0JLNUEyeGciLCJpYXQiOjE3NTMzMTI5MjIsImV4cCI6MTc1MzMxMjk4Mn0.pLPKCSl__tDk0WfGk0BFER1rhsT5MB1DbcZDeC5IJQ4&1753312918970
 
 #EXTINF:-1 tvg-name="Rádio Três FronteirasAssis Brasil / AC - Brasil"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/lg/radio237979_1707229428.png"group-title="ACRE":http-referrer="":http-user-agent="",Rádio Três FronteirasAssis Brasil / AC - Brasil
 https://stm3.srvif.com:8138/stream?1753313754215
 
 
+#EXTINF:-1 tvg-name="Rádio Alternativa FM 87.9"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/lg/radio26568_1646845960.jpg"group-title="ACRE":http-referrer="":http-user-agent="",Rádio Alternativa FM 87.9
+https://stm1.aovivodigital.com.br:10342/stream?1753314883931
 
-
-
+#EXTINF:-1 tvg-name="Rádio Dimensão 104.9 FM Sena Madureira / AC - Brasil"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/lg/radio12819_1439401446.jpg"group-title="ACRE":http-referrer="":http-user-agent="",Rádio Dimensão 104.9 FMSena Madureira / AC - Brasil
+https://hts06.brascast.com:8542/stream?1753315319691
 
 #EXTINF:-1 tvg-name="TV Vitória PE"tvg-id="ext"tvg-logo="https://i.imgur.com/IfPT4sF.png"group-title="ABERTO":http-referrer="":http-user-agent="",TV Vitória PE
 https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
