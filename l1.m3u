@@ -3714,11 +3714,22 @@ https://stream-178.zeno.fm/jjxd7vouu2wuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 https://stm3.srvif.com:8138/stream?1753313754215
 
 
-#EXTINF:-1 tvg-name="Rádio Alternativa FM 87.9"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/lg/radio26568_1646845960.jpg"group-title="ACRE":http-referrer="":http-user-agent="",Rádio Alternativa FM 87.9
+#EXTINF:-1 tvg-name="Rádio Alternativa FM 87.9 Acrelândia / AC - Brasil"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/lg/radio26568_1646845960.jpg"group-title="ACRE":http-referrer="":http-user-agent="",Rádio Alternativa FM 87.9  Acrelândia / AC - Brasil
 https://stm1.aovivodigital.com.br:10342/stream?1753314883931
 
-#EXTINF:-1 tvg-name="Rádio Dimensão 104.9 FM Sena Madureira / AC - Brasil"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/lg/radio12819_1439401446.jpg"group-title="ACRE":http-referrer="":http-user-agent="",Rádio Dimensão 104.9 FMSena Madureira / AC - Brasil
+#EXTINF:-1 tvg-name="Rádio Dimensão 104.9 FM Sena Madureira / AC - Brasil"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/lg/radio12819_1439401446.jpg"group-title="ACRE":http-referrer="":http-user-agent="",Rádio Dimensão 104.9 FM Sena Madureira / AC - Brasil
 https://hts06.brascast.com:8542/stream?1753315319691
+
+#EXTINF:-1 tvg-name="Rádio Juruá 100.9 FM Cruzeiro do Sul / AC - Brasil"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/lg/radio13549_1671454107.png"group-title="ACRE":http-referrer="":http-user-agent="",Rádio Juruá 100.9 FMCruzeiro do Sul / AC - Brasil
+https://cdn-radiojurua.ciclano.io:1443/radiojurua/radiojurua/playlist.m3u8
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-name="TV Vitória PE"tvg-id="ext"tvg-logo="https://i.imgur.com/IfPT4sF.png"group-title="ABERTO":http-referrer="":http-user-agent="",TV Vitória PE
 https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
