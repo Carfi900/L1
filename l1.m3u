@@ -4441,6 +4441,8 @@ http://24hrs.homelinux.com:80/24H-escolinhaold/video.m3u8
 http://24hrs.homelinux.com:80/24H-euapatroaeascriancas7/video.m3u8
 #EXTINF:-1 tvg-name="Tô d Graça 24h"tvg-id="ext"tvg-logo="https://imgur.com/BatygW5.png "group-title="Canais COMEDIA":http-referrer="":http-user-agent="",Tô d Graça 24h
 http://24hrs.homelinux.com:80/24H-todegraca/video.m3u8
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt"tvg-logo="https://i.imgur.com/UJhQoUK.png"group-title="Canais INTERNACIONAL":http-referrer="":http-user-agent="",Azteca Guate Guatemala (1080p)
+https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Las Estrellas"tvg-id="ext"tvg-logo="https://imgur.com/rmmvWsX.png "group-title="Canais INTERNACIONAL":http-referrer="":http-user-agent="",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
 #EXTINF:-1 tvg-name="CNN International"tvg-id="ext"tvg-logo="https://i.imgur.com/05S3yYZ.png"group-title="Canais INTERNACIONAL":http-referrer="":http-user-agent="",CNN International
