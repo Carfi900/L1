@@ -1002,10 +1002,6 @@ https://crtvg-europa.flumotion.cloud/playlist.m3u8
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/bitrate_7.m3u8
 #EXTINF:-1 tvg-name="TV3 CAT"tvg-id="ext"tvg-logo=""group-title="ESPANHA":http-referrer="":http-user-agent="",TV3 CAT
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/bitrate_7.m3u8
-
-
-
-### USA ###
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="Undefined":http-referrer="":http-user-agent="",Bad Girls Club
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654932fa4d6d8f00084c4723/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce94-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b1b96db7-7e31-41b3-b84a-e4af6f3435f5
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="Undefined":http-referrer="":http-user-agent="",Bad Girls Club
@@ -1014,7 +1010,6 @@ https://xumo-xumoent-vc-118-jed5p.fast.nbcuni.com/live/master.m3u8
 https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="CNNInternationalEurope.us"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png"group-title="USA":http-referrer="":http-user-agent="",CNN
 https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-name=""tvg-id="CNNInternationalEurope.us"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png"group-title="USA":http-referrer="":http-user-agent="",CNN
 https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="BLOOMBERG.us"tvg-logo="https://www.afsc.org/sites/default/files/styles/maxsize/public/images/Bloomberg.png?itok=Yi7zgFpO"group-title="USA":http-referrer="":http-user-agent="",BLOOMBERG
@@ -3848,8 +3843,6 @@ https://cr7v.short.gy/mano5/testchamaWhats75991634025.m3u8
 https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
 #EXTINF:-1 tvg-name="ManoFUT 9"tvg-id="ext"tvg-logo="https://i.imgur.com/YXAltQq.png"group-title="ESPORTE":http-referrer="":http-user-agent="",ManoFUT 9
 https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
-
-
 #EXTINF:-1 tvg-id="30AInvestmentPitch.us"tvg-logo="https://i.imgur.com/CKCtZo7.png"group-title="Business":http-referrer="":http-user-agent="",30A Investment Pitch (720p)
 https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 #EXTINF:-1 tvg-id="100NEWS.ua"tvg-logo="https://i.imgur.com/bSXKdK5.png"group-title="Business":http-referrer="":http-user-agent="",100% News (576p)
