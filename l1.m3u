@@ -1044,7 +1044,7 @@ https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Deustche Welle (DE)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dd20dc7ce12901f45a5f100a4cc97032.webp"group-title="CANAIS INTERNACIONAIS":http-referrer="":http-user-agent="",Deustche Welle (DE)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="TVZimbo.ao"tvg-logo="https://i.imgur.com/SFD8CBh.png"group-title="CANAIS INTERNACIONAIS":http-referrer="":http-user-agent="",TV Zimbo (1080p)
+#EXTINF:-1 tvg-id="TVZimbo.ao"tvg-logo="https://i.imgur.com/SFD8CBh.png"group-title="CANAIS INTERNACIONAIS":http-referrer="":http-user-agent="",TV Zimbo - Angola (1080p)
 https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Televisa (MX)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8b87fae8b98e6377363375486d6308f6.webp"group-title="CANAIS INTERNACIONAIS":http-referrer="":http-user-agent="",Televisa (MX)
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
