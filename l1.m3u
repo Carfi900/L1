@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/refs/heads/main/EPG/epg-pt.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rtp-pt.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rytec-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-mitv-br.xml.gz,http://www.xmltvepg.nl/rytecES_Basic.xz,http://www.xmltvepg.nl/rytecBE_FR_Basic.xz,http://www.xmltvepg.nl/rytecIT_Basic.xz,http://www.xmltvepg.nl/rytecUK_Basic.xz,https://www.tdtchannels.com/epg/TV.xml.gz"
-
 #EXTINF:-1 tvg-name="SIC"tvg-id="SC.pt"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 tvg-name="SIC (PT)"tvg-id="sic.pt"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz8b9eP4mtjobnC4Sl7PZNksOsBABJNGo2-Q_BLvqu4w&s"group-title="PORTUGAL":http-referrer="":http-user-agent="",SIC (PT)
@@ -97,7 +96,6 @@ https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
 https://video08.logicahost.com.br/lidertvssp/lidertvssp/playlist.m3u8
 #EXTINF:-1 tvg-name="Record TV Goiás"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQldWs04eqWa5zX5FfjvS0Z_p9fjYYWoGH1bDZLZ_6q8zwu695_RDWRI2k&s"group-title="CANAIS ABERTOS":http-referrer="":http-user-agent="",Record TV Goiás
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-
 #EXTINF:-1 tvg-name="Rede TV Paraná"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e77ec3ec8016c9fd59aead82a6eca6db.webp"group-title="CANAIS ABERTOS":http-referrer="":http-user-agent="",Rede TV Paraná
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-name="Record TV Tropical (RN)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85b498edcd66663ea7dfb0c1f9fc697e.webp"group-title="CANAIS ABERTOS":http-referrer="":http-user-agent="",Record TV Tropical (RN)
@@ -3676,7 +3674,6 @@ https://stmv1.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-name="CLASSIQUE TV"tvg-id="ext"tvg-logo="https://imgur.com/mvuZGvt.png"group-title="ABERTO":http-referrer="":http-user-agent="",CLASSIQUE TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
-
 #EXTINF:-1 tvg-name="TV OURO NEGRO"tvg-id="ext"tvg-logo="https://imgur.com/mfdXYXs.png"group-title="ABERTO":http-referrer="":http-user-agent="",TV OURO NEGRO
 https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
 #EXTINF:-1 tvg-name="Igreja Universal"tvg-id="ext"tvg-logo="https://i.imgur.com/TIsk5zN.png "group-title="ABERTO":http-referrer="":http-user-agent="",Igreja Universal
@@ -3711,34 +3708,18 @@ http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZesaflEnFih4
 https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8
 #EXTINF:-1 tvg-name="TV União Brasília"tvg-id="ext"tvg-logo="https://i.imgur.com/pw0RLlI.png"group-title="ABERTO":http-referrer="":http-user-agent="",TV União Brasília
 https://live.uniaoplus.com/hls/sqYJRqIsBLTW36TC.m3u8
-
-### ACRE ###
 #EXTINF:-1 tvg-name="TV União Rio Branco"tvg-id="ext"tvg-logo="https://i.imgur.com/pw0RLlI.png"group-title="ACRE":http-referrer="":http-user-agent="",TV União Rio Branco
 https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
 #EXTINF:-1 tvg-name="Rádio Aldeia 105.9 FM Sena Madureira / AC - Brasil"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/md/radio266724_1748888575.jpg"group-title="ACRE":http-referrer="":http-user-agent="",Rádio Aldeia 105.9 FMSena Madureira / AC - Brasil
 https://stream-178.zeno.fm/jjxd7vouu2wuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqanhkN3ZvdXUyd3V2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik9pdGp1a0s2UmZHT1pTU0JLNUEyeGciLCJpYXQiOjE3NTMzMTI5MjIsImV4cCI6MTc1MzMxMjk4Mn0.pLPKCSl__tDk0WfGk0BFER1rhsT5MB1DbcZDeC5IJQ4&1753312918970
-
 #EXTINF:-1 tvg-name="Rádio Três FronteirasAssis Brasil / AC - Brasil"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/lg/radio237979_1707229428.png"group-title="ACRE":http-referrer="":http-user-agent="",Rádio Três FronteirasAssis Brasil / AC - Brasil
 https://stm3.srvif.com:8138/stream?1753313754215
-
-
 #EXTINF:-1 tvg-name="Rádio Alternativa FM 87.9 Acrelândia / AC - Brasil"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/lg/radio26568_1646845960.jpg"group-title="ACRE":http-referrer="":http-user-agent="",Rádio Alternativa FM 87.9  Acrelândia / AC - Brasil
 https://stm1.aovivodigital.com.br:10342/stream?1753314883931
-
 #EXTINF:-1 tvg-name="Rádio Dimensão 104.9 FM Sena Madureira / AC - Brasil"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/lg/radio12819_1439401446.jpg"group-title="ACRE":http-referrer="":http-user-agent="",Rádio Dimensão 104.9 FM Sena Madureira / AC - Brasil
 https://hts06.brascast.com:8542/stream?1753315319691
-
 #EXTINF:-1 tvg-name="Rádio Juruá 100.9 FM Cruzeiro do Sul / AC - Brasil"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/lg/radio13549_1671454107.png"group-title="ACRE":http-referrer="":http-user-agent="",Rádio Juruá 100.9 FMCruzeiro do Sul / AC - Brasil
 https://cdn-radiojurua.ciclano.io:1443/radiojurua/radiojurua/playlist.m3u8
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-name="TV Vitória PE"tvg-id="ext"tvg-logo="https://i.imgur.com/IfPT4sF.png"group-title="ABERTO":http-referrer="":http-user-agent="",TV Vitória PE
 https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
 #EXTINF:-1 tvg-name="TV SIM Linhares"tvg-id="ext"tvg-logo="https://i.imgur.com/tLkF2BE.png"group-title="ABERTO":http-referrer="":http-user-agent="",TV SIM Linhares
@@ -3917,9 +3898,6 @@ https://v4.tustreaming.cl/tevexinter/index.m3u8
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
 #EXTINF:-1 tvg-id="KanaalZ.be"tvg-logo="https://i.imgur.com/YzgYJxM.png"group-title="Business":http-referrer="":http-user-agent="",Trends Z (1080p)
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
-#EXTINF:-1 tvg-id="YahooFinance.us"tvg-logo="https://i.imgur.com/43oHsHL.png"group-title="Business":http-referrer="":http-user-agent="",Yahoo! Finance (1080p)
-
-
 #EXTINF:-1 tvg-name="CNN BRASIL"tvg-id="CNN BRASL"tvg-logo="https://i.imgur.com/4dfmnBs.png"group-title="CANAIS NOTICIAS":http-referrer="":http-user-agent="",CNN BRASIL
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus-640x360/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN Brasil Money"tvg-id="CNN Brasil Money"tvg-logo="https://i.imgur.com/3rHuAWH.png"group-title="CANAIS NOTICIAS":http-referrer="":http-user-agent="",CNN Brasil Money
