@@ -1558,6 +1558,24 @@ https://d1yqxv6gx128ca.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
 #EXTINF:-1 tvg-name="Canal do Inter (720p) [Not 24/7]"tvg-id="Canaldonter.br"tvg-logo="https://i.imgur.com/TQFWEIS.png"group-title="ESPORTE":http-referrer="":http-user-agent="",Canal do Inter (720p) [Not 24/7]
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Internacional"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfyS2fa9YBUKGT-53_gSCMQLqp9256YRp4A9WtduPC4OU8xQLX-qrOcak&s"group-title="ESPORTE":http-referrer="":http-user-agent="",TV Internacional
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+#EXTINF:-1 tvg-name="Ponte Preta TV"tvg-id="ext"tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/PONTV-190223-Logo2.png"group-title="ESPORTE":http-referrer="":http-user-agent="",Ponte Preta TV
+https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySport1.nz"tvg-logo="https://i.imgur.com/ThJHEuN.png"group-title="ESPORTE":http-referrer="":http-user-agent="",Sky Sport 1 nz(1080p)
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118585.ts
+#EXTINF:-1 tvg-id="SkySport2.nz"tvg-logo="https://i.imgur.com/cu8yB69.png"group-title="ESPORTE":http-referrer="":http-user-agent="",Sky Sport 2 nz(1080p)
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118586.ts
+#EXTINF:-1 tvg-id="SkySport3.nz"tvg-logo="https://i.imgur.com/XYp3Ua3.png"group-title="ESPORTE":http-referrer="":http-user-agent="",Sky Sport 3 nz(1080p)
+https://hls.sheepland.xyz/play/0/15?proxy=0
+#EXTINF:-1 tvg-id="SkySport4.nz"tvg-logo="https://i.imgur.com/KUXs7SQ.png"group-title="ESPORTE":http-referrer="":http-user-agent="",Sky Sport 4 nz(1080p)
+https://hls.sheepland.xyz/play/0/36?proxy=0
+#EXTINF:-1 tvg-id="SkySport5.nz"tvg-logo="https://i.imgur.com/xgpKcYh.png"group-title="ESPORTE":http-referrer="":http-user-agent="",Sky Sport 5 nz(1080p)
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118589.ts
+#EXTINF:-1 tvg-id="SkySport6.nz"tvg-logo="https://i.imgur.com/nyjD1dU.png"group-title="ESPORTE":http-referrer="":http-user-agent="",Sky Sport 6 nz(1080p)
+https://hls.sheepland.xyz/play/0/70?proxy=0
+#EXTINF:-1 tvg-id="SkySport7.nz"tvg-logo="https://i.imgur.com/iuTNWh4.png"group-title="ESPORTE":http-referrer="":http-user-agent="",Sky Sport 7 nz(1080p)
+https://hls.sheepland.xyz/play/0/66?proxy=0
 #EXTINF:-1 tvg-name="WWE Youtube"tvg-id="ext"tvg-logo="https://i.imgur.com/pMo2FPJ.png"group-title="ESPORTE":http-referrer="":http-user-agent="",WWE Youtube
 https://ythls.armelin.one/channel/UCJ5v_MCY6GNUBTO8-D3XoAg.m3u8
 #EXTINF:-1 tvg-name="LA LIGA"tvg-id="ext"tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20240611T061844SQUARE.png"group-title="ESPORTE":http-referrer="":http-user-agent="",LA LIGA
@@ -1566,18 +1584,12 @@ https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-name="XFC"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b346dd21595c147bd9abea57b4256f32.webp"group-title="ESPORTE":http-referrer="":http-user-agent="",XFC
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2351
-#EXTINF:-1 tvg-name="MLB Network"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/473dc750652d9ae1930de51f914033d7.webp"group-title="ESPORTE":http-referrer="":http-user-agent="",MLB Network
-https://d1yqxv6gx128ca.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mmpgjr4zitcp0/playlist.m3u8
 #EXTINF:-1 tvg-name="CombaTV"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e3bf7ef1f38f0a0e9e7be887f7704786.webp"group-title="ESPORTE":http-referrer="":http-user-agent="",CombaTV
 https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
 #EXTINF:-1 tvg-name="RedBull TV"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJSoAh97DgMx-DMlhRLHlyw3hgGzvOGo-d8PMealpwk_v-Opf1jUdxvQE&s"group-title="ESPORTE":http-referrer="":http-user-agent="",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-name="Ponte Preta TV"tvg-id="ext"tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/PONTV-190223-Logo2.png"group-title="ESPORTE":http-referrer="":http-user-agent="",Ponte Preta TV
-https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
 #EXTINF:-1 tvg-name="Top FM TV 240p Not 24-7"tvg-id="TopTV.pe"tvg-logo="https://i.imgur.com/tiNvihZ.png"group-title="PERU":http-referrer="":http-user-agent="",Top FM TV 240p Not 24-7
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
-#EXTINF:-1 tvg-name="TV Internacional"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfyS2fa9YBUKGT-53_gSCMQLqp9256YRp4A9WtduPC4OU8xQLX-qrOcak&s"group-title="ESPORTE":http-referrer="":http-user-agent="",TV Internacional
-https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-name="Motorvision"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f2a67a0c02ab0841afbdd8e7623aeae5.webp"group-title="ESPORTE":http-referrer="":http-user-agent="",Motorvision
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
 #EXTINF:-1 tvg-name="Nature Time"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/76c1f7bf76617738201aa7ad7ca01972.webp"group-title="CANAIS EDUCATIVOS":http-referrer="":http-user-agent="",Nature Time
@@ -3812,20 +3824,6 @@ https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_480p.m3u8
 https://ythls.armelin.one/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
 #EXTINF:-1 tvg-name="Esportes Brasília"tvg-id="ext"tvg-logo="https://i.imgur.com/6fU9ulW.png"group-title="ESPORTE":http-referrer="":http-user-agent="",Esportes Brasília
 https://a.cdni.live/radioesporte/radioesporte/chunklist_w1002148111.m3u8?ManoTV
-#EXTINF:-1 tvg-name="ManoFUT"tvg-id="ext"tvg-logo="https://i.imgur.com/YXAltQq.png"group-title="ESPORTE":http-referrer="":http-user-agent="",ManoFUT
-https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
-#EXTINF:-1 tvg-name="ManoFUT 2"tvg-id="ext"tvg-logo="https://i.imgur.com/YXAltQq.png"group-title="ESPORTE":http-referrer="":http-user-agent="",ManoFUT 2
-https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
-#EXTINF:-1 tvg-name="ManoFUT 3"tvg-id="ext"tvg-logo="https://i.imgur.com/YXAltQq.png"group-title="ESPORTE":http-referrer="":http-user-agent="",ManoFUT 3
-https://cr7v.short.gy/mano3/testchamaWhats75991634025.m3u8
-#EXTINF:-1 tvg-name="ManoFUT 4"tvg-id="ext"tvg-logo="https://i.imgur.com/YXAltQq.png"group-title="ESPORTE":http-referrer="":http-user-agent="",ManoFUT 4
-https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
-#EXTINF:-1 tvg-name="ManoFUT 5"tvg-id="ext"tvg-logo="https://i.imgur.com/YXAltQq.png"group-title="ESPORTE":http-referrer="":http-user-agent="",ManoFUT 5
-https://cr7v.short.gy/mano5/testchamaWhats75991634025.m3u8
-#EXTINF:-1 tvg-name="ManoFUT 7"tvg-id="ext"tvg-logo="https://i.imgur.com/YXAltQq.png"group-title="ESPORTE":http-referrer="":http-user-agent="",ManoFUT 7
-https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
-#EXTINF:-1 tvg-name="ManoFUT 9"tvg-id="ext"tvg-logo="https://i.imgur.com/YXAltQq.png"group-title="ESPORTE":http-referrer="":http-user-agent="",ManoFUT 9
-https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
 #EXTINF:-1 tvg-id="30AInvestmentPitch.us"tvg-logo="https://i.imgur.com/CKCtZo7.png"group-title="Business":http-referrer="":http-user-agent="",30A Investment Pitch (720p)
 https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 #EXTINF:-1 tvg-id="100NEWS.ua"tvg-logo="https://i.imgur.com/bSXKdK5.png"group-title="Business":http-referrer="":http-user-agent="",100% News (576p)
