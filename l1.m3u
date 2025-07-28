@@ -1312,14 +1312,6 @@ https://stream3.camara.gov.br/tv2/manifest.m3u8
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-name="TV Tudo BH (720p)"tvg-id="TVTudoBH.br"tvg-logo="https://i.imgur.com/5SKSkUQ.png"group-title="CANAIS ABERTOS":http-referrer="":http-user-agent="",TV Tudo BH (720p)
 https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal do Inter (720p) [Not 24/7]"tvg-id="Canaldonter.br"tvg-logo="https://i.imgur.com/TQFWEIS.png"group-title="ESPORTE":http-referrer="":http-user-agent="",Canal do Inter (720p) [Not 24/7]
-https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
-#EXTINF:-1 tvg-name="LA LIGA"tvg-id="ext"tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20240611T061844SQUARE.png"group-title="ESPORTE":http-referrer="":http-user-agent="",LA LIGA
-https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBD3600001Q1
-#EXTINF:-1 tvg-name="WWE Youtube"tvg-id="ext"tvg-logo="https://i.imgur.com/pMo2FPJ.png"group-title="CANAIS DE ESPORTS":http-referrer="":http-user-agent="",WWE Youtube
-https://ythls.armelin.one/channel/UCJ5v_MCY6GNUBTO8-D3XoAg.m3u8
-#EXTINF:-1 tvg-name="Deportes  Pluto TV Argentina"tvg-id="ext"tvg-logo="http://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png"group-title="ESPORTE":http-referrer="":http-user-agent="",Deportes  Pluto TV Argentina
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-name="Canal Educação (720p)"tvg-id="CanalEducacao.br"tvg-logo="https://i.imgur.com/OOB7nrS.png"group-title="CANAIS EDUCATIVOS":http-referrer="":http-user-agent="",Canal Educação (720p)
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Misterios (480p)"tvg-id="PlutoTVMisterios.br"tvg-logo="https://i.imgur.com/gwxX1Y3.png"group-title="CANAIS EDUCATIVOS":http-referrer="":http-user-agent="",Pluto TV Misterios (480p)
@@ -1558,10 +1550,20 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 https://wo.cma.footballii.ir/hls2/b1.m3u8
 #EXTINF:-1 tvg-name="WSN (Women Sports network)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dc333b18fd571fb39a69ea75c98f0deb.webp"group-title="CANAIS DE ESPORTES":http-referrer="":http-user-agent="",WSN (Women Sports network)
 https://amg01416-faststudios-womensnetwork-plex-rzxxu.amagi.tv/playlist/amg01416-faststudios-womensnetwork-plex/playlist.m3u8
+#EXTINF:-1 tvg-name="SFT Combat"tvg-id="ext"tvg-logo="https://imgur.com/CYD3RN9.png"group-title="ESPORTE":http-referrer="":http-user-agent="",SFT Combat
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6660b636cb3ea10008429c6alivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-name="MLB Network"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/473dc750652d9ae1930de51f914033d7.webp"group-title="ESPORTE":http-referrer="":http-user-agent="",MLB Network
 https://d1yqxv6gx128ca.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mmpgjr4zitcp0/playlist.m3u8
 #EXTINF:-1 tvg-name="Motor Racing TV"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dcfa04b326ae2d1b6a2c7f86b6452abf.webp"group-title="ESPORTE":http-referrer="":http-user-agent="",Motor Racing TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
+#EXTINF:-1 tvg-name="Canal do Inter (720p) [Not 24/7]"tvg-id="Canaldonter.br"tvg-logo="https://i.imgur.com/TQFWEIS.png"group-title="ESPORTE":http-referrer="":http-user-agent="",Canal do Inter (720p) [Not 24/7]
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+#EXTINF:-1 tvg-name="WWE Youtube"tvg-id="ext"tvg-logo="https://i.imgur.com/pMo2FPJ.png"group-title="ESPORTE":http-referrer="":http-user-agent="",WWE Youtube
+https://ythls.armelin.one/channel/UCJ5v_MCY6GNUBTO8-D3XoAg.m3u8
+#EXTINF:-1 tvg-name="LA LIGA"tvg-id="ext"tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20240611T061844SQUARE.png"group-title="ESPORTE":http-referrer="":http-user-agent="",LA LIGA
+https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBD3600001Q1
+#EXTINF:-1 tvg-name="Deportes  Pluto TV Argentina"tvg-id="ext"tvg-logo="http://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png"group-title="ESPORTE":http-referrer="":http-user-agent="",Deportes  Pluto TV Argentina
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-name="XFC"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b346dd21595c147bd9abea57b4256f32.webp"group-title="ESPORTE":http-referrer="":http-user-agent="",XFC
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2351
 #EXTINF:-1 tvg-name="MLB Network"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/473dc750652d9ae1930de51f914033d7.webp"group-title="ESPORTE":http-referrer="":http-user-agent="",MLB Network
@@ -4514,8 +4516,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/66c45afaa72e7b0008a2b153/master.m3u
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="TV5 Mond"tvg-id="ext"tvg-logo="https://i.imgur.com/jhFxUc1.png"group-title="Canais INTERNACIONAL":http-referrer="":http-user-agent="",TV5 Mond
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
-#EXTINF:-1 tvg-name="SFT Combat"tvg-id="ext"tvg-logo="https://imgur.com/CYD3RN9.png"group-title="ESPORTE":http-referrer="":http-user-agent="",SFT Combat
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6660b636cb3ea10008429c6alivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-name="Midnight Secrets"tvg-id="ext"tvg-logo=""group-title="FashionTV":http-referrer="":http-user-agent="",Midnight Secrets
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="Midnight Secrets"tvg-id="ext"tvg-logo=""group-title="FashionTV":http-referrer="":http-user-agent="",Midnight Secrets
