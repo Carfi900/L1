@@ -56,14 +56,6 @@ https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 ## RODONIA ##
 #EXTINF:-1 tvg-name="SIC TV Rodonia"tvg-id="SCTV.br"tvg-logo="https://i.imgur.com/mHxQyB2.png"group-title="RODONIA":http-referrer="":http-user-agent="",SIC TV Rodonia
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="Vevo2K.us"tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg"group-title="4k":http-referrer="":http-user-agent="",Pluto TV VEVO 2K (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-name=""tvg-id="Loupe4K.us"tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png?raw=true"group-title="4k":http-referrer="":http-user-agent="",Loupe 4K (2160p)
-https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="Clarity4K.us"tvg-logo="https://i.imgur.com/M87kbVk.png"group-title="4k":http-referrer="":http-user-agent="",Clarity 4K (2160p)
-https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="LoveNature4K.ca"tvg-logo="https://i.imgur.com/oDacp1F.png"group-title="4k":http-referrer="":http-user-agent="",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:-1 tvg-name="Rede TV SGC Rondônia"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/544293524ead0d5e33c121ff64d41293.webp"group-title="RODONIA":http-referrer="":http-user-agent="",Rede TV SGC Rondônia
 https://204282.global.ssl.fastly.net/64cd5c4d7a120f4f3544ca88/live_b2696150f13711eeb398a9b4ff06b4ea/index.m3u8
 #EXTINF:-1 tvg-name="TV RIO MADEIRA"tvg-id="ext"tvg-logo="https://imgur.com/Klwjy9d.png"group-title="RODONIA":http-referrer="":http-user-agent="",TV RIO MADEIRA
@@ -4532,5 +4524,3 @@ https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/63/301101/qi3_THE_BEST_O_483610.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Midnight Secrets"tvg-id="ext"tvg-logo=""group-title="FashionTV":http-referrer="":http-user-agent="",Midnight Secrets
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-
-
