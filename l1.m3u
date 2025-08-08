@@ -15,7 +15,7 @@ https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
 #EXTINF:-1 tvg-name="Assim e Portugal Brasil"tvg-id="ext"tvg-logo="https://assimeportugal.com/wp-content/uploads/2020/10/lg-assim-01.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",Assim e Portugal Brasil
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="MuzangalaTV.ao"tvg-logo="https://i.imgur.com/fBeaJoS.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",Muzangala TV
+#EXTINF:-1 tvg-name="Muzangala TV"tvg-id="MuzangalaTV.ao"tvg-logo="https://i.imgur.com/fBeaJoS.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",Muzangala TV
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN Portugal"tvg-id="ext"tvg-logo="https://imgur.com/bc6tYVZ.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",CNN Portugal
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
@@ -223,6 +223,26 @@ https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
 #EXTINF:-1 tvg-name="n-tv"tvg-id="ext"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",n-tv
 https://strm.hdtvizlecanli.com/live/ntv.m3u8
+#EXTINF:-1 tvg-name="Super RTL HD (720p)"tvg-id="RTLSuper.de@HD"tvg-logo=""group-title="ALEMANHA":http-referrer="https://www.2ix2.com/super-rtl-live/":http-user-agent="",Super RTL HD (720p)
+#EXTVLCOPT:http-referrer=https://www.2ix2.com/super-rtl-live/
+https://forsizero.github.io/iptv/m3u/superrtlhd.m3u
+#EXTINF:-1 tvg-name=""tvg-id="ProSieben.de"tvg-logo=""group-title="ALEMANHA":http-referrer="http://85.187.13.40:18000/":http-user-agent="",ProSieben (576p)
+#EXTVLCOPT:http-referrer=http://85.187.13.40:18000/
+http://85.187.13.40:18000/ProSieben
+#EXTINF:-1 tvg-name=""tvg-id="WDRFernsehen.de@Koln"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",WDR Fernsehen (720p)
+https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="RTLSuper.de@SD"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",RTL Super
+https://trn09.bozztv.com/gin-superrtl/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="DasErste.de@HD"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",Das Erste HD (1080p)
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="WeltderWunderTV.de"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",Welt der Wunder TV (576p)
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="WELT.de"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",WELT
+https://s6.hopslan.com/n24X/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="WDR1Live.de"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",WDR 1 Live (720p)
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="WDRFernsehen.de@Aachen"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",WDR Fernsehen Aachen (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",Red Bull TV Germany (1080p)
 https://769a97d9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JlZEJ1bGxUVl9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",BBC Top Gear Germany (1080p)
@@ -233,13 +253,27 @@ https://amg00609-amg00609c5-rakuten-uk-3764.playouts.now.amagi.tv/master.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b55-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=39199e43-689e-4f83-9f74-b89605373bf0
 #EXTINF:-1 tvg-name=""tvg-id="NDRFernsehenInternational.de"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",NDR Fernsehen International (720p)
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="MTVCatfishTVShow.us@Germany"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",MTV Catfish TV Show
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db6a697d5f34a000934cd13/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd34-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d88db7fd-9049-4209-8a4a-b6fb695742ed
+#EXTINF:-1 tvg-name=""tvg-id="MTVMusic.uk"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",MTV Music
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae0440-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=64060fde-9aa0-457f-ba59-1d8c28109d33
+#EXTINF:-1 tvg-name=""tvg-id="MTVPlutoTV.us@Germany"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",MTV Pluto TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae0445-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46816ea6-8434-4e99-9589-496d1e6cd098
+#EXTINF:-1 tvg-name=""tvg-id="MTVRidiculousness.us@Germany"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",MTV Ridiculousness
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f9847fd513250000728a9a5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae0447-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=12cb5d0b-2c4f-4b1b-8610-d3689603c938
+#EXTINF:-1 tvg-name=""tvg-id="MTVTeenMom.us@Germany"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",MTV Teen Mom
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cffcf5686dfe15595fb3f56/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae044a-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1702995c-e680-43a7-aab2-8ad161900add
+#EXTINF:-1 tvg-name=""tvg-id="MTVTheHills.us@Germany"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",MTV The Hills
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d00e86bf0bac55fe7f75736/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b50-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2601e066-e9a4-4c67-8fe1-ea001c98c301
+#EXTINF:-1 tvg-name=""tvg-id="MTVTheShores.us@Germany"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",MTV The Shores
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf32c2a5068259a32320fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b52-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ea57af13-cdf9-4796-a6ce-aa2f1ce34fcf
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",Amasia (720p)
 https://splendid-film-amasia-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",DEFA TV (720p)
 https://wdrmediagroup-defatv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",FIFA+ Germany (720p)
+#EXTINF:-1 tvg-name="FIFA+ Germany (720p)"tvg-id=""tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",FIFA+ Germany (720p)
 https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",Fluss Monster (1080p)
+#EXTINF:-1 tvg-name="Fluss Monster (1080p)"tvg-id=""tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",Fluss Monster (1080p)
 https://rivermonstergermany-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",Graham Norton Germany (1080p)
 https://amg00654-itv-amg00654c37-rakuten-de-7600.playouts.now.amagi.tv/playlist.m3u8
@@ -405,20 +439,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615c1e5ce3039400070a0547/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd31-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5bdf8fde-2533-4c16-b518-58e9777e93ca
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",Moviepilot TV mit Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67d572fac9c000835eb3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd32-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fcc33217-17d7-4dc5-9361-70dd91fef90e
-#EXTINF:-1 tvg-name=""tvg-id="MTVCatfishTVShow.us@Germany"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",MTV Catfish TV Show
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db6a697d5f34a000934cd13/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd34-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d88db7fd-9049-4209-8a4a-b6fb695742ed
-#EXTINF:-1 tvg-name=""tvg-id="MTVMusic.uk"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",MTV Music
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae0440-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=64060fde-9aa0-457f-ba59-1d8c28109d33
-#EXTINF:-1 tvg-name=""tvg-id="MTVPlutoTV.us@Germany"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",MTV Pluto TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae0445-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46816ea6-8434-4e99-9589-496d1e6cd098
-#EXTINF:-1 tvg-name=""tvg-id="MTVRidiculousness.us@Germany"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",MTV Ridiculousness
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f9847fd513250000728a9a5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae0447-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=12cb5d0b-2c4f-4b1b-8610-d3689603c938
-#EXTINF:-1 tvg-name=""tvg-id="MTVTeenMom.us@Germany"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",MTV Teen Mom
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cffcf5686dfe15595fb3f56/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae044a-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1702995c-e680-43a7-aab2-8ad161900add
-#EXTINF:-1 tvg-name=""tvg-id="MTVTheHills.us@Germany"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",MTV The Hills
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d00e86bf0bac55fe7f75736/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b50-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2601e066-e9a4-4c67-8fe1-ea001c98c301
-#EXTINF:-1 tvg-name=""tvg-id="MTVTheShores.us@Germany"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",MTV The Shores
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf32c2a5068259a32320fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b52-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ea57af13-cdf9-4796-a6ce-aa2f1ce34fcf
 #EXTINF:-1 tvg-name=""tvg-id="Naruto.us@Germany"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",Naruto
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d5fc39a25d5e00082895c4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b56-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=624d6e59-b964-41c4-8e12-4ec9c07d66e8
 #EXTINF:-1 tvg-name=""tvg-id="NickPlutoTV.us@Germany"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",Nick Pluto TV
@@ -743,9 +763,6 @@ https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_d
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Parlamentsfernsehen4.de"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",Parlamentsfernsehen 4 (1080p) [Not 24/7]
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="ProSieben.de"tvg-logo=""group-title="ALEMANHA":http-referrer="http://85.187.13.40:18000/":http-user-agent="",ProSieben (576p)
-#EXTVLCOPT:http-referrer=http://85.187.13.40:18000/
-http://85.187.13.40:18000/ProSieben
 #EXTINF:-1 tvg-name=""tvg-id="PUNKTumFernsehen.de"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",PUNKTum Fernsehen (1080p) [Not 24/7]
 http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="QVCZwei.de@SD"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",QVC 2 Germany (540p)
@@ -814,9 +831,6 @@ https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Studio47.de"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",Studio 47 (576p)
 https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="RTLSuper.de@HD"tvg-logo=""group-title="ALEMANHA":http-referrer="https://www.2ix2.com/super-rtl-live/":http-user-agent="",Super RTL HD (720p)
-#EXTVLCOPT:http-referrer=https://www.2ix2.com/super-rtl-live/
-https://forsizero.github.io/iptv/m3u/superrtlhd.m3u
 #EXTINF:-1 tvg-name=""tvg-id="SWR3VisualRadio.de"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",SWR 3 Visual Radio (720p)
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="tagesschau24.de"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",Tagesschau 24 (720p)
@@ -845,10 +859,6 @@ https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist
 https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="WDR1Live.de"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",WDR 1 Live (720p)
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="WDR1Live.de"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",WDR 1 Live (720p)
-https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="WDRFernsehen.de@Aachen"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",WDR Fernsehen Aachen (720p) [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="WDRFernsehen.de@Bielefeld"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",WDR Fernsehen Bielefeld (720p) [Geo-blocked]
 https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="WDRFernsehen.de@Bonn"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",WDR Fernsehen Bonn (720p) [Geo-blocked]
@@ -869,24 +879,14 @@ https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.
 https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="WDRFernsehen.de@Wuppertal"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",WDR Fernsehen Wuppertal (720p) [Geo-blocked]
 https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="WELT.de"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",WELT
-https://s6.hopslan.com/n24X/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="WeltderWunderTV.de"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",Welt der Wunder TV (576p)
-https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="ZeeOne.de"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",Zee One
 https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="ZweiMusicTelevision.de"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",ZWEI2 Music (1080p)
 https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="KaufBeiTV.de@SD"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",KaufBei TV
 https://elephant.t62a.com/hls/8103/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="DasErste.de@HD"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",Das Erste HD (1080p)
-https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="labor14.de@HD"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",labor14 (720p)
 https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="RTLSuper.de@SD"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",RTL Super
-https://trn09.bozztv.com/gin-superrtl/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="WDRFernsehen.de@Koln"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",WDR Fernsehen (720p)
-https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="UMISS TV"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYW1R8sN2NafFNZjQN0Juw2FbKBUQsCaX4rs3Hz77-Ig0JXzrwQPjC8g&usqp=CAE&s"group-title="CANAIS DE VARIEDADES":http-referrer="":http-user-agent="",UMISS TV
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
 #EXTINF:-1 tvg-name="IFood.TV"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ce33ea9bf4f4c91b8a722a25522391ae.webp"group-title="CANAIS DE VARIEDADES":http-referrer="":http-user-agent="",IFood.TV
@@ -1005,9 +1005,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 https://xumo-xumoent-vc-118-jed5p.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="USA":http-referrer="":http-user-agent="",E! Keeping Up
 https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="CNNInternationalEurope.us"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png"group-title="USA":http-referrer="":http-user-agent="",CNN
+#EXTINF:-1 tvg-name="CNN International"tvg-id="ext"tvg-logo="https://i.imgur.com/05S3yYZ.png"group-title="USA":http-referrer="":http-user-agent="",CNN International
+https://stitcher.pluto.tv/stitch/hls/channel/66c45afaa72e7b0008a2b153/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=9438b638-7b18-11ef-9825-de7fcdd69a13
+#EXTINF:-1 tvg-name=""tvg-id="BLOOMBERG.us"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png"group-title="USA":http-referrer="":http-user-agent="",BLOOMBERG
 https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="CNNInternationalEurope.us"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png"group-title="USA":http-referrer="":http-user-agent="",CNN
+#EXTINF:-1 tvg-name=""tvg-id="BLOOMBERG.us"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png"group-title="USA":http-referrer="":http-user-agent="",BLOOMBERG
 https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="BLOOMBERG.us"tvg-logo="https://www.afsc.org/sites/default/files/styles/maxsize/public/images/Bloomberg.png?itok=Yi7zgFpO"group-title="USA":http-referrer="":http-user-agent="",BLOOMBERG
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
@@ -1035,12 +1037,6 @@ https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
 #EXTINF:-1 tvg-name="RTTR (IT)"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyphP6b1rh8lX26Jmat0DbLOPeMsr3vJqeW6XfolZeFfRWpTI1KTEhREw&s"group-title="ITALIA":http-referrer="":http-user-agent="",RTTR (IT)
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="NRJ12.fr"tvg-logo="https://i.imgur.com/Lv66Gcv.png"group-title="FRANCA":http-referrer="":http-user-agent="",NRJ 12 (1080p)
-https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="A12TV.fr"tvg-logo="https://i.imgur.com/JgnjgvF.png"group-title="FRANCA":http-referrer="":http-user-agent="",A12 TV (720p)
-https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="AntenneReunion.fr"tvg-logo="https://i.imgur.com/EPIMMaB.png"group-title="FRANCA":http-referrer="":http-user-agent="",Antenne Réunion (720p) [Not 24/7]
-https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 #EXTINF:-1 tvg-name=""tvg-id="BFMAlsace.fr"tvg-logo="https://i.imgur.com/iRsbEpg.png"group-title="FRANCA":http-referrer="":http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Alsace (1080p)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-name=""tvg-id="BFMBusiness.fr"tvg-logo="https://i.imgur.com/psqIHn4.png"group-title="FRANCA":http-referrer="":http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Business (1080p)
@@ -1061,6 +1057,10 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&sta
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-name=""tvg-id="BFMTV.fr"tvg-logo="https://i.imgur.com/YJCcczD.png"group-title="FRANCA":http-referrer="":http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM TV (1080p)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-name=""tvg-id="A12TV.fr"tvg-logo="https://i.imgur.com/JgnjgvF.png"group-title="FRANCA":http-referrer="":http-user-agent="",A12 TV (720p)
+https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="AntenneReunion.fr"tvg-logo="https://i.imgur.com/EPIMMaB.png"group-title="FRANCA":http-referrer="":http-user-agent="",Antenne Réunion (720p) [Not 24/7]
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 #EXTINF:-1 tvg-name="Deustche Welle (DE)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dd20dc7ce12901f45a5f100a4cc97032.webp"group-title="CANAIS INTERNACIONAIS":http-referrer="":http-user-agent="",Deustche Welle (DE)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="TVZimbo.ao"tvg-logo="https://i.imgur.com/SFD8CBh.png"group-title="CANAIS INTERNACIONAIS":http-referrer="":http-user-agent="",TV Zimbo - Angola (1080p)
@@ -3775,8 +3775,6 @@ https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8
 https://live.uniaoplus.com/hls/sqYJRqIsBLTW36TC.m3u8
 #EXTINF:-1 tvg-name="TV União Rio Branco"tvg-id="ext"tvg-logo="https://i.imgur.com/pw0RLlI.png"group-title="ACRE":http-referrer="":http-user-agent="",TV União Rio Branco
 https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
-#EXTINF:-1 tvg-name="Rádio Aldeia 105.9 FM Sena Madureira / AC - Brasil"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/md/radio266724_1748888575.jpg"group-title="ACRE":http-referrer="":http-user-agent="",Rádio Aldeia 105.9 FMSena Madureira / AC - Brasil
-https://stream-178.zeno.fm/jjxd7vouu2wuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqanhkN3ZvdXUyd3V2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik9pdGp1a0s2UmZHT1pTU0JLNUEyeGciLCJpYXQiOjE3NTMzMTI5MjIsImV4cCI6MTc1MzMxMjk4Mn0.pLPKCSl__tDk0WfGk0BFER1rhsT5MB1DbcZDeC5IJQ4&1753312918970
 #EXTINF:-1 tvg-name="Rádio Três FronteirasAssis Brasil / AC - Brasil"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/lg/radio237979_1707229428.png"group-title="ACRE":http-referrer="":http-user-agent="",Rádio Três FronteirasAssis Brasil / AC - Brasil
 https://stm3.srvif.com:8138/stream?1753313754215
 #EXTINF:-1 tvg-name="Rádio Alternativa FM 87.9 Acrelândia / AC - Brasil"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/lg/radio26568_1646845960.jpg"group-title="ACRE":http-referrer="":http-user-agent="",Rádio Alternativa FM 87.9  Acrelândia / AC - Brasil
@@ -3785,6 +3783,8 @@ https://stm1.aovivodigital.com.br:10342/stream?1753314883931
 https://hts06.brascast.com:8542/stream?1753315319691
 #EXTINF:-1 tvg-name="Rádio Juruá 100.9 FM Cruzeiro do Sul / AC - Brasil"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/lg/radio13549_1671454107.png"group-title="ACRE":http-referrer="":http-user-agent="",Rádio Juruá 100.9 FMCruzeiro do Sul / AC - Brasil
 https://cdn-radiojurua.ciclano.io:1443/radiojurua/radiojurua/playlist.m3u8
+#EXTINF:-1 tvg-name="Rádio Aldeia 105.9 FM Sena Madureira / AC - Brasil"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/md/radio266724_1748888575.jpg"group-title="ACRE":http-referrer="":http-user-agent="",Rádio Aldeia 105.9 FMSena Madureira / AC - Brasil
+https://stream-178.zeno.fm/jjxd7vouu2wuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqanhkN3ZvdXUyd3V2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik9pdGp1a0s2UmZHT1pTU0JLNUEyeGciLCJpYXQiOjE3NTMzMTI5MjIsImV4cCI6MTc1MzMxMjk4Mn0.pLPKCSl__tDk0WfGk0BFER1rhsT5MB1DbcZDeC5IJQ4&1753312918970
 #EXTINF:-1 tvg-name="TV Vitória PE"tvg-id="ext"tvg-logo="https://i.imgur.com/IfPT4sF.png"group-title="ABERTO":http-referrer="":http-user-agent="",TV Vitória PE
 https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
 #EXTINF:-1 tvg-name="TV SIM Linhares"tvg-id="ext"tvg-logo="https://i.imgur.com/tLkF2BE.png"group-title="ABERTO":http-referrer="":http-user-agent="",TV SIM Linhares
@@ -4541,8 +4541,6 @@ http://24hrs.homelinux.com:80/24H-todegraca/video.m3u8
 https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Las Estrellas"tvg-id="ext"tvg-logo="https://imgur.com/rmmvWsX.png "group-title="Canais INTERNACIONAL":http-referrer="":http-user-agent="",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
-#EXTINF:-1 tvg-name="CNN International"tvg-id="ext"tvg-logo="https://i.imgur.com/05S3yYZ.png"group-title="Canais INTERNACIONAL":http-referrer="":http-user-agent="",CNN International
-https://stitcher.pluto.tv/stitch/hls/channel/66c45afaa72e7b0008a2b153/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=9438b638-7b18-11ef-9825-de7fcdd69a13
 #EXTINF:-1 tvg-name="Demand Africa HD"tvg-id="ext"tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/75/89/64/7589640f-38b9-cf6f-0963-1980ee7758a1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp"group-title="Canais INTERNACIONAL":http-referrer="":http-user-agent="",Demand Africa HD
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="TV5 Mond"tvg-id="ext"tvg-logo="https://i.imgur.com/jhFxUc1.png"group-title="Canais INTERNACIONAL":http-referrer="":http-user-agent="",TV5 Mond
