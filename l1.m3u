@@ -1081,22 +1081,8 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(nnn)/master.mpd
 #EXTINF:-1 tvg-name=""tvg-id="PSN.mx@SD"tvg-logo="https://i.imgur.com/7i7GkSL.png"group-title="MEXICO":http-referrer="":http-user-agent="",PSN
 https://srspsn.live/live/livestream.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="TeleplaySureste.mx"tvg-logo="https://i.imgur.com/MeV5N08.png"group-title="MEXICO":http-referrer="":http-user-agent="",Teleplay Sureste (720p)
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="VBMediaTV.mx"tvg-logo="https://i.imgur.com/5qlVblr.png"group-title="MEXICO":http-referrer="":http-user-agent="",VB Media TV (1080p)
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="Canal4deMatehuala.mx"tvg-logo="https://i.imgur.com/XfJ31cF.jpg"group-title="MEXICO":http-referrer="":http-user-agent="",Canal 4 de Matehuala (360p) [Not 24/7]
-https://stream.oursnetworktv.com/latin/encoder203/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="CanalOchoTV.mx"tvg-logo="https://i.ibb.co/YND5HXD/Captura.png"group-title="MEXICO":http-referrer="":http-user-agent="",Canal Ocho TV (1080p)
-https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="CNRTelevision.mx"tvg-logo="https://i.imgur.com/HI5GOfF.png"group-title="MEXICO":http-referrer="":http-user-agent="",CNR Televisión (1080p)
-https://stream.oursnetworktv.com/latin/cnrtelevision/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="EclipseTV.mx"tvg-logo="https://i.imgur.com/GiDD8xG.jpg"group-title="MEXICO":http-referrer="":http-user-agent="",Eclipse TV (720p)
-https://5caf24a595d94.streamlock.net:1937/djkuxtvfah/djkuxtvfah/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="XHBZCTDT.mx"tvg-logo="https://i.imgur.com/R3icGuG.png"group-title="MEXICO":http-referrer="":http-user-agent="",IERTBCS Canal 8 La Paz (1080p) [Not 24/7]
-https://60ed5b6d0df78.streamlock.net:1936/iertbcs/iertbcs/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="IMRyT.mx"tvg-logo="https://i.imgur.com/D91O6ka.png"group-title="MEXICO":http-referrer="":http-user-agent="",IMRyT Morelos TV (720p)
-https://stream8.mexiserver.com:1936/morelostv/morelostv/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="MexiquenseTV.mx"tvg-logo="https://i.imgur.com/iVfzakA.png"group-title="MEXICO":http-referrer="":http-user-agent="",Mexiquense TV (720p)
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="MultimediosBajio.mx"tvg-logo="https://i.imgur.com/4IGzNdq.png"group-title="MEXICO":http-referrer="":http-user-agent="",Multimedios Bajío (720p) [Not 24/7]
@@ -1113,8 +1099,6 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="MultimediosSaltillo.mx"tvg-logo="https://i.imgur.com/4IGzNdq.png"group-title="MEXICO":http-referrer="":http-user-agent="",Multimedios Saltillo (720p) [Not 24/7]
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="NayaritComunica.mx"tvg-logo="https://i.imgur.com/aZCTkjU.jpg"group-title="MEXICO":http-referrer="":http-user-agent="",Nayarit Comunica
-https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="NueveTV.mx"tvg-logo="https://i.imgur.com/3fzB7zY.png"group-title="MEXICO":http-referrer="":http-user-agent="",Nueve TV San Luís Potosí (720p)
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="RalyTV.mx"tvg-logo="https://i.imgur.com/W8a1dIa.png"group-title="MEXICO":http-referrer="":http-user-agent="",Raly TV (720p)
