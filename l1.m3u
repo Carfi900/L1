@@ -1079,10 +1079,16 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="NBCNewsNOW.us"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NBC-News-Now.png"group-title="USA":http-referrer="":http-user-agent="",NBC News Now
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(nnn)/master.mpd
+#EXTINF:-1 tvg-name=""tvg-id="ConectaTV.mx"tvg-logo="https://i.imgur.com/qEk0QGa.png"group-title="MEXICO":http-referrer="":http-user-agent="",Conecta TV
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="LaVozGruperaTV.mx"tvg-logo="https://i.imgur.com/Ku1CEeb.png"group-title="MEXICO":http-referrer="":http-user-agent="",La Voz Grupera TV (720p)
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Teleritmo.mx"tvg-logo="https://i.imgur.com/9s380Bz.png"group-title="MEXICO":http-referrer="":http-user-agent="",Teleritmo (720p) [Not 24/7]
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="SIPSETV81.mx"tvg-logo="https://i.imgur.com/123P7dV.png"group-title="MEXICO":http-referrer="":http-user-agent="",SIPSE TV 8.1 (1080p) [Not 24/7]
+https://webprod.sipse.com.mx:8080/show/merida.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="SIPSETVCUN81.mx"tvg-logo="https://i.imgur.com/uiTgClU.png"group-title="MEXICO":http-referrer="":http-user-agent="",SIPSE TVCUN 8.1 (1080p) [Not 24/7]
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="UltraTVPuebla.mx"tvg-logo="https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png"group-title="MEXICO":http-referrer="":http-user-agent="",Ultra TV Puebla (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="PSN.mx@SD"tvg-logo="https://i.imgur.com/7i7GkSL.png"group-title="MEXICO":http-referrer="":http-user-agent="",PSN
@@ -1243,10 +1249,6 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="LasEstrellas.mx@Plus2"tvg-logo="https://i.imgur.com/g5ShxZ7.png"group-title="MEXICO":http-referrer="":http-user-agent="",Las Estrellas +2 (1080p)
 https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="SIPSETV81.mx"tvg-logo="https://i.imgur.com/123P7dV.png"group-title="MEXICO":http-referrer="":http-user-agent="",SIPSE TV 8.1 (1080p) [Not 24/7]
-https://webprod.sipse.com.mx:8080/show/merida.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="SIPSETVCUN81.mx"tvg-logo="https://i.imgur.com/uiTgClU.png"group-title="MEXICO":http-referrer="":http-user-agent="",SIPSE TVCUN 8.1 (1080p) [Not 24/7]
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="AztecaUno.mx"tvg-logo="https://i.imgur.com/rRxgBtI.png"group-title="MEXICO":http-referrer="":http-user-agent="",Azteca Uno (720p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="DePeliculaLatinAmerica.mx"tvg-logo="https://i.imgur.com/aksM8pa.png"group-title="MEXICO":http-referrer="":http-user-agent="",De Película (576p)
@@ -1261,8 +1263,6 @@ https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="MyTimeMovieNetwork.mx"tvg-logo="https://i.imgur.com/pw4NZK1.png"group-title="MEXICO":http-referrer="":http-user-agent="",MyTime Movie Network Mexico (720p)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="ConectaTV.mx"tvg-logo="https://i.imgur.com/qEk0QGa.png"group-title="MEXICO":http-referrer="":http-user-agent="",Conecta TV
-https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="LoboTV.mx"tvg-logo="https://i.imgur.com/3fA50RJ.png"group-title="MEXICO":http-referrer="":http-user-agent="",Lobo TV (720p)
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="VisionTelevision.mx"tvg-logo="https://i.imgur.com/HV5tgcM.png"group-title="MEXICO":http-referrer="":http-user-agent="",Visión Televisión (720p)
