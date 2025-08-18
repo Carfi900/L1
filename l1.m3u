@@ -1091,8 +1091,6 @@ https://webprod.sipse.com.mx:8080/show/merida.m3u8
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="UltraTVPuebla.mx"tvg-logo="https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png"group-title="MEXICO":http-referrer="":http-user-agent="",Ultra TV Puebla (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="PSN.mx@SD"tvg-logo="https://i.imgur.com/7i7GkSL.png"group-title="MEXICO":http-referrer="":http-user-agent="",PSN
-https://srspsn.live/live/livestream.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="VBMediaTV.mx"tvg-logo="https://i.imgur.com/5qlVblr.png"group-title="MEXICO":http-referrer="":http-user-agent="",VB Media TV (1080p)
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="MexiquenseTV.mx"tvg-logo="https://i.imgur.com/iVfzakA.png"group-title="MEXICO":http-referrer="":http-user-agent="",Mexiquense TV (720p)
@@ -1315,6 +1313,8 @@ https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="UMTV.mx"tvg-logo="https://i.imgur.com/sjxVdPh.png"group-title="MEXICO":http-referrer="":http-user-agent="",UMTV (1080p) [Not 24/7]
 https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PSN.mx@SD"tvg-logo="https://i.imgur.com/7i7GkSL.png"group-title="MEXICO":http-referrer="":http-user-agent="",PSN
+https://srspsn.live/live/livestream.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="RTL1025Best.it"tvg-logo="https://i.imgur.com/ahWJwvT.png"group-title="ITALIA":http-referrer="":http-user-agent="",RTL 102.5 Best (1080p)
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="RTL1025BroSis.it"tvg-logo="https://i.imgur.com/1ZutMTJ.png"group-title="ITALIA":http-referrer="":http-user-agent="",RTL 102.5 Bro&Sis (1080p)
@@ -5207,3 +5207,12 @@ https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/63/301101/qi3_THE_BEST_O_483610.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Midnight Secrets"tvg-id="ext"tvg-logo=""group-title="FashionTV":http-referrer="":http-user-agent="",Midnight Secrets
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+#EXTINF:-1 tvg-name="FM Amsterdam Trance Zurique Suíça"tvg-id="ext"tvg-logo=""group-title="RADIOS Dance Trance House":http-referrer="":http-user-agent="",FM Amsterdam Trance Zurique Suíça
+http://strm112.1.fm/atr_mobile_mp3?1755476488057
+#EXTINF:-1 tvg-name="Discover Trance Radio"tvg-id="ext"tvg-logo=""group-title="RADIOS Dance Trance House":http-referrer="":http-user-agent="",Discover Trance Radio
+http://chicago.discovertrance.com/stream?type=http&nocache=2110
+#EXTINF:-1 tvg-name="Absolute Trance Euro Radio"tvg-id="ext"tvg-logo=""group-title="RADIOS Dance Trance House":http-referrer="":http-user-agent="",Absolute Trance Euro Radio
+https://strm112.1.fm/trance_mobile_mp3?aw_0_req.gdpr=true&listenerid=259ec69e5e07b7e390f6473e0608bbdc&awparams=companionAds%3Atrue
+#EXTINF:-1 tvg-name="Energy Hamburg"tvg-id="ext"tvg-logo=""group-title="RADIOS Dance Trance House":http-referrer="":http-user-agent="",Energy Hamburg
+https://edge64.streamonkey.net/energy-hamburg?aggregator=energyde
+
