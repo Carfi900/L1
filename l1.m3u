@@ -17,6 +17,8 @@ https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
 #EXTINF:-1 tvg-name="Muzangala TV"tvg-id="MuzangalaTV.ao"tvg-logo="https://i.imgur.com/fBeaJoS.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",Muzangala TV
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioSines.pt",Rádio Sines (720p) [Geo-blocked as vezes]
+https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN Portugal"tvg-id="ext"tvg-logo="https://imgur.com/bc6tYVZ.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",CNN Portugal
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 #EXTINF:-1 tvg-name="Sic TV"tvg-id="ext"tvg-logo="https://imgur.com/11aNWuU.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",Sic TV
@@ -96,6 +98,10 @@ https://www.youtube.com/live/pUcmpyynASM?si=BRmdOh1Fc33_VgsI
 https://www.youtube.com/live/NiRIbKwAejk?si=kxojjO5JljrbDDzz
 #EXTINF:-1 tvg-name=""tvg-id="EuronewsPortuguese.fr"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/euronews-logo-225x225.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",Euronews DE
 https://www.youtube.com/live/CQ3KsEbsYHs?si=uWcGC4Yzd0CIuK29
+#EXTINF:-1 tvg-id="WayTV.pt",Way TV (1080p)
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+#EXTINF:-1 tvg-id="WayTV.pt@SD",Way TV
+https://stream-hls.castr-cdn.com/5d714f6a0bd97874e36f14e4/live_057ee4605c1711efbd4135c4457c726c/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Kuriakos TV (PT)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/be908a654dd4c6705a0d6d663c4e853e.webp"group-title="PORTUGAL":http-referrer="":http-user-agent="",Kuriakos TV (PT)
 https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="SIC TV Rodonia"tvg-id="SCTV.br"tvg-logo="https://i.imgur.com/mHxQyB2.png"group-title="RODONIA":http-referrer="":http-user-agent="",SIC TV Rodonia
