@@ -4451,6 +4451,14 @@ https://hts06.brascast.com:8542/stream?1753315319691
 https://cdn-radiojurua.ciclano.io:1443/radiojurua/radiojurua/playlist.m3u8
 #EXTINF:-1 tvg-name="Rádio Aldeia 105.9 FM Sena Madureira / AC - Brasil"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/md/radio266724_1748888575.jpg"group-title="ACRE":http-referrer="":http-user-agent="",Rádio Aldeia 105.9 FMSena Madureira / AC - Brasil
 https://stream-178.zeno.fm/jjxd7vouu2wuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqanhkN3ZvdXUyd3V2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik9pdGp1a0s2UmZHT1pTU0JLNUEyeGciLCJpYXQiOjE3NTMzMTI5MjIsImV4cCI6MTc1MzMxMjk4Mn0.pLPKCSl__tDk0WfGk0BFER1rhsT5MB1DbcZDeC5IJQ4&1753312918970
+#EXTINF:-1 tvg-name="FM Amsterdam Trance Zurique Suíça"tvg-id="ext"tvg-logo=""group-title="RADIO Dance Trance House":http-referrer="":http-user-agent="",FM Amsterdam Trance Zurique Suíça
+http://strm112.1.fm/atr_mobile_mp3?1755476488057
+#EXTINF:-1 tvg-name="Discover Trance Radio"tvg-id="ext"tvg-logo=""group-title="RADIO Dance Trance House":http-referrer="":http-user-agent="",Discover Trance Radio
+http://chicago.discovertrance.com/stream?type=http&nocache=2110
+#EXTINF:-1 tvg-name="Absolute Trance Euro Radio"tvg-id="ext"tvg-logo=""group-title="RADIO Dance Trance House":http-referrer="":http-user-agent="",Absolute Trance Euro Radio
+https://strm112.1.fm/trance_mobile_mp3?aw_0_req.gdpr=true&listenerid=259ec69e5e07b7e390f6473e0608bbdc&awparams=companionAds%3Atrue
+#EXTINF:-1 tvg-name="Energy Hamburg"tvg-id="ext"tvg-logo=""group-title="RADIO Dance Trance House":http-referrer="":http-user-agent="",Energy Hamburg
+https://edge64.streamonkey.net/energy-hamburg?aggregator=energyde
 #EXTINF:-1 tvg-name="TV Vitória PE"tvg-id="ext"tvg-logo="https://i.imgur.com/IfPT4sF.png"group-title="ABERTO":http-referrer="":http-user-agent="",TV Vitória PE
 https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
 #EXTINF:-1 tvg-name="TV SIM Linhares"tvg-id="ext"tvg-logo="https://i.imgur.com/tLkF2BE.png"group-title="ABERTO":http-referrer="":http-user-agent="",TV SIM Linhares
@@ -5213,12 +5221,5 @@ https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/63/301101/qi3_THE_BEST_O_483610.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Midnight Secrets"tvg-id="ext"tvg-logo=""group-title="FashionTV":http-referrer="":http-user-agent="",Midnight Secrets
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-#EXTINF:-1 tvg-name="FM Amsterdam Trance Zurique Suíça"tvg-id="ext"tvg-logo=""group-title="RADIOS Dance Trance House":http-referrer="":http-user-agent="",FM Amsterdam Trance Zurique Suíça
-http://strm112.1.fm/atr_mobile_mp3?1755476488057
-#EXTINF:-1 tvg-name="Discover Trance Radio"tvg-id="ext"tvg-logo=""group-title="RADIOS Dance Trance House":http-referrer="":http-user-agent="",Discover Trance Radio
-http://chicago.discovertrance.com/stream?type=http&nocache=2110
-#EXTINF:-1 tvg-name="Absolute Trance Euro Radio"tvg-id="ext"tvg-logo=""group-title="RADIOS Dance Trance House":http-referrer="":http-user-agent="",Absolute Trance Euro Radio
-https://strm112.1.fm/trance_mobile_mp3?aw_0_req.gdpr=true&listenerid=259ec69e5e07b7e390f6473e0608bbdc&awparams=companionAds%3Atrue
-#EXTINF:-1 tvg-name="Energy Hamburg"tvg-id="ext"tvg-logo=""group-title="RADIOS Dance Trance House":http-referrer="":http-user-agent="",Energy Hamburg
-https://edge64.streamonkey.net/energy-hamburg?aggregator=energyde
+
 
