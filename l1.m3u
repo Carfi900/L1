@@ -17,7 +17,7 @@ https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
 #EXTINF:-1 tvg-name="Muzangala TV"tvg-id="MuzangalaTV.ao"tvg-logo="https://i.imgur.com/fBeaJoS.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",Muzangala TV
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioSines.pt",Rádio Sines (720p) [Geo-blocked as vezes]
+#EXTINF:-1 tvg-id="RadioSines.pt"group-title="PORTUGAL",Rádio Sines (720p) [Geo-blocked as vezes]
 https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN Portugal"tvg-id="ext"tvg-logo="https://imgur.com/bc6tYVZ.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",CNN Portugal
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
