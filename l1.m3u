@@ -46,7 +46,6 @@ https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="ARTV.pt"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",ARTV
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="RTPMemoria.pt"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Memória.png"group-title="PORTUGAL":http-referrer="":http-user-agent="IE",RTP Memória
-#EXTVLCOPT:http-user-agent=IE
 https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="RTPAcores.pt"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Açores.png"group-title="PORTUGAL":http-referrer="":http-user-agent="IE",RTP Açores
 #EXTVLCOPT:http-user-agent=IE
