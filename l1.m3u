@@ -98,6 +98,8 @@ https://www.youtube.com/live/pUcmpyynASM?si=BRmdOh1Fc33_VgsI
 https://www.youtube.com/live/NiRIbKwAejk?si=kxojjO5JljrbDDzz
 #EXTINF:-1 tvg-name=""tvg-id="EuronewsPortuguese.fr"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/euronews-logo-225x225.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",Euronews DE
 https://www.youtube.com/live/CQ3KsEbsYHs?si=uWcGC4Yzd0CIuK29
+#EXTINF:-1 tvg-name=""tvg-id="NPC.pt"tvg-logo=""group-title="PORTUGAL":http-referrer="":http-user-agent="",NPC Radio TV
+https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="WayTV.pt"tvg-logo=""group-title="PORTUGAL":http-referrer="":http-user-agent="",Way TV (1080p)
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="WayTV.pt@SD"tvg-logo=""group-title="PORTUGAL":http-referrer="":http-user-agent="",Way TV
