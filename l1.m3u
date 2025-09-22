@@ -265,9 +265,8 @@ https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
 #EXTINF:-1 tvg-name="n-tv"tvg-id="ext"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",n-tv
 https://strm.hdtvizlecanli.com/live/ntv.m3u8
-#EXTINF:-1 tvg-name="Super RTL HD (720p)"tvg-id="RTLSuper.de@HD"tvg-logo=""group-title="ALEMANHA":http-referrer="https://www.2ix2.com/super-rtl-live/":http-user-agent="",Super RTL HD (720p)
-#EXTVLCOPT:http-referrer=https://www.2ix2.com/super-rtl-live/
-https://forsizero.github.io/iptv/m3u/superrtlhd.m3u
+#EXTINF:-1 tvg-name="KroneHIT"tvg-id="ext"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",KroneHIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8   
 #EXTINF:-1 tvg-name=""tvg-id="WDRFernsehen.de@Koln"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",WDR Fernsehen (720p)
 https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="RTLSuper.de@SD"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",RTL Super
