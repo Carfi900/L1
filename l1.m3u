@@ -50,25 +50,18 @@ https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="RTPAcores.pt"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Açores.png"group-title="PORTUGAL":http-referrer="":http-user-agent="IE",RTP Açores
 https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="RTPMadeira.pt"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Madeira.png"group-title="PORTUGAL":http-referrer="":http-user-agent="IE",RTP Madeira
-#EXTVLCOPT:http-user-agent=IE
 https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="RTPAfrica.pt"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-África.png"group-title="PORTUGAL":http-referrer="":http-user-agent="IE",RTP África
-#EXTVLCOPT:http-user-agent=IE
 https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="RTPInternacional.pt"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacional.png"group-title="PORTUGAL":http-referrer="":http-user-agent="IE",RTP Internacional
-#EXTVLCOPT:http-user-agent=IE
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="TVIInternacional.pt"tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",TVI Internacional
 https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjUgMTI6MTI6NTIgUE0maGFzaF92YWx1ZT1KbWlDOXRodkZDM3plOTMxd2VoQXBnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NDlkOWY3ZWUtYjk3MS00NmE5LWFhZTAtNmVjM2I2YmUxMTll/
 #EXTINF:-1 tvg-name=""tvg-id="TVIAfrica.pt"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI_África.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",TVI África
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="SICReplay.pt"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Replay.png"group-title="PORTUGAL":http-referrer="https://opto.sic.pt/":http-user-agent="IE",SIC Replay
-#EXTVLCOPT:http-user-agent=IE
-#EXTVLCOPT:http-referrer=https://opto.sic.pt/
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="SICAltaDefinicao.pt"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Alta-Definição.png"group-title="PORTUGAL":http-referrer="https://opto.sic.pt/":http-user-agent="IE",SIC Alta Definição
-#EXTVLCOPT:http-user-agent=IE
-#EXTVLCOPT:http-referrer=https://opto.sic.pt/
+#EXTINF:-1 tvg-name=""tvg-id="SICAltaDefinicao.pt"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Alta-Definição.png"group-title="PORTUGAL":http-referrer="https://opto.sic.pt/":http-user-agent="IE",SIC Alta Definiçã
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="PortoCanal.pt"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",Porto Canal
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
