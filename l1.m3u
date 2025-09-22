@@ -96,8 +96,6 @@ http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 https://stream-hls.castr-cdn.com/5d714f6a0bd97874e36f14e4/live_057ee4605c1711efbd4135c4457c726c/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Kuriakos TV (PT)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/be908a654dd4c6705a0d6d663c4e853e.webp"group-title="PORTUGAL":http-referrer="":http-user-agent="",Kuriakos TV PT
 https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
-
-
 #EXTINF:-1 tvg-name="SIC TV Rodonia"tvg-id="SCTV.br"tvg-logo="https://i.imgur.com/mHxQyB2.png"group-title="RODONIA":http-referrer="":http-user-agent="",SIC TV Rodonia
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 #EXTINF:-1 tvg-name="Rede TV SGC Rondônia"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/544293524ead0d5e33c121ff64d41293.webp"group-title="RODONIA":http-referrer="":http-user-agent="",Rede TV SGC Rondônia
