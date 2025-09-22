@@ -17,7 +17,7 @@ https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
 #EXTINF:-1 tvg-name="Muzangala TV"tvg-id="MuzangalaTV.ao"tvg-logo="https://i.imgur.com/fBeaJoS.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",Muzangala TV
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioSines.pt"group-title="PORTUGAL",Rádio Sines (720p) [Geo-blocked as vezes]
+#EXTINF:-1 tvg-id="RadioSines.pt" group-title="PORTUGAL",Rádio Sines 720p Geo-blocked as vezes
 https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN Portugal"tvg-id="ext"tvg-logo="https://imgur.com/bc6tYVZ.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",CNN Portugal
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
@@ -88,17 +88,8 @@ https://globallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 http://online.tvm.co.mz:1935/live/Channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="TVMInternacional.mz"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVMI.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",TVM Internacional
 http://online.tvm.co.mz:1935/live/Channel2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="EuronewsPortuguese.fr"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/euronews-logo-225x225.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",Euronews EN
-https://www.youtube.com/watch?v=pykpO5kQJ98
-#EXTINF:-1 tvg-name=""tvg-id="EuronewsPortuguese.fr"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/euronews-logo-225x225.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",Euronews ES
-https://www.youtube.com/live/O9mOtdZ-nSk?si=EmVYK4auVB3jDSLM
-#EXTINF:-1 tvg-name=""tvg-id="EuronewsPortuguese.fr"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/euronews-logo-225x225.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",Euronews IT
-https://www.youtube.com/live/pUcmpyynASM?si=BRmdOh1Fc33_VgsI
-#EXTINF:-1 tvg-name=""tvg-id="EuronewsPortuguese.fr"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/euronews-logo-225x225.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",Euronews FR
-https://www.youtube.com/live/NiRIbKwAejk?si=kxojjO5JljrbDDzz
-#EXTINF:-1 tvg-name=""tvg-id="EuronewsPortuguese.fr"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/euronews-logo-225x225.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",Euronews DE
-https://www.youtube.com/live/CQ3KsEbsYHs?si=uWcGC4Yzd0CIuK29
-#EXTINF:-1 tvg-id="WayTV.pt"group-title="PORTUGAL",Way TV (1080p)
+#EXTINF:-1 tvg-id="NPC.pt"group-title="PORTUGAL",NPC
+https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 #EXTINF:-1 tvg-id="WayTV.pt@SD"group-title="PORTUGAL",Way TV
 https://stream-hls.castr-cdn.com/5d714f6a0bd97874e36f14e4/live_057ee4605c1711efbd4135c4457c726c/index.fmp4.m3u8
