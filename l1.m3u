@@ -5196,7 +5196,7 @@ http://24hrs.homelinux.com:80/24H-ostrapalhoes/video.m3u8
 http://24hrs.homelinux.com:80/24H-2HomensEmeio/video.m3u8
 #EXTINF:-1 tvg-name="Todo Mundo Odeia O Cris 24h"tvg-id="ext"tvg-logo="https://imgur.com/BatygW5.png "group-title="Canais COMEDIA":http-referrer="":http-user-agent="",Todo Mundo Odeia O Cris 24h
 http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
-#EXTINF:-1 tvg-name="Pegadinhas Silvio Santos 24h"tvg-id="ext"tvg-logo="https://imgur.com/BatygW5.png "group-title="Canais COMEDIA":http-referrer="":http-user-agent="",Pegadinhas Silvio Santos 24h
+#EXTINF:-1 tvg-name="Pegadinhas Silvio Santos 24h"tvg-id="ext"tvg-logo="https://imgur.com/BatygW5.png "group-title="SBT":http-referrer="":http-user-agent="",Pegadinhas Silvio Santos 24h
 http://24hrs.homelinux.com:80/24H-pegadihassilviosantos.txt/video.m3u8 
 #EXTINF:-1 tvg-name="As Visões da Raven 24h"tvg-id="ext"tvg-logo="https://imgur.com/BatygW5.png "group-title="Canais COMEDIA":http-referrer="":http-user-agent="",As Visões da Raven 24h
 http://24hrs.homelinux.com:80/24H-asvisoesdaraven/tracks-v1a1/mono.m3u8
