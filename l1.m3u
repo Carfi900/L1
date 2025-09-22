@@ -88,7 +88,8 @@ https://globallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 http://online.tvm.co.mz:1935/live/Channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="TVMInternacional.mz"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVMI.png"group-title="PORTUGAL":http-referrer="":http-user-agent="",TVM Internacional
 http://online.tvm.co.mz:1935/live/Channel2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="NPC.pt"tvg-logo=""group-title="PORTUGAL":http-referrer="":http-user-agent="",NPC
+#EXTINF:-1 tvg-id="NPC.pt"group-title="PORTUGAL":http-referrer="":http-user-agent="",NPC
+https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
 #EXTINF:-1 tvg-id="sobrenaturaltv.pt"group-title="PORTUGAL":http-referrer="":http-user-agent="",sobrenaturaltv
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 #EXTINF:-1 tvg-id="WayTV.pt@SD"group-title="PORTUGAL":http-referrer="":http-user-agent="",Way TV
