@@ -5197,17 +5197,17 @@ http://24hrs.homelinux.com:80/24H-escolinhaold/video.m3u8
 http://24hrs.homelinux.com:80/24H-euapatroaeascriancas7/video.m3u8
 #EXTINF:-1 tvg-name="Tô d Graça 24h"tvg-id="ext"tvg-logo="https://imgur.com/BatygW5.png "group-title="Canais COMEDIA":http-referrer="":http-user-agent="",Tô d Graça 24h
 http://24hrs.homelinux.com:80/24H-todegraca/video.m3u8
-#EXTINF:-1 tvg-name="Midnight Secrets" tvg-id="ext" tvg-logo=""group-title="FashionTV" :http-user-agent="",Midnight Secrets
+#EXTINF:-1 tvg-name="Midnight Secrets"tvg-logo=""group-title="FashionTV",Midnight Secrets
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="Midnight Secrets" tvg-id="ext" tvg-logo="" group-title="FashionTV" :http-user-agent="",Midnight Secrets
+#EXTINF:-1 tvg-name="Midnight Secrets"tvg-logo="" group-title="FashionTV",Midnight Secrets
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="FashionTV Johannesburg" tvg-id="ext"tvg-logo="" group-title="FashionTV" :http-user-agent="",FashionTV Johannesburg
+#EXTINF:-1 tvg-name="FashionTV Johannesburg"tvg-logo="https://commons.wikimedia.org/wiki/File:Fashion_TV_logo.png" group-title="FashionTV",FashionTV Johannesburg
 https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
-#EXTINF:-1 tvg-name="FashionTV FMen" tvg-id="ext" tvg-logo="" group-title="FashionTV" :http-user-agent="",FashionTV FMen
+#EXTINF:-1 tvg-name="FashionTV FMen"tvg-logo="https://commons.wikimedia.org/wiki/File:Fashion_TV_logo.png" group-title="FashionTV",FashionTV FMen
 https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/63/301101/qi3_THE_BEST_O_483610.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=" Midnight Secrets" tvg-id="ext" tvg-logo="" group-title="FashionTV" :http-user-agent="",Midnight Secrets
+#EXTINF:-1 tvg-name=" Midnight Secrets" tvg-logo="https://commons.wikimedia.org/wiki/File:Fashion_TV_logo.png" group-title="FashionTV",Midnight Secrets
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-#EXTINF:-1 tvg-name=" tvmoda1" tvg-logo="" group-title="TEST",tvmoda1
+#EXTINF:-1 tvg-name=" tvmoda1" tvg-logo="https://commons.wikimedia.org/wiki/File:Fashion_TV_logo.png" group-title="TEST",tvmoda1
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-#EXTINF:-1 tvg-name=" tvmoda2" tvg-logo="" group-title="TEST",tvmoda2
+#EXTINF:-1 tvg-name=" tvmoda2" tvg-logo="https://commons.wikimedia.org/wiki/File:Fashion_TV_logo.png" group-title="TEST",tvmoda2
 http://24hrs.homelinux.com:80/24H-todegraca/video.m3u8
