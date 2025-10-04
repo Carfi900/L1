@@ -4433,15 +4433,15 @@ https://hts06.brascast.com:8542/stream?1753315319691
 https://cdn-radiojurua.ciclano.io:1443/radiojurua/radiojurua/playlist.m3u8
 #EXTINF:-1 tvg-name="Rádio Aldeia 105.9 FM Sena Madureira / AC - Brasil"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/md/radio266724_1748888575.jpg"group-title="ACRE":http-referrer="":http-user-agent="",Rádio Aldeia 105.9 FMSena Madureira / AC - Brasil
 https://stream-178.zeno.fm/jjxd7vouu2wuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqanhkN3ZvdXUyd3V2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik9pdGp1a0s2UmZHT1pTU0JLNUEyeGciLCJpYXQiOjE3NTMzMTI5MjIsImV4cCI6MTc1MzMxMjk4Mn0.pLPKCSl__tDk0WfGk0BFER1rhsT5MB1DbcZDeC5IJQ4&1753312918970
-#EXTINF:-1 tvg-name="FM Amsterdam Trance Zurique Suíça"tvg-id="ext"tvg-logo=""group-title="RADIO Dance Trance House":http-referrer="":http-user-agent="",FM Amsterdam Trance Zurique Suíça
+#EXTINF:-1 tvg-logo=""group-title="RADIO Dance Trance House" group-title="RADIO Dance Trance House",FM Amsterdam Trance Zurique Suíça
 http://strm112.1.fm/atr_mobile_mp3?1755476488057
-#EXTINF:-1 tvg-name="Discover Trance Radio"tvg-id="ext"tvg-logo=""group-title="RADIO Dance Trance House":http-referrer="":http-user-agent="",Discover Trance Radio
+#EXTINF:-1 tvg-logo=""group-title="RADIO Dance Trance House" Discover Trance Radio
 http://chicago.discovertrance.com/stream?type=http&nocache=2110
-#EXTINF:-1 tvg-name="Absolute Trance Euro Radio"tvg-id="ext"tvg-logo=""group-title="RADIO Dance Trance House":http-referrer="":http-user-agent="",Absolute Trance Euro Radio
+#EXTINF:-1 tvg-logo=""group-title="RADIO Dance Trance House" Absolute Trance Euro Radio
 https://strm112.1.fm/trance_mobile_mp3?aw_0_req.gdpr=true&listenerid=259ec69e5e07b7e390f6473e0608bbdc&awparams=companionAds%3Atrue
-#EXTINF:-1 tvg-name="Energy Hamburg"tvg-id="ext"tvg-logo=""group-title="RADIO Dance Trance House":http-referrer="":http-user-agent="",Energy Hamburg
+#EXTINF:-1 tvg-logo=""group-title="RADIO Dance Trance House" Energy Hamburg
 https://edge64.streamonkey.net/energy-hamburg?aggregator=energyde
-#EXTINF:-1 tvg-name="adio Trance 103.3 FM"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/lg/radio40589_1694451962.jpg"group-title="RADIO Dance Trance House":http-referrer="":http-user-agent="",Radio Trance 103.3 FM Buenos Aires 
+#EXTINF:-1 tvg-name="Radio Trance 103.3 FM"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/lg/radio40589_1694451962.jpg"group-title="RADIO Dance Trance House":http-referrer="":http-user-agent="",Radio Trance 103.3 FM Buenos Aires 
 http://streaming01.shockmedia.com.ar:9086/stream?1758505725200
 #EXTINF:-1 tvg-name="Trance Place"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/lg/radio33449_1473798644.jpg"group-title="RADIO Dance Trance House":http-referrer="":http-user-agent="",Trance Place Fortaleza BRASIL
 https://casthttps.suaradionanet.net/10502/stream?1758505403519
