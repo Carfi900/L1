@@ -5207,6 +5207,7 @@ https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/63/301101/qi3_THE_BEST_O_483610.smil/playlist.m3u8
 #EXTINF:-1 tvg-name=" Midnight Secrets" tvg-id="ext" tvg-logo="" group-title="FashionTV" :http-user-agent="",Midnight Secrets
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-#EXTINF:-1 tvg-name=" moda" tvg-logo="" group-title="TEST" moda
+#EXTINF:-1 tvg-name=" tvmoda1" tvg-logo="" group-title="TEST",tvmoda1
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-
+#EXTINF:-1 tvg-name=" tvmoda2" tvg-logo="" group-title="TEST",tvmoda2
+http://24hrs.homelinux.com:80/24H-todegraca/video.m3u8
