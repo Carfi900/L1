@@ -1693,6 +1693,66 @@ https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="VisualRadio.it"tvg-logo="https://i.imgur.com/ah14ah0.png"group-title="ITALIA":http-referrer="":http-user-agent="",Visual Radio (576p) [Not 24/7]
 http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
+#EXTINF:-1 tvg-name=" TF1 hd" tvg-logo="" group-title="FRANCA",TF1
+http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:-1 group-title="FRANCA",France 2 HD
+http://151.80.18.177:86/France_2_HD/index.m3u8
+#EXTINF:-1 group-title="FRANCA",France 3 HD
+http://151.80.18.177:86/France_3_HD/index.m3u8
+#EXTINF:-1 group-title="FRANCA",France 4 HD
+http://151.80.18.177:86/France_4_HD/index.m3u8
+#EXTINF:-1 group-title="FRANCA",France 5 HD
+http://151.80.18.177:86/France_5_HD/index.m3u8
+#EXTINF:-1 group-title="FRANCA",Canal+ HD
+http://151.80.18.177:86/Canal+_HD/index.m3u8
+#EXTINF:-1 group-title="FRANCA",Canal+ Cinema HD
+http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
+#EXTINF:-1 group-title="FRANCA",Comedie+ HD
+http://151.80.18.177:86/Comedie+_HD/index.m3u8
+#EXTINF:-1 group-title="FRANCA",ARTE HD
+http://151.80.18.177:86/ARTE_HD/index.m3u8
+#EXTINF:-1 group-title="FRANCA",Paris Premiere HD
+http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
+#EXTINF:-1 group-title="FRANCA",AB1 HD
+http://151.80.18.177:86/AB1/index.m3u8
+#EXTINF:-1 group-title="FRANCA",RTL 9 HD
+http://151.80.18.177:86/RTL9/index.m3u8
+#EXTINF:-1 group-title="FRANCA",TF1 HD
+http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:-1 group-title="FRANCA",Teva HD
+http://151.80.18.177:86/Teva_HD/index.m3u8
+#EXTINF:-1 group-title="FRANCA",National Geo HD
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
+#EXTINF:-1 group-title="FRANCA",Histoire HD
+http://151.80.18.177:86/Histoire/index.m3u8
+#EXTINF:-1 group-title="FRANCA",Discovery HD
+http://151.80.18.177:86/Discovery_HD/index.m3u8
+#EXTINF:-0 group-title="FRANCA",RMC DECOUVERDE
+http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
+#EXTINF:-1 group-title="FRANCA",M6 HD
+http://151.80.18.177:86/M6_HD/index.m3u8
+#EXTINF:-1 group-title="FRANCA",W9 HD
+http://151.80.18.177:86/W9_HD/index.m3u8
+#EXTINF:-1 group-title="FRANCA",NRJ_12 HD
+http://151.80.18.177:86/NRJ_12_HD/index.m3u8
+#EXTINF:-1 group-title="FRANCA",TRACE URBAN
+http://151.80.18.177:86/Trace_Urban_HD/index.m3u8
+#EXTINF:-1 group-title="FRANCA",D17 CSTAR HD
+http://151.80.18.177:86/D17_HD/index.m3u8
+#EXTINF:-1 group-title="FRANCA",CANAL+ Sport
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:-1 group-title="FRANCA",GOLF+
+http://151.80.18.177:86/GOLF+_HD/index.m3u8
+#EXTINF:-1 group-title="FRANCA",Euro Sport HD
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 group-title="FRANCA",Euro Sport 2 HD
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 group-title="FRANCA",Disney HD
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+#EXTINF:-1 group-title="FRANCA",Tiji HD
+http://151.80.18.177:86/Tiji_HD/index.m3u8
+#EXTINF:-1 group-title="FRANCA",LCI HD
+http://151.80.18.177:86/LCI_HD/index.m3u8
 #EXTINF:-1 tvg-name="France24 Espanol"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/755be752f3ae3f09aafe4153346fa8c4.webp"group-title="FRANCA":http-referrer="":http-user-agent="",France24 Espanol
 https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="TV5 Monde (FR)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cab4224277605abd09affaa0a0fa2728.webp"group-title="FRANCA":http-referrer="":http-user-agent="",TV5 Monde (FR)
@@ -1903,6 +1963,8 @@ https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:-1 tvg-name="MasterChef Brasil"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dcaa258d90f0597bffc6647f071b92dc.webp"group-title="CANAIS TOP 24H":http-referrer="":http-user-agent="",MasterChef Brasil
 https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/playlist.m3u8
+#EXTINF:-1 tvg-name="POPSTAR"tvg-id="ext"tvg-logo=""group-title="CANAIS DE MUSICAS":http-referrer="":http-user-agent="",POPSTAR
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:-1 tvg-name="NOW 70s"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85f7dfdee045ef4fce8cd777b2d3574d.webp"group-title="CANAIS DE MUSICAS":http-referrer="":http-user-agent="",NOW 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-name="NOW 90s"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqn7c8Rq6aoXBdsQ9y8prBeUMIvjIXc826mC6SgIqwjM4VHPTzzIVZzV4&s"group-title="CANAIS DE MUSICAS":http-referrer="":http-user-agent="",NOW 90s
@@ -5203,7 +5265,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mid
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="FashionTV Johannesburg"tvg-logo="https://commons.wikimedia.org/wiki/File:Fashion_TV_logo.png" group-title="FashionTV",FashionTV Johannesburg
 https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
-#EXTINF:-1 tvg-name="FashionTV FMen"tvg-logo="https://commons.wikimedia.org/wiki/File:Fashion_TV_logo.png" group-title="FashionTV",FashionTV FMen
+#EXTINF:-1 tvg-name="FashionTV FMen" tvg-logo="https://commons.wikimedia.org/wiki/File:Fashion_TV_logo.png" group-title="FashionTV",FashionTV FMen
 https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/63/301101/qi3_THE_BEST_O_483610.smil/playlist.m3u8
 #EXTINF:-1 tvg-name=" Midnight Secrets" tvg-logo="https://commons.wikimedia.org/wiki/File:Fashion_TV_logo.png" group-title="FashionTV",Midnight Secrets
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
@@ -5211,63 +5273,4 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
 #EXTINF:-1 tvg-name=" tvmoda2" tvg-logo="https://commons.wikimedia.org/wiki/File:Fashion_TV_logo.png" group-title="TEST",tvmoda2
 http://24hrs.homelinux.com:80/24H-todegraca/video.m3u8
-#EXTINF:-1 tvg-name=" TF1 hd" tvg-logo="" group-title="franca",TF1
-http://151.80.18.177:86/TF1_HD/index.m3u8
-#EXTINF:-1 group-title="franca",France 2 HD
-http://151.80.18.177:86/France_2_HD/index.m3u8
-#EXTINF:-1 group-title="franca",France 3 HD
-http://151.80.18.177:86/France_3_HD/index.m3u8
-#EXTINF:-1 group-title="franca",France 4 HD
-http://151.80.18.177:86/France_4_HD/index.m3u8
-#EXTINF:-1 group-title="franca",France 5 HD
-http://151.80.18.177:86/France_5_HD/index.m3u8
-#EXTINF:-1 group-title="franca",Canal+ HD
-http://151.80.18.177:86/Canal+_HD/index.m3u8
-#EXTINF:-1 group-title="franca",Canal+ Cinema HD
-http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
-#EXTINF:-1 group-title="franca",Comedie+ HD
-http://151.80.18.177:86/Comedie+_HD/index.m3u8
-#EXTINF:-1 group-title="franca",ARTE HD
-http://151.80.18.177:86/ARTE_HD/index.m3u8
-#EXTINF:-1 group-title="franca",Paris Premiere HD
-http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
-#EXTINF:-1 group-title="franca",AB1 HD
-http://151.80.18.177:86/AB1/index.m3u8
-#EXTINF:-1 group-title="franca",RTL 9 HD
-http://151.80.18.177:86/RTL9/index.m3u8
-#EXTINF:-1 group-title="franca",TF1 HD
-http://151.80.18.177:86/TF1_HD/index.m3u8
-#EXTINF:-1 group-title="franca",Teva HD
-http://151.80.18.177:86/Teva_HD/index.m3u8
-#EXTINF:-1 group-title="franca",National Geo HD
-http://151.80.18.177:86/National_Geo_HD/index.m3u8
-#EXTINF:-1 group-title="franca",Histoire HD
-http://151.80.18.177:86/Histoire/index.m3u8
-#EXTINF:-1 group-title="franca",Discovery HD
-http://151.80.18.177:86/Discovery_HD/index.m3u8
-#EXTINF:-0 group-title="franca",RMC DECOUVERDE
-http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
-#EXTINF:-1 group-title="franca",M6 HD
-http://151.80.18.177:86/M6_HD/index.m3u8
-#EXTINF:-1 group-title="franca",W9 HD
-http://151.80.18.177:86/W9_HD/index.m3u8
-#EXTINF:-1 group-title="franca",NRJ_12 HD
-http://151.80.18.177:86/NRJ_12_HD/index.m3u8
-#EXTINF:-1 group-title="franca",TRACE URBAN
-http://151.80.18.177:86/Trace_Urban_HD/index.m3u8
-#EXTINF:-1 group-title="franca",D17 CSTAR HD
-http://151.80.18.177:86/D17_HD/index.m3u8
-#EXTINF:-1 group-title="franca",CANAL+ Sport
-http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
-#EXTINF:-1 group-title="franca",GOLF+
-http://151.80.18.177:86/GOLF+_HD/index.m3u8
-#EXTINF:-1 group-title="franca",Euro Sport HD
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:-1 group-title="franca",Euro Sport 2 HD
-http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
-#EXTINF:-1 group-title="franca",Disney HD
-http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
-#EXTINF:-1 group-title="franca",Tiji HD
-http://151.80.18.177:86/Tiji_HD/index.m3u8
-#EXTINF:-1 group-title="franca",LCI HD
-http://151.80.18.177:86/LCI_HD/index.m3u8
+
