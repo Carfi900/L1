@@ -4491,6 +4491,8 @@ https://stm3.srvif.com:8138/stream?1753313754215
 https://stm1.aovivodigital.com.br:10342/stream?1753314883931
 #EXTINF:-1 tvg-name="Rádio Dimensão 104.9 FM Sena Madureira / AC - Brasil"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/lg/radio12819_1439401446.jpg"group-title="ACRE":http-referrer="":http-user-agent="",Rádio Dimensão 104.9 FM Sena Madureira / AC - Brasil
 https://hts06.brascast.com:8542/stream?1753315319691
+#EXTINF:-1 tvg-name="Rádio Gazeta 93.3 FM"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/lg/radio13292_1659442241.png"group-title="ACRE":http-referrer="":http-user-agent="",Rádio Gazeta 93.3 FMRio Branco AC - Brasil
+http://centova5.acresites.com.br:8101/stream?1760888362765
 #EXTINF:-1 tvg-name="Rádio Juruá 100.9 FM Cruzeiro do Sul / AC - Brasil"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/lg/radio13549_1671454107.png"group-title="ACRE":http-referrer="":http-user-agent="",Rádio Juruá 100.9 FMCruzeiro do Sul / AC - Brasil
 https://cdn-radiojurua.ciclano.io:1443/radiojurua/radiojurua/playlist.m3u8
 #EXTINF:-1 tvg-name="Rádio Aldeia 105.9 FM Sena Madureira / AC - Brasil"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/md/radio266724_1748888575.jpg"group-title="ACRE":http-referrer="":http-user-agent="",Rádio Aldeia 105.9 FMSena Madureira / AC - Brasil
@@ -4509,6 +4511,8 @@ http://streaming01.shockmedia.com.ar:9086/stream?1758505725200
 https://casthttps.suaradionanet.net/10502/stream?1758505403519
 #EXTINF:-1 tvg-name="Rádio SpaceSex 101.5 FM"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/lg/radio191132_1719959655.jpg"group-title="RADIO Dance Trance House":http-referrer="":http-user-agent="",Rádio SpaceSex 101.5 FM Vila Velha  ES - Brasil
 https://9158.brasilstream.com.br/stream?1758504678179
+#EXTINF:-1 tvg-name="Apolo Mix Rádio"tvg-id="ext"tvg-logo="https://img.radios.com.br/radio/lg/radio28420_1439401699.jpg"group-title="RADIO Dance Trance House":http-referrer="":http-user-agent="",Apolo Mix Rádio Belo Horizonte MG - Brasil
+https://s28.maxcast.com.br:8046/live?1760887816210
 #EXTINF:-1 tvg-name="TV Vitória PE"tvg-id="ext"tvg-logo="https://i.imgur.com/IfPT4sF.png"group-title="ABERTO":http-referrer="":http-user-agent="",TV Vitória PE
 https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
 #EXTINF:-1 tvg-name="TV SIM Linhares"tvg-id="ext"tvg-logo="https://i.imgur.com/tLkF2BE.png"group-title="ABERTO":http-referrer="":http-user-agent="",TV SIM Linhares
@@ -4527,7 +4531,7 @@ https://ythls.armelin.one/channel/UC94kyY3rSw4j4LjAd8tUBBw.m3u8
 https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
 #EXTINF:-1 tvg-name="RS News WebTV 2"tvg-id="ext"tvg-logo="https://i.imgur.com/nLBwn2Z.png"group-title="ABERTO":http-referrer="":http-user-agent="",RS News WebTV 2
 https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
-#EXTINF:-1 tvg-name="Minist�rio Infantil TV"tvg-id="ext"tvg-logo="https://i.imgur.com/1JVrZFk.png"group-title="ABERTO":http-referrer="":http-user-agent="",Minist�rio Infantil TV
+#EXTINF:-1 tvg-name="Minist�rio Infantil TV"tvg-id="ext"tvg-logo="https://i.imgur.com/1JVrZFk.png"group-title="ABERTO":http-referrer="":http-user-agent="",Ministerio Infantil TV
 http://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 #EXTINF:-1 tvg-name="REDE MINAS"tvg-id="ext"tvg-logo="https://imgur.com/lGGbSTG.png"group-title="ABERTO":http-referrer="":http-user-agent="",REDE MINAS
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
