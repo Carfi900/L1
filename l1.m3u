@@ -5,6 +5,8 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:-1 tvg-name="TVI"tvg-id="tvi.pt"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/467691868df05a4035d5b6e8d361e79f.webp"group-title="PORTUGAL":http-referrer="":http-user-agent="",TVI (PT)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+#EXTINF:-1 tvg-name="RTP1"tvg-id="ext"tvg-logo=""group-title="PORTUGAL":http-referrer="":http-user-agent="",RTP1 (Não 24H)
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="RTP"tvg-id="ext"tvg-logo=""group-title="PORTUGAL":http-referrer="":http-user-agent="",RTP
 https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/chunklist_w1345743644.m3u8
 #EXTINF:-1 tvg-name="TVI FICÇÃO (PT)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a464ae68b020893d77567b327533efa8.webp"group-title="PORTUGAL":http-referrer="":http-user-agent="",TVI FICÇÃO (PT)
