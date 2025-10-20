@@ -287,11 +287,13 @@ https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF:-1 tvg-name="UMISS TV"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYW1R8sN2NafFNZjQN0Juw2FbKBUQsCaX4rs3Hz77-Ig0JXzrwQPjC8g&usqp=CAE&s"group-title="CANAIS DE VARIEDADES":http-referrer="":http-user-agent="",UMISS TV
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
-#EXTM3U
 #EXTINF:-1 group-title="ALEMANHA" tvg-name="RTL" ,RTL
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
 #EXTINF:-1 group-title="ALEMANHA" tvg-name="n-tv" ,n-tv
 https://strm.hdtvizlecanli.com/live/ntv.m3u8
+#EXTINF:0 group-title="ALEMANHA" ,ARD
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+https://strm.hdtvizlecanli.com/live/dmax.m3u8
 #EXTINF:0 group-title="ALEMANHA" ,dmax
 https://strm.hdtvizlecanli.com/live/dmax.m3u8
 #EXTINF:0 group-title="ALEMANHA" ,tlc
