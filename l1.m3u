@@ -283,12 +283,54 @@ https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
 #EXTINF:-1 tvg-name="n-tv"tvg-id="ext"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",n-tv
 https://strm.hdtvizlecanli.com/live/ntv.m3u8
+#EXTINF:0,dmax
+https://strm.hdtvizlecanli.com/live/dmax.m3u8
+#EXTINF:0,tlc
+https://strm.hdtvizlecanli.com/live/tlc.m3u8
+#EXTINF:0,kabel1
+https://strm.hdtvizlecanli.com/live/kabel1.m3u8
+#EXTINF:0,n24
+https://strm.hdtvizlecanli.com/live/n24.m3u8
+#EXTINF:0,pro7
+https://strm.hdtvizlecanli.com/live/pro7.m3u8
+#EXTINF:0,rtl
+https://strm.hdtvizlecanli.com/live/rtl.m3u8
+#EXTINF:0,rtl2
+https://strm.hdtvizlecanli.com/live/rtl2.m3u8
+#EXTINF:0,sat1
+https://strm.hdtvizlecanli.com/live/sat1.m3u8
+#EXTINF:0,superrtl
+https://strm.hdtvizlecanli.com/live/superrtl.m3u8
+#EXTINF:0,tele5
+https://strm.hdtvizlecanli.com/live/tele5.m3u8
+#EXTINF:0,vox
+https://strm.hdtvizlecanli.com/live/vox.m3u8
+#EXTINF:0,zdf
+https://strm.hdtvizlecanli.com/live/zdf.m3u8
+#EXTINF:0,zdf neo
+https://strm.hdtvizlecanli.com/live/zdfneo.m3u8
+#EXTINF:0,ard1
+https://strm.hdtvizlecanli.com/live/ard1.m3u8
+#EXTINF:0,nitro
+https://strm.hdtvizlecanli.com/live/nitro.m3u8
+#EXTINF:0,orf 1
+https://strm.hdtvizlecanli.com/live/orf1.m3u8
+#EXTINF:0,orf 2
+https://strm.hdtvizlecanli.com/live/orf2.m3u8
+#EXTINF:0,atv HD
+https://strm.hdtvizlecanli.com/live/atv.m3u8
+#EXTINF:0,sat1 gold
+https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
+#EXTINF:-1,comedy
+https://strm.hdtvizlecanli.com/live/comedy.m3u8
+#EXTINF:0,ntv
+https://strm.hdtvizlecanli.com/live/ntv.m3u8
+#EXTINF:-1,disney
+https://strm.hdtvizlecanli.com/live/disney.m3u8
 #EXTINF:-1 tvg-name="KroneHIT"tvg-id="ext"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",KroneHIT
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8   
 #EXTINF:-1 tvg-name=""tvg-id="WDRFernsehen.de@Koln"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",WDR Fernsehen (720p)
 https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="RTLSuper.de@SD"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",RTL Super
-https://trn09.bozztv.com/gin-superrtl/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="WeltderWunderTV.de"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",Welt der Wunder TV (576p)
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="WELT.de"tvg-logo=""group-title="ALEMANHA":http-referrer="":http-user-agent="",WELT
