@@ -9,6 +9,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="RTP"tvg-id="ext"tvg-logo=""group-title="PORTUGAL":http-referrer="":http-user-agent="",RTP
 https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/chunklist_w1345743644.m3u8
+#EXTINF:-1 tvg-name="RTP Noticias"tvg-id="ext"tvg-logo=""group-title="PORTUGAL":http-referrer="":http-user-agent="",RTP Noticias
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-name="TVI FICÇÃO (PT)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a464ae68b020893d77567b327533efa8.webp"group-title="PORTUGAL":http-referrer="":http-user-agent="",TVI FICÇÃO (PT)
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:-1 tvg-name="TVI Reality (PT)"tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROzDVz6_bzxazul3nVNNGqULXUKuvPGo66afQNLtbKXNtqH-oDBATUXgQ&s"group-title="PORTUGAL":http-referrer="":http-user-agent="",TVI Reality (PT)
