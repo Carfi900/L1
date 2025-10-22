@@ -2394,22 +2394,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-name="Ponte Preta TV"tvg-id="ext"tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/PONTV-190223-Logo2.png"group-title="ESPORTE":http-referrer="":http-user-agent="",Ponte Preta TV
 https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="SkySport1.nz"tvg-logo="https://i.imgur.com/ThJHEuN.png"group-title="ESPORTE":http-referrer="":http-user-agent="",Sky Sport 1 nz(1080p)
-http://primestreams.tv:826/live/SF11/vulwBvtfo9/118585.ts
-#EXTINF:-1 tvg-name=""tvg-id="SkySport2.nz"tvg-logo="https://i.imgur.com/cu8yB69.png"group-title="ESPORTE":http-referrer="":http-user-agent="",Sky Sport 2 nz(1080p)
-http://primestreams.tv:826/live/SF11/vulwBvtfo9/118586.ts
-#EXTINF:-1 tvg-name=""tvg-id="SkySport3.nz"tvg-logo="https://i.imgur.com/XYp3Ua3.png"group-title="ESPORTE":http-referrer="":http-user-agent="",Sky Sport 3 nz(1080p)
-https://hls.sheepland.xyz/play/0/15?proxy=0
-#EXTINF:-1 tvg-name=""tvg-id="SkySport4.nz"tvg-logo="https://i.imgur.com/KUXs7SQ.png"group-title="ESPORTE":http-referrer="":http-user-agent="",Sky Sport 4 nz(1080p)
-https://hls.sheepland.xyz/play/0/36?proxy=0
-#EXTINF:-1 tvg-name=""tvg-id="SkySport5.nz"tvg-logo="https://i.imgur.com/xgpKcYh.png"group-title="ESPORTE":http-referrer="":http-user-agent="",Sky Sport 5 nz(1080p)
-http://primestreams.tv:826/live/SF11/vulwBvtfo9/118589.ts
-#EXTINF:-1 tvg-name=""tvg-id="SkySport6.nz"tvg-logo="https://i.imgur.com/nyjD1dU.png"group-title="ESPORTE":http-referrer="":http-user-agent="",Sky Sport 6 nz(1080p)
-https://hls.sheepland.xyz/play/0/70?proxy=0
-#EXTINF:-1 tvg-name=""tvg-id="SkySport7.nz"tvg-logo="https://i.imgur.com/iuTNWh4.png"group-title="ESPORTE":http-referrer="":http-user-agent="",Sky Sport 7 nz(1080p)
-https://hls.sheepland.xyz/play/0/66?proxy=0
-#EXTINF:-1 tvg-name="WWE Youtube"tvg-id="ext"tvg-logo="https://i.imgur.com/pMo2FPJ.png"group-title="ESPORTE":http-referrer="":http-user-agent="",WWE Youtube
-https://ythls.armelin.one/channel/UCJ5v_MCY6GNUBTO8-D3XoAg.m3u8
 #EXTINF:-1 tvg-name="LA LIGA"tvg-id="ext"tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20240611T061844SQUARE.png"group-title="ESPORTE":http-referrer="":http-user-agent="",LA LIGA
 https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBD3600001Q1
 #EXTINF:-1 tvg-name="Deportes  Pluto TV Argentina"tvg-id="ext"tvg-logo="http://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png"group-title="ESPORTE":http-referrer="":http-user-agent="",Deportes  Pluto TV Argentina
@@ -2426,10 +2410,34 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="AmericaTelevision.pe@SD" ,America Television (1080p)
 http://38.183.182.166:8000/play/a0rb/index.m3u8
+#EXTINF:-1 group-title="PERU" tvg-id="GolPeru.pe@SD" ,Gol Peru (1080p)
+http://38.183.182.166:8000/play/a120/index.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="AmericaTelevision.pe@SD" ,America Television
 http://181.188.216.5:18000/play/a014/index.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="AmericaTelevision.pe@SD" ,America Television
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119960/americatv1/playlist.m3u8
+#EXTINF:-1 group-title="PERU" tvg-id="PanamericanaTV.pe@SD" ,Panamericana TV (1080p)
+http://38.183.182.166:8000/play/a0ii/index.m3u8
+#EXTINF:-1 group-title="PERU" tvg-id="TVPeru.pe@SD" ,TV Peru (1080p)
+http://38.183.182.166:8000/play/a12u/index.m3u8
+#EXTINF:-1 group-title="PERU" tvg-id="TVPeru.pe@SD" ,TV Peru (720p)
+http://181.188.216.5:18000/play/a0qn/index.m3u8
+#EXTINF:-1 group-title="PERU" tvg-id="TVPeruInternacional.pe@SD" ,TV Perú Internacional (1080p)
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+#EXTINF:-1 group-title="PERU" tvg-id="TVPeruNoticias.pe@SD" ,TV Peru Noticias (360p)
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
+#EXTINF:-1 group-title="PERU" tvg-id="TVSistemasCuzco.pe@SD" ,TV Sistemas Cuzco (360p) [Not 24/7]
+#EXTINF:-1 group-title="PERU" tvg-id="Latina.pe@SD" ,Latina (720p)
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
+#EXTINF:-1 group-title="PERU" tvg-id="TVUNO.pe@SD" ,TVUNO (720p)
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+#EXTINF:-1 group-title="PERU" tvg-id="VNP.pe@SD" ,VNP
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+#EXTINF:-1 group-title="PERU" tvg-id="WillaxTV.pe@SD" ,Willax TV (720p)
+http://38.183.182.166:8000/play/a0zn/index.m3u8
+#EXTINF:-1 group-title="PERU" tvg-id="Unitel.pe@SD" ,Unitel
+https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="AngienetTV.pe@SD" ,Angienet TV
 https://servilive.com:3624/stream/play.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="AntaresTelevision.pe@SD" ,Antares Televisión (720p) [Not 24/7]
@@ -2470,8 +2478,6 @@ https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="GlobalTV.pe@SD" ,Global TV
 http://181.188.216.5:18000/play/a0m5/index.m3u8
-#EXTINF:-1 group-title="PERU" tvg-id="GolPeru.pe@SD" ,Gol Peru (1080p)
-http://38.183.182.166:8000/play/a120/index.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="DiarioHechicera.pe@SD" ,Hechicera TV (720p)
 https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="ImpactoTelevision.pe@SD" ,Impacto Televisión (360p) [Not 24/7]
@@ -2488,8 +2494,6 @@ https://live-evg1.tv360.bitel.com.pe/bitel/karibeñatv/playlist.m3u8
 http://38.183.182.166:8000/play/a12t/index.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="LaTele.pe@SD" ,La Tele
 https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
-#EXTINF:-1 group-title="PERU" tvg-id="Latina.pe@SD" ,Latina (720p)
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="LatinaClasicos.pe@SD" ,Latina Clasicos
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="LikeTV.pe@SD" ,Like TV
@@ -2526,8 +2530,6 @@ https://tv.ondadigital.pe/ondadigital/index.m3u8
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="OvacionTV.pe@SD" ,Ovación TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 group-title="PERU" tvg-id="PanamericanaTV.pe@SD" ,Panamericana TV (1080p)
-http://38.183.182.166:8000/play/a0ii/index.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="PancTVPeru.pe@SD" ,Panc TV Peru (1080p)
 https://panel.host-live.com:19360/20000/20000.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="PBO.pe@SD" ,PBO (1080p)
@@ -2580,20 +2582,8 @@ https://servilive.com:3531/stream/play.m3u8
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="TVCosmos.pe@SD" ,TV Cosmos (720p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
-#EXTINF:-1 group-title="PERU" tvg-id="TVPeru.pe@SD" ,TV Peru (1080p)
-http://38.183.182.166:8000/play/a12u/index.m3u8
-#EXTINF:-1 group-title="PERU" tvg-id="TVPeru.pe@SD" ,TV Peru (720p)
-http://181.188.216.5:18000/play/a0qn/index.m3u8
-#EXTINF:-1 group-title="PERU" tvg-id="TVPeruInternacional.pe@SD" ,TV Perú Internacional (1080p)
-https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
-#EXTINF:-1 group-title="PERU" tvg-id="TVSistemasCuzco.pe@SD" ,TV Sistemas Cuzco (360p) [Not 24/7]
-https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
-#EXTINF:-1 group-title="PERU" tvg-id="TVUNO.pe@SD" ,TVUNO (720p)
-https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="UnifeTV.pe@SD" ,Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8
-#EXTINF:-1 group-title="PERU" tvg-id="Unitel.pe@SD" ,Unitel
-https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="UranioTV.pe@SD" ,Uranio TV (Yurimaguas) (720p) [Not 24/7]
 https://live.obslivestream.com/uraniotv/index.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="USMPTV.pe@SD" ,USMPTV
@@ -2608,12 +2598,6 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="VivaTVYurimaguas.pe@SD" ,Viva TV Yurimaguas (720p)
 https://live.obslivestream.com/vivatv/index.m3u8
-#EXTINF:-1 group-title="PERU" tvg-id="VNP.pe@SD" ,VNP
-https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
-#EXTINF:-1 group-title="PERU" tvg-id="WillaxTV.pe@SD" ,Willax TV (720p)
-http://38.183.182.166:8000/play/a0zn/index.m3u8
-#EXTINF:-1 group-title="PERU" tvg-id="TVPeruNoticias.pe@SD" ,TV Peru Noticias (360p)
-https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 #EXTINF:-1 tvg-name="Nature Time"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/76c1f7bf76617738201aa7ad7ca01972.webp"group-title="CANAIS EDUCATIVOS":http-referrer="":http-user-agent="",Nature Time
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal Libras"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/27a2726d6552746273d290a730ea6450.webp"group-title="CANAIS EDUCATIVOS":http-referrer="":http-user-agent="",Canal Libras
