@@ -2410,8 +2410,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="AmericaTelevision.pe@SD" ,America Television (1080p)
 http://38.183.182.166:8000/play/a0rb/index.m3u8
-#EXTINF:-1 group-title="PERU" tvg-id="GolPeru.pe@SD" ,Gol Peru (1080p)
+#EXTINF:-1 group-title="PERU" tvg-id="GolPeru.pe@SD" ,Gol Peru Futebol
 http://38.183.182.166:8000/play/a120/index.m3u8
+#EXTINF:-1 group-title="PERU" tvg-id="L1Max.pe@SD" ,L1 Max Futebol
+http://38.183.182.166:8000/play/a12t/index.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="AmericaTelevision.pe@SD" ,America Television
 http://181.188.216.5:18000/play/a014/index.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="AmericaTelevision.pe@SD" ,America Television
@@ -2429,6 +2431,9 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="TVSistemasCuzco.pe@SD" ,TV Sistemas Cuzco (360p) [Not 24/7]
 #EXTINF:-1 group-title="PERU" tvg-id="Latina.pe@SD" ,Latina (720p)
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+#EXTINF:-1 group-title="PERU" tvg-id="Teleselva.pe@SD" ,Teleselva
+https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
+#EXTINF:-1 group-title="PERU" tvg-id="Sistemas TV Cusco" ,Sistemas TV Cusco
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="TVUNO.pe@SD" ,TVUNO (720p)
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
@@ -2490,8 +2495,6 @@ https://servilive.com:3028/live/jntv19live.m3u8
 https://servilive.com:3224/live/jn19tv2live.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="Karibena.pe@SD" ,Karibena
 https://live-evg1.tv360.bitel.com.pe/bitel/karibeñatv/playlist.m3u8
-#EXTINF:-1 group-title="PERU" tvg-id="L1Max.pe@SD" ,L1 Max (1080p)
-http://38.183.182.166:8000/play/a12t/index.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="LaTele.pe@SD" ,La Tele
 https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="LatinaClasicos.pe@SD" ,Latina Clasicos
@@ -2568,8 +2571,6 @@ https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 https://live.obslivestream.com/supercanal/index.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="TelecolorYurimaguas.pe@SD" ,Telecolor Yurimaguas (720p) [Not 24/7]
 https://live.obslivestream.com/telecolormux/index.m3u8
-#EXTINF:-1 group-title="PERU" tvg-id="Teleselva.pe@SD" ,Teleselva
-https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="TelevisionTarapoto.pe@SD" ,Televisión Tarapoto (720p) [Not 24/7]
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:-1 group-title="PERU" tvg-id="TopTV.pe@SD" ,Top FM TV (240p) [Not 24/7]
