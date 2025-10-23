@@ -1860,6 +1860,10 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="AntenneReunion.fr"tvg-logo="https://i.imgur.com/EPIMMaB.png"group-title="FRANCA":http-referrer="":http-user-agent="",Antenne Réunion (720p) [Not 24/7]
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+#EXTINF:-1 tvg-name=""tvg-id="XploreTV.us"tvg-logo="https://i.imgur.com/WaGRlFO.png"group-title="Entertainment":http-referrer="":http-user-agent="",Xplore
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="YahooFinance.us"tvg-logo="https://i.imgur.com/43oHsHL.png"group-title="Business":http-referrer="":http-user-agent="",Yahoo! Finance (1080p)
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-name="Deustche Welle (DE)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dd20dc7ce12901f45a5f100a4cc97032.webp"group-title="CANAIS INTERNACIONAIS":http-referrer="":http-user-agent="",Deustche Welle (DE)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="TVZimbo.ao"tvg-logo="https://i.imgur.com/SFD8CBh.png"group-title="CANAIS INTERNACIONAIS":http-referrer="":http-user-agent="",TV Zimbo - Angola (1080p)
