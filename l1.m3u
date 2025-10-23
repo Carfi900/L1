@@ -1108,6 +1108,8 @@ https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 https://spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/500px-Estrella_TV_Logo_2020.png" ,Estrella News (spanish)
 https://estrellanews-glewed.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="TOP Barça Spain"tvg-id="ext"tvg-logo=""group-title="ESPANHA":http-referrer="":http-user-agent="",TOP Barça Spain
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-logo="https://cdn.startimestv.com/static/files/console/afa6535a-6819-46b8-bf53-e6ab2416fb47.jpg" ,Real Madrid TV (english)
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8?cp=en
 #EXTINF:-1 group-title="ESPANHA" tvg-logo="https://cdn.startimestv.com/static/files/console/afa6535a-6819-46b8-bf53-e6ab2416fb47.jpg" ,Real Madrid TV (english)
@@ -1118,6 +1120,10 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-logo="https://www.newslinereport.com/online/nota_dw-latinoamrica-pasa-a-llamarse-dw-espaol.jpg" ,DW Latino (spanish)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="ABC.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png"group-title="USA":http-referrer="":http-user-agent="",ABC TV
+http://41.205.93.154/ABC/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="MSNBC.us"tvg-logo="https://i.imgur.com/kGUR6NE.png"group-title="USA":http-referrer="":http-user-agent="",MSNBC
+http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="USA":http-referrer="":http-user-agent="",Bad Girls Club
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654932fa4d6d8f00084c4723/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce94-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b1b96db7-7e31-41b3-b84a-e4af6f3435f5
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="USA":http-referrer="":http-user-agent="",Bad Girls Club
