@@ -97,8 +97,6 @@ https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
 http://iptv.prosto.tv:7000/ch50/video.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Sochi Live" tvg-logo="" group-title="4K",Sochi Live
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Love Nature 4K" tvg-logo="" group-title="4K",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Red Bull⭐" tvg-logo="https://i.pinimg.com/originals/29/ec/0d/29ec0d8dbdd014a41f6c6039350ae24c.jpg" group-title="4K",Red Bull⭐
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AL-Jajira News 4k" tvg-logo="ext" group-title="4K",AL-Jajira News 4k
@@ -1084,6 +1082,10 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://crtvg-america.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-name="Galicia 2"tvg-id="ext"tvg-logo=""group-title="ESPANHA":http-referrer="":http-user-agent="",Galicia 2
 https://crtvg-events1.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Extremadura.png" ,Canal Extremadura (spanish)
+https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://pbs.twimg.com/media/DkVYaejX0AI7wJ5.jpg" ,Canal Málaga (spanish)
+http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-name="ETB Basque (ES)"tvg-id="ext"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c6b1bc17fcc7af36cf4c86087faa8765.webp"group-title="ESPANHA":http-referrer="":http-user-agent="",ETB Basque (ES)
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-name="ETB 1"tvg-id="ext"tvg-logo=""group-title="ESPANHA":http-referrer="":http-user-agent="",ETB 1
@@ -1100,6 +1102,22 @@ https://crtvg-europa.flumotion.cloud/playlist.m3u8
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/bitrate_7.m3u8
 #EXTINF:-1 tvg-name="TV3 CAT"tvg-id="ext"tvg-logo=""group-title="ESPANHA":http-referrer="":http-user-agent="",TV3 CAT
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/bitrate_7.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/arts/sony_novelas_1.jpg" ,Sony Canal Novelas (spanish)
+https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/arts/sony_novelas_1.jpg" ,Sony Canal Novelas (spanish)
+https://spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/500px-Estrella_TV_Logo_2020.png" ,Estrella News (spanish)
+https://estrellanews-glewed.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://cdn.startimestv.com/static/files/console/afa6535a-6819-46b8-bf53-e6ab2416fb47.jpg" ,Real Madrid TV (english)
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8?cp=en
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://cdn.startimestv.com/static/files/console/afa6535a-6819-46b8-bf53-e6ab2416fb47.jpg" ,Real Madrid TV (english)
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://cdn.startimestv.com/static/files/console/afa6535a-6819-46b8-bf53-e6ab2416fb47.jpg" ,Real Madrid TV (spanish)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://p.kindpng.com/picc/s/755-7557233_garage-tv-logo-png-transparent-png.png" ,Garage TV (spanish)
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://www.newslinereport.com/online/nota_dw-latinoamrica-pasa-a-llamarse-dw-espaol.jpg" ,DW Latino (spanish)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="USA":http-referrer="":http-user-agent="",Bad Girls Club
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654932fa4d6d8f00084c4723/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce94-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b1b96db7-7e31-41b3-b84a-e4af6f3435f5
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="USA":http-referrer="":http-user-agent="",Bad Girls Club
@@ -5517,7 +5535,7 @@ https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/63/301101/qi3_THE_BEST_O_483610.smil/playlist.m3u8
 #EXTINF:-1 tvg-name=" Midnight Secrets" tvg-logo="https://commons.wikimedia.org/wiki/File:Fashion_TV_logo.png" group-title="FashionTV",Midnight Secrets
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-#EXTINF:-1 tvg-name=" tvmoda1" tvg-logo="https://commons.wikimedia.org/wiki/File:Fashion_TV_logo.png" group-title="TEST",tvmoda1
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-#EXTINF:-1 tvg-name=" tvmoda2" tvg-logo="https://commons.wikimedia.org/wiki/File:Fashion_TV_logo.png" group-title="TEST",tvmoda2
-http://24hrs.homelinux.com:80/24H-todegraca/video.m3u8
+#EXTINF:-1 group-title="FashionTV" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/8c/ad/3e/8cad3ec9-c9fa-89ea-c60f-40e390f89b68/source/512x512bb.jpg" ,Fashion TV Midnite Secret
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+#EXTINF:-1 group-title="FashionTV" tvg-logo="https://tv.mobistream.co.za/uploads/jpg/6846a77181b9413836567c3ca8d9c57d.jpg" ,Fashion TV Midnite Secrets Adaptive
+https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
